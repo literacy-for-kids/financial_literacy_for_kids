@@ -19,20 +19,21 @@ This week connects the difficulties of barter directly to the invention of money
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Review the barter activity from Week 2 so you can reference what students experienced.
@@ -55,9 +56,9 @@ The key insight: **money is an agreement**, not a thing.
 
 ---
 
-## Guided Session 1
+## Session 1
 
-### The Problem With Barter
+### The Problem With Barter (About 20 Minutes)
 
 #### Learning Goal
 
@@ -144,9 +145,9 @@ When someone describes this, name it:
 
 ---
 
-## Guided Session 2
+## Session 2
 
-### What Money Actually Is
+### What Money Actually Is (About 20 Minutes)
 
 #### Learning Goal
 
@@ -244,9 +245,9 @@ Let them reason through it: trade would get confusing again. The whole point of 
 
 ---
 
-## Independent Session
+## Session 3
 
-### Introducing Currency
+### Introducing Currency (About 20 Minutes)
 
 #### Instruction
 
@@ -357,6 +358,51 @@ This distinction matters because it helps students later understand concepts lik
 - Focus on discussion and reasoning rather than speed or winning.
 - Ask students to explain *why* tokens made things easier, in their own words.
 - Highlight that money only works because **everyone agrees** to accept it.
+- Connect to the idea that **people earn money by providing something valuable to others** — the farmer earns tokens by selling apples that other people want. Money does not appear from nowhere; someone earned it by creating or offering value.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Focus on the token activity — hands-on experience matters more than discussion at this age.
+- Keep the barter-to-money comparison simple: "Was it easier with tokens? Why?"
+- Use the analogy of money as a language — everyone agrees on what the words mean.
+- Skip the historical money section if attention is limited; come back to it another day.
+
+**Ages 10–12:**
+- Spend more time on the "What Would You Invent?" discovery moment — let them reason through the design of money.
+- Discuss the four qualities of good money (accepted, portable, durable, hard to fake) and ask which qualities matter most.
+- Challenge them to think about what would happen if two towns used different kinds of money.
+- Ask: "Is money a thing or an idea?" and let them debate.
+
+---
+
+## Check for Understanding
+
+1. Why did barter become difficult in larger communities?
+2. What problem did money solve?
+3. Is a dollar bill valuable because of the paper it is made of? If not, why is it valuable?
+4. Name two things money allows people to do that barter does not. (Examples: save value for later, trade with anyone, compare prices.)
+5. What would happen if only half the people in a town agreed to accept the same money?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Explain** why barter becomes difficult when groups get larger
+- **Describe** money as a shared agreement — a tool that works because everyone accepts it
+- **Compare** the barter simulation to the token-based trading experience
+- **Identify** historical objects that have been used as money and explain why
+- **Apply** the idea that money solves the "double coincidence of wants" problem
+
+---
+
+## Reflection Prompt
+
+> *"If you could design your own money for your school or neighborhood, what would you make it out of? What qualities would it need to have for everyone to trust it?"*
 
 ---
 

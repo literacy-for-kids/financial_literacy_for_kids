@@ -21,20 +21,21 @@ The best solutions are not necessarily the most complicated or expensive. They a
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Have students bring (or recall) the problem they selected during the Week 15 Problem Finder activity. If a student does not have one, they can choose a new problem at the start of the session.
@@ -63,7 +64,9 @@ Remind students that nearly every successful product or business started as a ro
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### From Problem to Solution
 
@@ -183,7 +186,9 @@ Ask:
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Improving Ideas
 
@@ -289,7 +294,9 @@ Wrap up with an encouraging message:
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### Design Your Solution
 
@@ -425,6 +432,52 @@ Students do not need a finished, polished idea this week. They need a **clear** 
 - Celebrate the feedback process. When a student's idea improves because of a classmate's suggestion, point it out. "Did you notice how Mia's idea got even better after Jake asked that question? That is what feedback does."
 - Reassure students who feel stuck. Some students will struggle to design a solution, and that is normal. Encourage them to start with the problem and ask: "If you could wave a magic wand and make this problem disappear, what would change? Now, what is one small step toward that change?"
 - Connect to real examples when possible. If a student is designing a homework tracker, mention that real companies have built similar tools. If someone is designing an organizer, point out that entire stores are dedicated to organization products. Their ideas are not "just kid ideas" — they are the same kinds of ideas that real businesses are built on.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Simplify to three key questions: "What is the problem?", "What is your idea?", "Who does it help?"
+- Focus on drawing the solution rather than writing detailed descriptions.
+- Let learners explain their idea verbally while an adult writes down their words.
+- Keep the feedback round gentle — ask "What do you like about this idea?" before "What could be better?"
+- Use familiar product examples: a better lunchbox, a toy organizer, a game that teaches something.
+
+**Ages 10–12:**
+- Encourage more detailed solution descriptions with the full set of design questions.
+- Add a "competitor check": does a similar solution already exist? How is theirs different or better?
+- Challenge them to think about who their "customer" would be and what that person would value most.
+- Introduce the idea of iteration: "Great ideas almost never start great — they get better through feedback."
+- Have them present their solution in 30 seconds and practice getting to the point.
+
+---
+
+## Check for Understanding
+
+1. What is the difference between a product and a service?
+2. Why is it important to describe your solution clearly before building it?
+3. How does feedback make an idea better?
+4. What are the four key questions every solution should answer? (What problem? Who benefits? How does it work? What do you need?)
+5. How did your solution idea change after getting feedback?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Describe** their solution clearly: what it is, who it helps, and how it works
+- **Distinguish** between a product and a service
+- **Give** constructive feedback on another learner's solution idea
+- **Revise** their own idea based on feedback received
+- **Connect** their solution to a real problem identified in Week 15
+
+---
+
+## Reflection Prompt
+
+> *"Did your solution idea change after talking about it with someone else? What changed, and why? What does that teach you about sharing ideas early?"*
 
 ---
 

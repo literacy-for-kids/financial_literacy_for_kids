@@ -25,20 +25,21 @@ The week ends with the **Value Showcase** — where every student presents their
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Have students bring all materials from the Value Creation Project:
@@ -74,7 +75,9 @@ This is also a moment to look back at the full 18-week journey. Help students se
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### Explaining Value
 
@@ -179,7 +182,9 @@ After the practice round, ask:
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Value and Trade
 
@@ -280,7 +285,9 @@ Draw or describe a simple loop:
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### Present Your Idea — The Value Showcase
 
@@ -435,6 +442,52 @@ The curriculum reflection at the end is equally important. Students rarely get t
 - Let the reflection breathe. Do not rush the final discussion. If students are sharing genuinely — talking about what surprised them, what they learned, what they want to explore next — let it continue. This is the payoff for 18 weeks of curiosity-driven learning.
 - End on a forward-looking note. Financial literacy is not a subject that ends when the curriculum does. Encourage students to keep noticing, keep questioning, and keep thinking about value, money, and trade in their everyday lives. The mental models they have built will continue to serve them for years.
 - Thank the students. They showed up, they thought hard, they created something. That deserves a genuine thank-you.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Simplify the presentation to: "Tell us your problem, your idea, and one thing you are proud of."
+- Let learners hold up drawings rather than reading written descriptions.
+- Keep presentations to 1–2 minutes maximum.
+- Focus the feedback round on positive comments: "What did you like about this idea?"
+- For the curriculum reflection, use simple prompts: "What was your favorite week?" and "What did you learn about money?"
+
+**Ages 10–12:**
+- Encourage more structured presentations: problem, solution, resources needed, who it helps.
+- Add a Q&A round: audience members can ask one question about each project.
+- Challenge them to give a 60-second "pitch" version of their project.
+- Use the full reflection question set and encourage written responses.
+- Ask: "If you continued working on this project, what would you do next?"
+
+---
+
+## Check for Understanding
+
+1. Why is it important to share your solution with others, not just keep it in a notebook?
+2. What is the connection between creating value and trade?
+3. What was the most important thing you learned about money during this curriculum?
+4. How did you use budgeting, opportunity cost, or other earlier concepts in your final project?
+5. What would you do differently if you started the Value Creation Project over?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Present** their Value Creation Project clearly: the problem, the solution, and the resources needed
+- **Explain** how their project creates value for someone else
+- **Connect** their project to at least two concepts from earlier in the curriculum
+- **Give** thoughtful feedback on another learner's project
+- **Reflect** on their learning journey and identify what surprised them or what they want to learn more about
+
+---
+
+## Reflection Prompt
+
+> *"If you could go back to Week 1 and tell yourself one thing about money that you know now, what would it be? Why?"*
 
 ---
 

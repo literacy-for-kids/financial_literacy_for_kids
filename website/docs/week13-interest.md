@@ -21,20 +21,21 @@ This is one of the most powerful ideas in finance: **time changes the value of m
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Think of a simple example of interest that you can share:
@@ -60,7 +61,9 @@ Keep the numbers simple and the focus on the pattern: a little extra, added agai
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### Earning Interest
 
@@ -155,7 +158,9 @@ The point is not to calculate exact answers — it is to see the pattern: **time
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Paying Interest When Borrowing
 
@@ -259,7 +264,9 @@ Key insight:
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### Money Over Time
 
@@ -409,6 +416,58 @@ The borrowing discussion in Session 2 is equally important. Students should leav
 - Avoid the word "compound" unless using the advanced variant. For most 8–12 year olds, the flat interest model is more than sufficient. The advanced variant is there for students who are ready.
 - Connect to real decisions. "If your grandparent gives you birthday money, what might happen if you save it in a bank versus spending it right away?"
 - Balance both sides of interest. Do not make saving sound perfect or borrowing sound bad. Both are tools — and understanding when to use each one is the real skill.
+
+---
+
+:::note Simplified Model Note
+This lesson presents interest at a simplified level appropriate for ages 8–12. In reality, interest rates vary enormously — savings accounts may earn very little, while loans can carry high costs. Compound interest, credit scores, APR, and the difference between simple and compound interest are all important concepts that learners will encounter later. For now, the essential idea is: **time changes the value of money — it can grow when saved, or cost more when borrowed.** If a learner asks about specific rates or credit cards, keep it simple: "Interest rates are different depending on the situation. The most important thing to know now is that saving earns and borrowing costs."
+:::
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Use the flat interest model ($0.50 per round) rather than percentages.
+- Focus on the visual: watching the pile grow round by round.
+- Simplify borrowing to: "If you borrow $10, you might have to pay back $12."
+- Skip compound interest entirely — the flat model is powerful enough.
+- Let learners count their play money tokens physically to see growth.
+
+**Ages 10–12:**
+- Introduce the percentage-based model (10% per round) and let them calculate.
+- Challenge them to compare an early saver vs. a late saver using a chart.
+- Discuss: "If saving earns money and borrowing costs money, when does it make sense to borrow?"
+- Introduce the idea that different accounts have different interest rates.
+- Ask: "Why do you think banks pay you interest for saving? What do they get out of it?"
+
+---
+
+## Check for Understanding
+
+1. What is interest, in simple terms?
+2. How does interest reward saving?
+3. How does interest make borrowing more expensive?
+4. If you save $10 and earn $0.50 in interest each round, how much do you have after 5 rounds?
+5. Why does starting to save early make such a big difference over time?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Define** interest as extra money earned from saving or owed from borrowing
+- **Describe** how money grows over time through interest
+- **Explain** why someone who borrows money pays back more than they received
+- **Compare** outcomes for early savers versus late savers
+- **Recognize** that time is one of the most powerful forces in finance
+
+---
+
+## Reflection Prompt
+
+> *"If someone offered you $100 today or $120 a year from now, which would you choose? Why? What if the wait was 10 years — would your answer change?"*
 
 ---
 

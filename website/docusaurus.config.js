@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Financial Literacy Curriculum for Kids',
-  tagline: 'A comprehensive 18-week program to introduce young learners to essential financial skills',
+  title: 'Financial Literacy for Kids',
+  tagline: 'A free, open 18-week curriculum that teaches ages 8–12 how money and financial systems actually work',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

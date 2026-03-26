@@ -25,20 +25,21 @@ These ideas prepare students to understand how money moves through everyday life
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare a whiteboard or poster for the Needs vs. Wants sorting activity.
@@ -62,9 +63,9 @@ The goal is for students to **notice** that money decisions involve priorities a
 
 ---
 
-## Guided Session 1
+## Session 1
 
-### Needs and Wants
+### Needs and Wants (About 20 Minutes)
 
 #### Learning Goal
 
@@ -158,9 +159,9 @@ This helps students see that the **basic version** may be a need, but the **upgr
 
 ---
 
-## Guided Session 2
+## Session 2
 
-### Fixed and Flexible Spending
+### Fixed and Flexible Spending (About 20 Minutes)
 
 #### Learning Goal
 
@@ -261,9 +262,9 @@ Let the student share. There are no wrong answers — the point is to recognize 
 
 ---
 
-## Independent Session
+## Session 3
 
-### Build a Household Budget
+### Build a Household Budget (About 20 Minutes)
 
 #### Instruction
 
@@ -376,6 +377,51 @@ This week is not about teaching "the right way" to budget. It is about helping s
 - Emphasize that different households have different situations. A family with a long commute will spend more on transportation.
 - Use the "Surprise Expense" step — it is the most powerful teaching moment. Unexpected costs force real tradeoffs.
 - Avoid moralizing about spending. The goal is awareness, not judgment.
+- Thread the earning connection: when introducing household income, mention that the money families spend was **earned** by someone — through work, effort, skills, or providing goods and services. This reinforces that money is connected to creating value for others.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Keep the needs-vs-wants sorting concrete — use items they encounter daily (food, toys, clothes).
+- Simplify the budget activity by reducing categories to 3–4 instead of 6.
+- Let learners draw their "spending pie" rather than writing numbers.
+- Discuss tradeoffs using two-option comparisons rather than multi-option scenarios.
+
+**Ages 10–12:**
+- Encourage learners to think about "gray zones" — items that are partly a need and partly a want.
+- Introduce the difference between fixed and flexible spending with more detail.
+- Have them create budgets with more realistic numbers and more categories.
+- Ask: "How do families decide what matters most when they cannot afford everything?"
+
+---
+
+## Check for Understanding
+
+1. What is the difference between a need and a want?
+2. Can something be a need for one person but a want for another? Give an example.
+3. What are "fixed costs"? Give two examples.
+4. What is a tradeoff? Describe one you have experienced.
+5. Why do families sometimes have to give up things they want?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Explain** the difference between needs and wants with examples
+- **Sort** everyday items into needs and wants, and explain their reasoning
+- **Describe** the difference between fixed costs and flexible spending
+- **Identify** a tradeoff in a realistic scenario
+- **Apply** budgeting thinking by distributing a fixed amount across categories
+
+---
+
+## Reflection Prompt
+
+> *"If your family had to cut one thing from its spending this month, what would be the hardest thing to give up? What would be the easiest? Why?"*
 
 ---
 

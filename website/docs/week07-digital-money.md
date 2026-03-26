@@ -19,20 +19,21 @@ Students learn that modern financial systems depend heavily on **digital informa
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare a whiteboard, poster, or chart paper for the Digital Ledger activity (see Independent Session).
@@ -57,7 +58,9 @@ Use concrete analogies. A bank balance is like a score in a game — the score i
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### Where Money Lives Today
 
@@ -156,7 +159,9 @@ The answer: **not really**. The bank has some cash, but Maya's money is mostly j
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Moving Digital Money
 
@@ -257,7 +262,9 @@ Compare it to something familiar:
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### The Digital Ledger
 
@@ -384,6 +391,58 @@ The Digital Ledger activity is the most important part of this week. Students ph
 - Emphasize the accuracy test at the end of the ledger activity. If the numbers do not add up, it shows exactly why record-keeping matters.
 - Connect to everyday life: "When your parent checks their bank balance on a phone, they are looking at a ledger — just like the one we built."
 - Avoid going deep into how banking networks or encryption work. The mental model — "money is information tracked by systems" — is enough for this stage.
+- **Consumer awareness note:** As learners explore digital money, gently introduce the idea that digital payments can make it harder to notice how much you are spending. Unlike handing over cash, tapping a phone does not create the same feeling of "spending." This connects directly to next week's lesson on friction.
+
+---
+
+:::note Simplified Model Note
+This lesson introduces digital money at a level appropriate for ages 8–12. In reality, the systems behind digital transactions (bank networks, encryption, authorization protocols) are complex. For this age group, the key insight is: **digital money is real money** — it simply moves electronically instead of physically. You do not need to explain the technical infrastructure. If a learner asks how it works "under the hood," encourage the curiosity and suggest it is a great topic to explore as they get older.
+:::
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Focus on the basic idea: money can exist as numbers on a screen, and it is just as real as coins.
+- Use the "invisible relay" activity but keep it to 2–3 steps.
+- Skip detailed comparisons of banks vs. apps — just introduce the idea that money can be sent with a phone.
+- Ask: "If you cannot see or touch the money, how do you know it is there?"
+
+**Ages 10–12:**
+- Explore how banks track digital money and why records matter.
+- Discuss the difference between a bank account and a payment app.
+- Challenge them: "What would happen if the system that keeps track of digital money made a mistake?"
+- Introduce the idea of digital receipts and why keeping records is important.
+- Ask: "Is there anything digital money can do that cash cannot?"
+
+---
+
+## Check for Understanding
+
+1. Is digital money real money? Why or why not?
+2. How is paying with a phone different from paying with cash?
+3. What happens to your bank account when you buy something with a debit card?
+4. Why is it important that digital transactions are recorded?
+5. What is one advantage and one disadvantage of digital money compared to cash?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Explain** that digital money is real money represented by numbers and records
+- **Describe** a simple digital transaction in their own words
+- **Compare** at least one advantage and one disadvantage of digital vs. physical money
+- **Recognize** that all digital transactions leave a record
+- **Connect** digital money to physical money as different forms of the same thing
+
+---
+
+## Reflection Prompt
+
+> *"Imagine all digital money disappeared tomorrow and everyone had to use cash again. What would be the hardest thing about that? What might actually be easier?"*
 
 ---
 

@@ -21,20 +21,21 @@ This week, students practice that first step. They become **problem finders** �
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Think of a few examples of businesses or products that were created to solve simple problems:
@@ -61,7 +62,9 @@ Encourage every observation, no matter how small. A messy desk, a tangled cord, 
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### What Is a Problem Worth Solving?
 
@@ -158,7 +161,9 @@ Most answers will be yes. The point clicks:
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Creating Value for Others
 
@@ -261,7 +266,9 @@ Let students share. This is a preview of the project they will be developing ove
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### The Problem Finder
 
@@ -398,6 +405,52 @@ The problem each student selects at the end of this week will carry forward into
 - Validate every problem. If a student says "my shoelaces always come untied," that is a real problem millions of people share. Do not dismiss small frustrations — they are where many great ideas begin.
 - Connect to real entrepreneurs. If possible, share a brief story of a business that started from a simple observation. Sticky notes, Velcro, and wheeled suitcases all came from someone noticing a small everyday problem.
 - Remind students that the solution does not need to be perfect. This week is about finding the problem. Next week is about designing the solution. One step at a time.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Focus on problems in their immediate environment: home, school, playground.
+- Simplify brainstorming to 3 problems instead of 5.
+- Let learners draw their problems and solution ideas rather than writing full descriptions.
+- Use a guided walk: "Let's walk around and point at things that are annoying or could be better."
+- Keep the "who else has this problem?" discussion brief — at this age, personal experience is enough.
+
+**Ages 10–12:**
+- Encourage learners to think about problems in their community, not just their home.
+- Add a "who would pay for this?" column to the brainstorm — gently introducing market thinking.
+- Challenge them to rank their problems by impact: "Which problem affects the most people?"
+- Ask: "Is a problem that bugs you more important or less important than a problem that bugs 100 people?"
+- Encourage longer observation periods — finding problems over a full day produces richer ideas.
+
+---
+
+## Check for Understanding
+
+1. Where do most business ideas come from?
+2. Why is observation an important skill for creating value?
+3. What makes a problem "worth solving"?
+4. Give an example of a product or service that was created to solve a simple everyday problem.
+5. What problem did you choose to explore, and why?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Identify** at least three real problems or frustrations in their everyday environment
+- **Explain** why observation is the first step in creating value
+- **Select** one problem to carry forward into the design phase
+- **Describe** their chosen problem clearly enough for someone else to understand it
+- **Connect** problem-finding to the idea that businesses exist to solve people's problems
+
+---
+
+## Reflection Prompt
+
+> *"What is one problem you noticed this week that you had never paid attention to before? Why do you think you noticed it now, when you had not noticed it before?"*
 
 ---
 

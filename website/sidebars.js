@@ -15,6 +15,7 @@ const sidebars = {
         'week02-trade-and-barter',
         'week03-why-money-exists',
         'week04-the-household-economy',
+        'checkpoint-1',
       ],
     },
     {
@@ -26,6 +27,7 @@ const sidebars = {
         'week06-ways-we-pay',
         'week07-digital-money',
         'week08-friction-and-spending',
+        'checkpoint-2',
       ],
     },
     {
@@ -36,6 +38,7 @@ const sidebars = {
         'week09-opportunity-cost',
         'week10-budgeting',
         'week11-risk-and-emergency-funds',
+        'checkpoint-3',
       ],
     },
     {
@@ -46,6 +49,7 @@ const sidebars = {
         'week12-banks',
         'week13-interest',
         'week14-inflation',
+        'checkpoint-4',
       ],
     },
     {
@@ -57,9 +61,11 @@ const sidebars = {
         'week16-designing-a-solution',
         'week17-resources-and-costs',
         'week18-sharing-value',
+        'checkpoint-5',
+        'capstone-rubric',
       ],
     },
-    'curriculum-master',
+    'curriculum-overview',
   ],
 };
 

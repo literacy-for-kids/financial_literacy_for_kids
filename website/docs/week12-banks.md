@@ -19,20 +19,21 @@ Banks are like the record-keeping system of the financial world. Every deposit, 
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Think of simple examples of how you interact with a bank:
@@ -58,7 +59,9 @@ Keep the tone curious. Banks are fascinating systems when you look at what they 
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### Why Banks Exist
 
@@ -154,7 +157,9 @@ Let students discuss. The point is clear: **accurate recordkeeping is what makes
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Moving Money Between Accounts
 
@@ -256,7 +261,9 @@ Guide students toward these ideas:
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### The Classroom Bank
 
@@ -390,6 +397,57 @@ This is also the first week of the Economic Systems unit. Students are shifting 
 - Avoid getting into banking regulations, fees, or lending details. Those topics come later. This week is about the **fundamental role**: store, track, move.
 - Connect to earlier weeks. In Week 7, students learned that most money is digital. This week, they learn **where** that digital money lives — in bank records.
 - Ask students to notice banks in daily life. "Next time your family pays for something with a card, think about which records are being updated."
+
+---
+
+:::note Simplified Model Note
+This lesson presents a simplified view of banking appropriate for ages 8–12. Real banks are far more complex — they lend money, invest, operate under strict regulations, charge various fees, and interact with government agencies. For this age group, the essential idea is that **banks are trusted systems that store, track, and move money**. If a learner asks about loans, credit cards, or "what banks do with our money," encourage the curiosity but keep the answer simple: "That is a great question — banks do a lot of things. The most important thing to understand now is that they keep very careful records of everyone's money."
+:::
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Focus on the bank as a "safe place to keep money" and a system that "remembers how much you have."
+- Use the Classroom Bank activity with physical play money — the tangible experience matters.
+- Skip the detailed discussion of how banks move money between institutions.
+- Ask: "Why is a bank safer than keeping money under your bed?"
+
+**Ages 10–12:**
+- Explore the idea of digital banking — how most bank interactions happen through apps and computers.
+- Discuss ATMs, online banking, and direct deposit as examples of how banks serve people.
+- Challenge them: "If a bank tracks millions of accounts, what would happen if their computers crashed?"
+- Introduce the concept of bank fees and ask whether they seem fair.
+- Ask: "Why do you think people trust banks with their money?"
+
+---
+
+## Check for Understanding
+
+1. What is the main job of a bank?
+2. How does a bank keep track of how much money each person has?
+3. What happens to a bank's records when you use a debit card to buy something?
+4. Why is accuracy so important in banking?
+5. What is the connection between the bank ledger activity we did and the digital money lesson from Week 7?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Describe** the basic function of a bank: store money safely and keep accurate records
+- **Explain** what a ledger is and how it tracks deposits, withdrawals, and transfers
+- **Connect** the classroom bank activity to real banking systems
+- **Recognize** that trust and accuracy are essential to how banks work
+- **Relate** this week's lesson to the digital money concepts from Week 7
+
+---
+
+## Reflection Prompt
+
+> *"If you were put in charge of a bank for a day, what would be the most important thing you would have to do? What would worry you the most?"*
 
 ---
 

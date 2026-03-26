@@ -21,20 +21,21 @@ Understanding inflation connects everything students have learned so far: why sa
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Think of a few real-world examples of prices that have changed over time:
@@ -60,7 +61,9 @@ Keep the tone curious: "Isn't it interesting that things used to cost less?" rat
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### When Prices Change
 
@@ -148,7 +151,9 @@ Ask:
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Money and Changing Value
 
@@ -240,7 +245,9 @@ The key insight:
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### The Price Timeline
 
@@ -362,6 +369,58 @@ The Price Timeline activity makes this abstract concept concrete. When a student
 - Make the family interview optional but encouraged. When a grandparent says "I used to buy a candy bar for a quarter," inflation becomes real in a way no textbook can replicate.
 - Emphasize that inflation is **normal**. Prices have been rising for centuries. It is not something to fear — it is something to understand and plan for.
 - Revisit the mattress example. "If you just hid money and never saved it in a bank, what would happen over 20 years?" This simple question captures the entire lesson.
+
+---
+
+:::note Simplified Model Note
+This lesson presents inflation at a level appropriate for ages 8–12. In reality, inflation is driven by many complex factors — monetary policy, supply chains, global events, labor markets, and more. Economists debate the causes and consequences constantly. For this age group, the essential idea is: **prices tend to rise over time, which means the same amount of money buys less in the future.** This is enough to explain why saving, earning interest, and planning ahead matter. If a learner asks "Why do prices go up?" keep it simple: "There are many reasons, and even experts disagree about exactly why. The important thing is to understand that it happens and to plan for it."
+:::
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Focus on concrete comparisons: "A candy bar used to cost $0.25 and now costs $1.50."
+- Use the family interview activity if possible — stories from grandparents make inflation real.
+- Skip the calculation challenges — focus on the visual timeline.
+- Ask: "If prices keep going up, what should people do with their savings?"
+- Keep the tone light and curious, not alarming.
+
+**Ages 10–12:**
+- Introduce the calculation challenge: "If prices double every 20 years..."
+- Discuss how inflation connects to interest: saving needs to earn interest to keep up.
+- Challenge them to think about wages: "Do people usually earn more money as time goes on? Why?"
+- Explore the "mattress test": what happens to $100 hidden at home for 30 years?
+- Ask: "Is inflation always bad? Could rising prices ever be a sign of something good?" (Hint: a growing economy.)
+
+---
+
+## Check for Understanding
+
+1. What is inflation?
+2. What is purchasing power, and how does inflation affect it?
+3. If a movie ticket cost $5 ten years ago and costs $10 today, what happened?
+4. Why does inflation make it important to save money in a way that earns interest?
+5. How does inflation connect to what you learned about interest last week?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Define** inflation as prices rising over time
+- **Explain** that inflation means the same amount of money buys less in the future
+- **Compare** what a specific amount of money could buy at different points in time
+- **Connect** inflation to the importance of saving and earning interest
+- **Recognize** that financial planning needs to account for the fact that prices change
+
+---
+
+## Reflection Prompt
+
+> *"Ask a parent, grandparent, or older person: 'What did your favorite food cost when you were my age?' Compare their answer to today's price. What does that tell you about money and time?"*
 
 ---
 

@@ -21,20 +21,21 @@ Students who understand this idea learn one of the most stabilizing habits in pe
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Think of a personal example of an unexpected event that cost money — it does not need to be dramatic:
@@ -60,7 +61,9 @@ Keep the tone confident and practical. The message is: "Surprises happen to ever
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### When Plans Change
 
@@ -152,7 +155,9 @@ Let students share their examples. Then connect back:
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Building a Financial Buffer
 
@@ -267,7 +272,9 @@ Students might think of: homework in a separate folder, sports equipment in its 
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### The Unexpected Event
 
@@ -396,6 +403,52 @@ This also closes the loop on the unit's three big ideas:
 - Celebrate the contrast in Round 2. When students realize their regular budget is untouched because the emergency fund absorbed the cost, that moment of relief is the most memorable part of the lesson.
 - Discuss rebuilding. After using an emergency fund, people need to rebuild it. This teaches that emergency savings are not a one-time thing — they are an ongoing habit.
 - Avoid specific dollar amounts for "real" emergency funds. The lesson is about the concept, not a specific number. Different families have different situations, and the goal is understanding the principle.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Keep the concept simple: "Sometimes things break or go wrong, and we need extra money to fix them."
+- Use familiar examples: a toy breaks, rain ruins a plan, a pet needs medicine.
+- Focus on the physical experience of Round 1 vs. Round 2 — the feeling of relief is the lesson.
+- Simplify the budget to 3 categories and use round numbers.
+- Let learners draw what "surprised" them (the event) and what "saved" them (the fund).
+
+**Ages 10–12:**
+- Discuss more complex scenarios: car repairs, medical bills, job changes.
+- Challenge them to calculate how long it would take to rebuild an emergency fund after using it.
+- Introduce the idea that emergency funds should cover a certain number of months of expenses.
+- Ask: "What qualifies as an emergency? Is a sale on something you want an emergency?"
+- Discuss: "Why is it tempting to spend your emergency fund on non-emergencies?"
+
+---
+
+## Check for Understanding
+
+1. What is an emergency fund?
+2. Why is an emergency fund a separate category from regular savings?
+3. What happened in Round 1 when a surprise expense hit without an emergency fund?
+4. How did the outcome change in Round 2 when an emergency fund was available?
+5. After someone uses their emergency fund, what should they do next?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Define** an emergency fund as money saved for unexpected expenses
+- **Explain** why unexpected events are normal, not unusual
+- **Compare** the impact of a surprise expense with and without a financial buffer
+- **Describe** how an emergency fund protects the rest of a budget
+- **Recognize** that emergency funds need to be rebuilt after use
+
+---
+
+## Reflection Prompt
+
+> *"Think about a time something unexpected happened in your family. It does not have to be about money — just something nobody planned for. How did your family handle it? What made it easier or harder?"*
 
 ---
 

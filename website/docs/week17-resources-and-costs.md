@@ -21,20 +21,21 @@ This week, students learn to think about **inputs** (what goes into creating som
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Have students bring (or recall) the solution design they created during Week 16. If a student does not have one ready, they can use one of the class examples or design a quick idea at the start of the session.
@@ -63,7 +64,9 @@ Connect this week explicitly to the budgeting and opportunity cost lessons from 
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### Inputs and Resources
 
@@ -180,7 +183,9 @@ Discussion questions:
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Costs and Budgeting
 
@@ -309,7 +314,9 @@ Invite a few students to share with the group. Highlight creative resource decis
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### Build a Project Budget
 
@@ -473,6 +480,64 @@ Watch for the "aha" moment when students realize they are over budget and need t
 - Avoid perfection in the numbers. Estimated costs do not need to be accurate to the penny. If a student says "I think poster board costs about $2," that is close enough. The point is the process of thinking about costs, not getting the arithmetic right.
 - Let students feel the constraint. It is tempting to give students a bigger budget so they do not struggle. Resist that urge. The struggle of being over budget and needing to make hard choices is where the deepest learning happens. A tight budget forces creativity.
 - Remind students that real businesses face the same challenge. Every company, every entrepreneur, every creator in the world deals with limited resources. The students are not doing a "kid exercise" — they are practicing the exact same skill that adults use every day.
+
+---
+
+:::tip Low-Resource Adaptation
+Not every learner has access to play money, poster boards, or craft supplies. This lesson works just as well with:
+
+- **Pencil and paper only** — learners list resources and estimate costs in a simple table
+- **Verbal planning** — the facilitator walks through the budget as a conversation, no materials needed
+- **Imaginary budgets** — learners plan what they *would* need rather than what they *have*, focusing on the thinking process
+
+The goal is the **planning skill**, not the physical materials. A learner who can describe their resource needs and make tradeoffs verbally has achieved the learning goal just as effectively as one who used play money and worksheets.
+:::
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Simplify categories to three: "Things I Need to Buy," "Things I Already Have," "Time It Takes."
+- Use a smaller budget ($5) and fewer resource items.
+- Focus on the concept of choosing between options rather than exact math.
+- Let learners draw their resources rather than listing them in a table.
+- Keep the tradeoff discussion to one clear example: "You can afford markers OR poster board — which one?"
+
+**Ages 10–12:**
+- Use more realistic resource lists and prices.
+- Add a "revenue" row: if they could sell or charge for their solution, how much?
+- Challenge them to compare multiple budget amounts ($5 vs. $10 vs. $20) and see how constraints change decisions.
+- Discuss the difference between "nice to have" and "must have" resources.
+- Ask: "What would a real business do if they ran out of budget? Give up, or find creative alternatives?"
+
+---
+
+## Check for Understanding
+
+1. What are "resources"? Name three types of resources someone might need for a project.
+2. Why do creators need to think about costs before building something?
+3. What happens if a project's costs are higher than the budget?
+4. How is a project budget similar to a personal budget? (Connect to Week 10.)
+5. What tradeoff did you make in your project budget, and why?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **List** the resources needed for their project (materials, time, effort)
+- **Estimate** approximate costs for those resources
+- **Create** a simple project budget that fits within a limit
+- **Make** tradeoff decisions when resources are limited
+- **Connect** this budgeting exercise to the budgeting and opportunity cost concepts from earlier weeks
+
+---
+
+## Reflection Prompt
+
+> *"What was the hardest tradeoff you had to make in your project budget? If you had twice the budget, what would you add first? Why?"*
 
 ---
 

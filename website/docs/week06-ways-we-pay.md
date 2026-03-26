@@ -19,20 +19,21 @@ The tool used to pay does not change the underlying idea of trade — but it can
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Gather examples of different payment methods to show or discuss:
@@ -59,9 +60,9 @@ Keep things concrete and familiar. Avoid explaining banking infrastructure — t
 
 ---
 
-## Guided Session 1
+## Session 1
 
-### Cash and Physical Payments
+### Cash and Physical Payments (About 20 Minutes)
 
 #### Learning Goal
 
@@ -146,9 +147,9 @@ Let students brainstorm. This sets up the next session naturally.
 
 ---
 
-## Guided Session 2
+## Session 2
 
-### Cards and Digital Payments
+### Cards and Digital Payments (About 20 Minutes)
 
 #### Learning Goal
 
@@ -250,9 +251,9 @@ This is an interesting question. Many students (and adults!) will say it feels d
 
 ---
 
-## Independent Session
+## Session 3
 
-### Payment Method Comparison
+### Payment Method Comparison (About 20 Minutes)
 
 #### Instruction
 
@@ -341,22 +342,62 @@ Add a fifth column: "What could go wrong with this method?" to explore risks lik
 ## Facilitator Notes
 
 :::tip Purpose of This Lesson
-Students are learning that payment tools are simply **methods for moving money**.
+This lesson helps learners understand that payment methods are just different tools for the same fundamental action: moving money from one person to another.
 
-This might seem obvious to adults, but for children who have grown up watching taps, swipes, and app purchases, the connection between a phone tap and actual money moving is not always clear. Many kids do not realize that a card or phone purchase involves real money leaving a real account.
-
-The most important takeaway: **every payment, no matter the tool, is money moving from one place to another.** The tool changes the experience — how fast it feels, how visible it is, how much you notice it — but the underlying exchange is the same.
-
-This understanding sets up Week 7, where students will explore how the speed and ease of modern payments can change the way people think about spending.
+The key insight is not which method is "best" — it is that the **tool changes how spending feels**, even when the value stays the same. This sets up next week's lesson on friction and spending, where students will explore how the speed and ease of payment affects decision-making.
 :::
 
 **Encourage facilitators to:**
 
-- Ask students what they have **observed** in real life. Most have watched adults tap cards or use phones to pay.
-- Avoid technical explanations of how banks process transactions. Keep it at the level of "money moves from your account to theirs."
-- Emphasize the comparison between methods — the goal is noticing differences, not memorizing how each one works.
-- Let students express surprise. Many will realize for the first time that a phone tap involves real money.
-- Connect to the previous week: "Remember how we traced money moving through a community? These are the tools that make that movement happen."
+- Keep the focus on observation, not judgment. No payment method is inherently better.
+- Let learners share what they have noticed about how adults pay for things.
+- Avoid going deep into how credit works — just introduce the basic idea of "buy now, pay later."
+- Ask: "Does the way you pay change the value of what you are buying?" This question is more powerful than it seems.
+- Connect to earlier weeks: every payment, whether cash or digital, is just another form of the trade and exchange learners studied in Weeks 1–3.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Focus on cash vs. card as the main comparison — keep it simple.
+- Use role-play: set up a pretend store and let learners "pay" with different methods.
+- Ask: "Which way of paying makes spending feel most real?" and explore why.
+- Skip detailed explanations of credit cards; simply mention that some cards let people "pay later."
+
+**Ages 10–12:**
+- Introduce all four payment methods and discuss when each is most useful.
+- Ask learners to compare the "visibility" of spending across methods.
+- Challenge them to think about online purchases: "What actually happens when you click 'buy'?"
+- Discuss: "Why might companies want you to use the fastest, easiest payment method?"
+
+---
+
+## Check for Understanding
+
+1. Name three different ways people can pay for things.
+2. What is the difference between a debit card and a credit card, in simple terms?
+3. If you buy the same item with cash and with a phone payment, does one cost more? Why or why not?
+4. Why might paying with cash feel different from tapping a card?
+5. What are some situations where digital payments are more useful than cash?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Name** at least three different payment methods (cash, debit card, credit card, phone/app)
+- **Explain** in simple terms what each payment tool does
+- **Compare** when different payment methods might be useful
+- **Recognize** that the payment tool does not change the value of a purchase
+- **Describe** how paying with cash feels different from paying digitally
+
+---
+
+## Reflection Prompt
+
+> *"Think about the last time you saw someone pay for something. What method did they use? Do you think they thought carefully about the purchase, or did it happen almost automatically? Why might that matter?"*
 
 ---
 

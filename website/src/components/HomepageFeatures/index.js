@@ -92,11 +92,11 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Introduction</Heading>
           <p className={styles.sectionLead}>
-            Financial Literacy for Kids is designed to help educators and families move beyond
-            basic money awareness and into deeper understanding. Students learn how money works,
-            how financial decisions affect their lives, and how to think critically about
-            earning, saving, spending, and sharing. The lessons push students
-            to analyze, evaluate, and create as they move through the course.
+            Financial Literacy for Kids is an 18-week curriculum for ages 8–12, built for
+            classroom teachers, homeschool families, caregivers, and after-school leaders.
+            Each week includes three sessions of about 20 minutes each. Students move beyond
+            basic money awareness into real understanding — learning how financial systems
+            work, how to make thoughtful decisions, and how to create value for others.
           </p>
         </div>
       </section>
@@ -143,12 +143,12 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Start Teaching Financial Literacy</Heading>
           <p className={styles.sectionLead}>
-            Begin with Week 1 and give students a clearer understanding of how money,
-            saving, spending, and financial systems actually work.
+            Begin with the Welcome page for an overview, then jump into Week 1.
+            Each session is about 20 minutes — designed for ages 8–12.
           </p>
           <div className={styles.ctaButtons}>
-            <Link className="button button--primary button--lg" to="/docs/week1">
-              Begin Week 1
+            <Link className="button button--primary button--lg" to="/docs/intro">
+              Get Started
             </Link>
           </div>
           <p className={styles.feedbackPrompt}>

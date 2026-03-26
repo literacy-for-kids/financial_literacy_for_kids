@@ -19,20 +19,21 @@ This idea becomes the foundation for understanding trade, money, and financial d
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, run one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The third session works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare simple examples of things different people might value differently:
@@ -56,9 +57,9 @@ The goal is for students to feel confident explaining **why** they value somethi
 
 ---
 
-## Guided Session 1
+## Session 1
 
-### What Is Value?
+### What Is Value? (About 20 Minutes)
 
 #### Learning Goal
 
@@ -143,9 +144,9 @@ There are no wrong answers. The point is to notice that **different people choos
 
 ---
 
-## Guided Session 2
+## Session 2
 
-### Why Things Become Valuable
+### Why Things Become Valuable (About 20 Minutes)
 
 #### Learning Goal
 
@@ -241,9 +242,9 @@ Explain:
 
 ---
 
-## Independent Session
+## Session 3
 
-### The Value Exchange Game
+### The Value Exchange Game (About 20 Minutes)
 
 #### Instruction
 
@@ -334,6 +335,53 @@ This week builds the mental foundation that everything else in the curriculum de
 - Allow different perspectives — two students can disagree about what is valuable and both be right.
 - Avoid correcting preferences. If a student values stickers over a book, that is a valid choice worth exploring.
 - Ask "why?" often. The reasoning matters more than the ranking.
+- Gently introduce the idea that people **earn** money by creating things other people value. This seeds a concept that becomes central later in the curriculum.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Use physical objects instead of written lists for ranking activities.
+- Keep discussions short and focused — ask one question at a time.
+- Let learners draw their "value circle" instead of writing.
+- Accept shorter answers and emphasize verbal discussion over written responses.
+
+**Ages 10–12:**
+- Encourage learners to explain *why* they ranked items the way they did — push for reasoning.
+- Introduce the idea that value can change over time or in different situations.
+- Challenge them to think about whether value is "fair" — why might one person's favorite thing be considered worthless by someone else?
+- Invite written reflections instead of or in addition to oral discussion.
+
+---
+
+## Check for Understanding
+
+Use these questions orally or in writing to gauge learning:
+
+1. What does it mean for something to be "valuable"?
+2. Can two people disagree about what is valuable and both be right? Why?
+3. Name one thing you value that someone else might not care about. Why do you think people value different things?
+4. What are three reasons something might become valuable? (Usefulness, scarcity, personal preference.)
+5. What might happen if one person has something they do not value much, but someone else values it a lot?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Explain** that value is subjective — different people value different things
+- **Compare** how two people might rank the same items differently
+- **Identify** at least one reason something becomes valuable (usefulness, scarcity, or personal preference)
+- **Predict** that differences in value can lead to trade
+- **Describe** what they personally value and give a reason why
+
+---
+
+## Reflection Prompt
+
+> *"Think about something you value a lot. Why is it important to you? Do you think everyone would feel the same way about it? What does that tell you about how value works?"*
 
 ---
 

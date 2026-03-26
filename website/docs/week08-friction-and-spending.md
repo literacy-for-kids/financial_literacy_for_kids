@@ -19,20 +19,21 @@ Students learn that small **pauses** before spending — called financial fricti
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Think of examples of fast, easy purchases students may have seen or experienced:
@@ -57,7 +58,9 @@ Keep the tone curious, not preachy. Ask "did you notice?" rather than "you shoul
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### Easy Spending
 
@@ -138,7 +141,9 @@ Guide students to see: the problem was not that the items were bad. The problem 
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Financial Friction
 
@@ -239,7 +244,9 @@ Let them write or draw their strategy. This becomes a personal tool they can act
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### The Spending Pause Experiment
 
@@ -352,6 +359,67 @@ The goal is not to make spending feel bad. It is to help students recognize that
 - Avoid framing spending as bad. The lesson is about *awareness and choice*, not *guilt and restriction*.
 - Ask "what changed?" after the pause rounds. The answer reveals the thinking process.
 - Let students keep their personal friction strategies. These are real tools they can use starting today.
+
+---
+
+## Consumer Protection Spotlight
+
+:::caution Think Before You Tap
+This is a good week to introduce basic consumer awareness. Help learners recognize common situations where low friction leads to unintentional spending:
+
+- **One-click purchases:** Buying something with a single tap or click, without time to think
+- **In-app purchases:** Games or apps that encourage spending real money, sometimes disguised as game currency
+- **Subscriptions:** Services that charge every month, even if you stop using them
+- **"Free" offers:** Things marketed as free that later require payment
+- **Targeted ads:** Advertisements designed to look like content, especially on phones and tablets
+
+The goal is awareness, not fear. Help learners understand that **being aware of these patterns is a superpower**, not something to worry about.
+:::
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Focus on the basic friction concept: things that are easier to buy get bought more quickly.
+- Use the marshmallow analogy: "If treats were right in front of you all day vs. in a high cabinet, when would you eat more?"
+- Simplify consumer protection to: "Some things are designed to make you spend without thinking."
+- Skip subscription concepts if needed — focus on in-app purchases, which younger children encounter directly.
+
+**Ages 10–12:**
+- Go deeper into how companies design payment experiences to reduce friction.
+- Discuss real examples: saved credit cards on websites, one-click ordering, auto-renewing subscriptions.
+- Challenge them: "If a company makes it really easy to buy but really hard to cancel, what does that tell you?"
+- Introduce the concept of "cooling off" — waiting before making a purchase to see if you still want it.
+- Ask them to evaluate: are there times when low friction is genuinely helpful, not just a trick?
+
+---
+
+## Check for Understanding
+
+1. What does "friction" mean when we talk about spending money?
+2. How does paying with cash create more friction than paying with a phone?
+3. Name two ways companies try to reduce friction to encourage spending.
+4. What is a "cooling-off period" and why might it help with spending decisions?
+5. Is friction always bad? When might friction actually protect you?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Define** friction in the context of spending and give an example
+- **Explain** how different payment methods create different amounts of friction
+- **Identify** at least two ways companies reduce friction to encourage buying
+- **Describe** a strategy for adding friction back into their own spending decisions
+- **Evaluate** whether a purchase was influenced by low friction or genuine desire
+
+---
+
+## Reflection Prompt
+
+> *"Think about a time you or someone you know bought something really quickly without much thought. Would you have still bought it if you had to walk to a store and pay with cash? What does that tell you about friction?"*
 
 ---
 

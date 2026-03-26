@@ -19,20 +19,21 @@ This is one of the most important ideas in all of financial thinking. Once stude
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Think of two or three personal examples of choices you have made where you had to give something up — these do not need to be about money:
@@ -56,7 +57,9 @@ Keep the tone exploratory. Ask "what did you give up?" with curiosity, not judgm
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### Every Choice Has a Tradeoff
 
@@ -141,7 +144,9 @@ Let students share their stories. The goal is for them to realize that they alre
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### What Is Opportunity Cost?
 
@@ -237,7 +242,9 @@ Connect to last week:
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### The Choice Challenge
 
@@ -358,6 +365,51 @@ The Choice Challenge activity is designed to make opportunity cost **concrete an
 - Ask "what did you give up?" after every spending decision. Repetition builds the habit.
 - Share a personal example of a time you thought about opportunity cost — or wished you had.
 - Let students explain their reasoning. The thinking process is more important than the specific choice.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Keep opportunity cost concrete: "If you pick the cookie, you cannot also pick the cupcake."
+- Use two-option choices rather than three or four — it keeps the concept clearer.
+- Focus on tangible tradeoffs: toys, snacks, activities.
+- Let learners draw their choices rather than writing about them.
+- Use the phrase "what you give up" instead of "opportunity cost" until they are comfortable.
+
+**Ages 10–12:**
+- Introduce scenarios with more options and help learners identify the single best alternative they gave up.
+- Discuss time-based opportunity costs: "If you spend Saturday on a video game, what else could you have done?"
+- Challenge them with a scenario where both options have strong benefits — practice the discomfort of choosing.
+- Ask: "Do adults face opportunity costs? Can you think of a big decision where your family had to choose between two good options?"
+
+---
+
+## Check for Understanding
+
+1. What is opportunity cost, in your own words?
+2. If you spend $10 on a book instead of a game, what is the opportunity cost?
+3. Does everything have an opportunity cost — or just things that cost money?
+4. Why is opportunity cost harder to see than the thing you actually chose?
+5. Describe a time you chose one thing and had to give up another. What did you give up?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Define** opportunity cost as the next-best thing you give up when you make a choice
+- **Identify** the opportunity cost in a given scenario
+- **Recognize** that opportunity cost applies to time and energy, not just money
+- **Explain** why opportunity cost is invisible — we only see what we chose, not what we missed
+- **Apply** the concept to a personal decision and describe what was given up
+
+---
+
+## Reflection Prompt
+
+> *"Think about how you spent your last free afternoon. What did you do? Now think about what you could have done instead. Was your choice worth it? How do you decide?"*
 
 ---
 

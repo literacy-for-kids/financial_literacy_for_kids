@@ -15,18 +15,18 @@ function HomepageHeader() {
           <p className={styles.kicker}>Free and open educational curriculum</p>
           <h1 className="hero__title">Financial Literacy for Kids</h1>
           <p className="hero__subtitle">
-            A free, open curriculum that teaches kids how money actually works.
+            A free, open curriculum that teaches ages 8–12 how money actually works.
           </p>
           <p className={styles.heroLead}>
-            Many children grow up without understanding how money, saving, spending,
-            and financial systems actually work. This curriculum teaches those ideas
-            through hands-on activities that help students explore, question, and
-            make smart financial decisions.
+            18 weeks of hands-on, discussion-driven lessons — each about 20 minutes
+            per session — designed for classrooms, homeschool families, after-school
+            clubs, and any adult who wants to help kids understand earning, saving,
+            spending, and financial systems through curiosity, not lectures.
           </p>
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/week1">
+              to="/docs/intro">
               Start the Curriculum
             </Link>
             <Link
@@ -52,7 +52,7 @@ export default function Home() {
   return (
     <Layout
       title="Welcome"
-      description="A professional curriculum website for teaching kids how money and financial systems actually work.">
+      description="A free, open 18-week curriculum that teaches ages 8–12 how money and financial systems actually work.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

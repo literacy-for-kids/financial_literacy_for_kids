@@ -2,19 +2,19 @@
 sidebar_position: 0
 sidebar_label: "Welcome"
 title: "Financial Literacy for Kids"
-description: "A curiosity-driven 18-week curriculum introducing young learners to money as a tool for thinking, planning, and making smart decisions"
+description: "A curiosity-driven 18-week curriculum for ages 8–12 that teaches how money and financial systems actually work — through hands-on activities, discussion, and guided exploration"
 slug: /intro
 ---
 
 # Financial Literacy for Kids
 
-Welcome to a curiosity-driven financial literacy curriculum designed for young learners.
+Welcome to a curiosity-driven financial literacy curriculum designed for learners ages 8–12.
 
 This 18-week program is not focused on memorizing rules about money. Instead, it helps children learn how to **explore, think critically, and make thoughtful decisions about earning, saving, spending, and sharing money.**
 
-The goal is for students to develop **financial confidence and independent decision-making skills** while building healthy habits around money.
+The goal is for learners to develop **financial confidence and independent decision-making skills** while building healthy habits around money.
 
-By the end of the curriculum, students will understand not just *what* money is — but **how financial systems work and how to figure things out on their own.**
+By the end of the curriculum, learners will understand not just *what* money is — but **how financial systems work and how to figure things out on their own.**
 
 ---
 
@@ -25,10 +25,13 @@ By the end of the curriculum, students will understand not just *what* money is 
 - Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
 :::
 
-:::info For Caregivers and Teachers
+:::info For Facilitators
+This curriculum is designed for **classroom teachers, homeschool families, caregivers, after-school leaders**, and any adult working with learners ages 8–12.
+
+- You do not need a background in finance or economics to use this curriculum.
 - You do not need to read the full site in order. Start here, then move into the current week you are teaching.
-- Each weekly page is designed to be skimmed quickly: review the caregiver snapshot, teach one session at a time, and come back later for the rest.
-- Use this page when you want the big-picture philosophy, not when you need minute-by-minute teaching directions.
+- Each weekly page is designed to be skimmed quickly: review the facilitator snapshot, run one session at a time, and come back later for the rest.
+- Use this page when you want the big-picture philosophy, not when you need minute-by-minute session directions.
 :::
 
 ## The Big Idea
@@ -36,11 +39,11 @@ By the end of the curriculum, students will understand not just *what* money is 
 Many money lessons focus on simple rules like "save your allowance."
 This curriculum takes a different approach.
 
-Instead of teaching **rigid rules**, we focus on helping students develop:
+Instead of teaching **rigid rules**, we focus on helping learners develop:
 
 - curiosity about how money works
 - confidence making financial decisions
-- problem solving around real-world money situations
+- problem-solving around real-world money situations
 - awareness of how financial systems affect everyday life
 - the ability to figure things out independently
 
@@ -48,13 +51,27 @@ Money is treated as a **tool for achieving goals and making choices**, not somet
 
 ---
 
+## Who This Is For
+
+This curriculum is built to work in multiple settings:
+
+| Setting | How It Works |
+|---|---|
+| **Classroom teachers** | Three sessions per week, about 20 minutes each. Works with large or small groups. |
+| **Homeschool families** | Flexible pacing. One-on-one or small group. Adapt sessions to your schedule. |
+| **Caregivers and parents** | No finance background needed. Facilitator notes guide you through every concept. |
+| **After-school clubs** | Self-contained weekly topics. Great for mixed-age groups within the 8–12 range. |
+| **Other learning environments** | Libraries, community centers, tutoring programs — anywhere adults guide young learners. |
+
+---
+
 ## Core Concepts
 
-Throughout the curriculum, students gradually develop five key ideas about how the financial world works.
+Throughout the curriculum, learners gradually develop five key ideas about how the financial world works.
 
 ### 1. Value Is Assigned, Not Inherent
 
-Value comes from agreement and context. A dollar is worth something because we all agree it is. Students explore how trade, currency, and market systems assign value.
+Value comes from agreement and context. A dollar is worth something because we all agree it is. Learners explore how trade, currency, and market systems assign value.
 
 ### 2. Money Flows Like Data
 
@@ -66,7 +83,7 @@ Every financial decision has an opportunity cost. Spending here means you cannot
 
 ### 4. Systems Shape Outcomes
 
-Banks, interest, and inflation create the macro machinery that affects every dollar in circulation. Understanding these systems helps students see the bigger picture.
+Banks, interest, and inflation create the macro machinery that affects every dollar in circulation. Understanding these systems helps learners see the bigger picture.
 
 ### 5. Creation Beats Consumption
 
@@ -88,29 +105,41 @@ The most powerful financial skill is creating value — identifying problems and
 
 ## What Each Week Includes
 
-Each week contains **three short sessions** designed to keep learning active and engaging.
+Each week contains **three short sessions** of about 20 minutes each, designed to keep learning active and engaging.
 
-### Guided Session 1 (≈30 minutes)
+### Session 1: Explore (about 20 minutes)
 
 Introduces a concept through exploration and conversation.
 
-Students are encouraged to **experiment and observe what happens.**
+Learners are encouraged to **experiment and observe what happens.**
 
 ---
 
-### Guided Session 2 (≈30 minutes)
+### Session 2: Apply (about 20 minutes)
 
 Expands on the concept with a hands-on activity or small project.
 
-Students begin applying what they discovered during the first session by comparing choices, testing ideas, and explaining their reasoning.
+Learners begin applying what they discovered during the first session by comparing choices, testing ideas, and explaining their reasoning.
 
 ---
 
-### Independent Session (≈30 minutes)
+### Session 3: Practice (about 20 minutes)
 
-A guided exploration session where the student practices skills or creates something new.
+A guided exploration session where the learner practices skills or creates something new.
 
 The goal is **confidence, ownership, and thoughtful decision-making**, not perfection.
+
+---
+
+### Built-In Assessment
+
+Every weekly page includes:
+
+- **Check for Understanding** — 3–5 formative questions to use orally or in writing
+- **What Success Looks Like** — brief mastery indicators in plain language
+- **Reflection Prompt** — a short self-assessment question for the learner
+
+Unit checkpoint pages appear after each major section of the curriculum for lightweight review and application.
 
 ---
 
@@ -118,7 +147,7 @@ The goal is **confidence, ownership, and thoughtful decision-making**, not perfe
 
 Lessons are intentionally designed around **guided exploration** rather than rigid instructions.
 
-Students are encouraged to:
+Learners are encouraged to:
 
 - try things
 - experiment
@@ -136,7 +165,7 @@ Reflection questions help build awareness, such as:
 
 These conversations help children begin developing the **critical thinking and curiosity** that strong problem solvers use.
 
-Across the course, students are regularly asked to move beyond simple recall by explaining ideas, comparing results, justifying choices, and revising their work.
+Across the course, learners are regularly asked to move beyond simple recall by explaining ideas, comparing results, justifying choices, and revising their work.
 
 ---
 
@@ -146,15 +175,15 @@ Across the course, students are regularly asked to move beyond simple recall by 
 Begin with **Week 1** and progress through each week sequentially.
 :::
 
-Each week builds on the previous one, gradually expanding the student's understanding of financial concepts and decision-making.
+Each week builds on the previous one, gradually expanding the learner's understanding of financial concepts and decision-making.
 
-Use the sidebar to navigate through the lessons.
+Use the sidebar to navigate through the lessons. If you are new to this curriculum, read the [Curriculum Overview](/docs/curriculum-overview) for pacing guidance and tips.
 
 ---
 
 ## The Goal
 
-By the end of the program, students should feel:
+By the end of the program, learners should feel:
 
 - confident thinking about money
 - comfortable exploring financial concepts
@@ -164,4 +193,4 @@ By the end of the program, students should feel:
 
 The most important outcome is simple:
 
-**Students should feel like money is a tool they can understand, manage, and use wisely.**
+**Learners should feel like money is a tool they can understand, manage, and use wisely.**

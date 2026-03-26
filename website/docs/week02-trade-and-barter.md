@@ -19,20 +19,21 @@ They will also discover why barter can become difficult in larger groups, which 
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, run one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The third session works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Review the examples of simple trades so you can guide discussion naturally:
@@ -56,9 +57,9 @@ Avoid jumping ahead to explain money. Let the problem sit.
 
 ---
 
-## Guided Session 1
+## Session 1
 
-### Why People Trade
+### Why People Trade (About 20 Minutes)
 
 #### Learning Goal
 
@@ -137,9 +138,9 @@ Introduce one new word:
 
 ---
 
-## Guided Session 2
+## Session 2
 
-### The Barter System
+### The Barter System (About 20 Minutes)
 
 #### Learning Goal
 
@@ -245,9 +246,9 @@ Do **not** explain money in detail yet — just let the problem sit. Tell them:
 
 ---
 
-## Independent Session
+## Session 3
 
-### Barter Market Simulation
+### Barter Market Simulation (About 20 Minutes)
 
 #### Instruction
 
@@ -351,6 +352,51 @@ That frustration is valuable. It prepares students to understand **why money was
 - Focus on discussion and reasoning rather than "winning" the game.
 - Ask "why?" after trades. The reasoning matters more than the outcome.
 - Resist explaining money early. Let the barter problem speak for itself.
+- Gently connect trade to the idea of **work and effort as valuable**: when someone trades a service (like doing a chore), they are offering their effort in exchange for something. This seeds the earning concept.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Use physical objects rather than written cards for the barter simulation.
+- Simplify the barter market to 3–4 participants and 3–4 items.
+- Focus on the core idea: "both people need to want what the other has."
+- Keep discussions short — one or two reflection questions per session.
+
+**Ages 10–12:**
+- Increase the number of participants and items to make barter more difficult.
+- Ask learners to diagram the barter chain on paper (who has what, who wants what).
+- Challenge them to calculate how many trades are needed to resolve a 5-person barter circle.
+- Introduce the vocabulary term "double coincidence of wants" as a bonus concept.
+
+---
+
+## Check for Understanding
+
+1. Why do people trade with each other?
+2. What does the word "barter" mean?
+3. What makes a trade feel fair to both people?
+4. Why does barter get harder when more people are involved?
+5. Can you describe a situation where barter would not work at all?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Explain** why trade happens between people who value things differently
+- **Describe** what barter is and how it works
+- **Identify** situations where barter is easy and where it becomes difficult
+- **Predict** that barter breaks down in larger groups and that communities might need a shared tool to trade
+- **Evaluate** whether a trade benefits both people
+
+---
+
+## Reflection Prompt
+
+> *"Think about a time you traded something with a friend or sibling. Was it easy to agree? What would have happened if neither of you wanted what the other person had?"*
 
 ---
 

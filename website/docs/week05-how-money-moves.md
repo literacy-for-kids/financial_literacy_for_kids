@@ -19,20 +19,21 @@ This week, students begin to see money as something that **circulates**, rather 
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Think of a few everyday purchases you can use as examples:
@@ -57,9 +58,9 @@ Let students trace the chains themselves. The longer they can extend a chain, th
 
 ---
 
-## Guided Session 1
+## Session 1
 
-### Spending and Earning
+### Spending and Earning (About 20 Minutes)
 
 #### Learning Goal
 
@@ -151,9 +152,9 @@ Let them guess and imagine. They do not need to be perfectly accurate — the go
 
 ---
 
-## Guided Session 2
+## Session 2
 
-### Money Circulation
+### Money Circulation (About 20 Minutes)
 
 #### Learning Goal
 
@@ -256,9 +257,9 @@ Let the student trace the effects. The goal is to see that **everyone in the cir
 
 ---
 
-## Independent Session
+## Session 3
 
-### Follow the Money
+### Follow the Money (About 20 Minutes)
 
 #### Instruction
 
@@ -365,6 +366,51 @@ The longer and more detailed students can make their money chains, the deeper th
 - Ask "and then what?" repeatedly. Each answer extends the chain.
 - Celebrate long chains. If a student traces money through eight or ten steps, that shows strong systems thinking.
 - Connect back to real life: "Think about money your family spent this week. Where might it be now?"
+- Strengthen the earning/value thread: emphasize that **every person in the money chain earned their money by doing something useful** — the pizza maker earns by cooking, the farmer earns by growing food, the truck driver earns by delivering goods. Earning is always connected to work, skill, or providing something people need.
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Focus on the simple spending→earning connection: "When you buy something, someone else earns money."
+- Keep money chains to 3–4 steps maximum.
+- Use a physical activity: pass a coin around a circle and name what it is "paying for" at each stop.
+- Let learners draw their money chain rather than writing each step.
+
+**Ages 10–12:**
+- Challenge learners to build chains of 8–10 steps.
+- Introduce the idea that some purchases create more "chain links" than others.
+- Ask: "What would happen if everyone stopped spending at the same time?" and let them reason through the consequences.
+- Encourage them to trace a real purchase from their own life as far as they can.
+
+---
+
+## Check for Understanding
+
+1. What happens to the money after you buy something?
+2. How does one person's spending become another person's income?
+3. Can you trace a money chain of at least four steps starting with buying a pizza?
+4. What might happen in a community if people suddenly stopped spending money?
+5. Why does money "circulate" — what keeps it moving?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Explain** that when someone spends money, another person earns it
+- **Trace** a simple money chain through at least three or four people
+- **Describe** how money circulates through a community like water through a system
+- **Predict** what would happen if money stopped flowing
+- **Connect** their own purchases to other people's income
+
+---
+
+## Reflection Prompt
+
+> *"Think about something your family bought recently. Can you trace where that money might have gone next? How many people do you think it helped?"*
 
 ---
 

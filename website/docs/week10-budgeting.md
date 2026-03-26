@@ -21,20 +21,21 @@ This is one of the most directly useful skills in the entire curriculum. Student
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
+- **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The independent session works best after the learner has already explored the main idea with you once.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- Session 3 works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
-- [Guided Session 1](#guided-session-1)
-- [Guided Session 2](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Facilitator Preparation](#facilitator-preparation)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Think of a simple personal example of budgeting — it does not need to be complicated:
@@ -60,7 +61,9 @@ Keep the tone positive. A budget is not a set of rules someone else imposes — 
 
 ---
 
-## Guided Session 1
+## Session 1
+
+*(About 20 Minutes)*
 
 ### What Is a Budget?
 
@@ -156,7 +159,9 @@ Let students brainstorm. There are no wrong answers — the point is that a budg
 
 ---
 
-## Guided Session 2
+## Session 2
+
+*(About 20 Minutes)*
 
 ### Allocating Resources
 
@@ -275,7 +280,9 @@ Possible answers:
 
 ---
 
-## Independent Session
+## Session 3
+
+*(About 20 Minutes)*
 
 ### Create a Simple Budget
 
@@ -406,6 +413,67 @@ Students do not need to create perfect budgets. They need to learn that **having
 - Use the Surprise Expense variation when possible. It teaches students that budgets are living documents that can be adjusted, not rigid rules carved in stone.
 - Connect to real life gently. Ask students if their family plans spending before a grocery trip or a vacation — that is budgeting in action.
 - Avoid associating budgeting with poverty or scarcity. Everyone benefits from planning, regardless of how much money they have.
+
+---
+
+## Consumer Awareness Integration
+
+:::tip Budgeting as a Superpower
+This is a good point to connect budgeting to the consumer awareness themes from Weeks 6–8. Help learners see that:
+
+- A budget is a **plan that protects you** from the spending pressures they learned about (low friction, targeted ads, in-app purchases).
+- When you have categories and limits, it is easier to pause before an impulse purchase.
+- Subscriptions should have their own budget line — this makes "invisible" spending visible.
+- The question "Does this fit in my budget?" is a powerful friction tool all by itself.
+
+Frame the budget not as a restriction but as a **tool for getting what you actually want** instead of losing money to things you did not plan for.
+:::
+
+---
+
+## Age Adaptation Notes
+
+**Ages 8–9:**
+- Simplify the budget to 3–4 categories maximum: needs, wants, saving, giving.
+- Use play money or tokens to make budgeting physical and tangible.
+- Focus on the "spending pie" — dividing a fixed amount into parts.
+- Let learners decorate or color their budget categories.
+- Keep numbers small and round ($20 total budget, not $237.50).
+
+**Ages 10–12:**
+- Use more categories and more realistic numbers.
+- Introduce the idea of adjusting a budget when something unexpected happens.
+- Challenge them to create a monthly budget for a fictional teenager or family.
+- Discuss: "What happens if you go over budget in one category? Where does the extra money come from?"
+- Introduce the idea of tracking spending over time — not just planning, but checking.
+
+---
+
+## Check for Understanding
+
+1. What is a budget, and why do people use them?
+2. What is the difference between a fixed expense and a flexible expense?
+3. If you have $20 and you spend $12 on needs, how much is left for wants and saving?
+4. Why should subscriptions be listed in a budget even though they charge automatically?
+5. How can a budget help protect you from impulse purchases?
+
+---
+
+## What Success Looks Like
+
+By the end of this week, a learner is on track if they can:
+
+- **Define** a budget as a plan for how to use money
+- **Create** a simple budget that divides a fixed amount into categories
+- **Distinguish** between fixed and flexible expenses
+- **Adjust** a budget when circumstances change
+- **Explain** how budgeting connects to the consumer awareness skills from earlier weeks
+
+---
+
+## Reflection Prompt
+
+> *"If you received $50 as a gift and had to split it into categories — spending, saving, and one other category you choose — how would you divide it? What is your third category, and why did you pick it?"*
 
 ---
 

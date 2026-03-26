@@ -1,20 +1,20 @@
 ---
-id: curriculum-master
+id: curriculum-overview
 slug: /curriculum-overview
 title: 18-Week Financial Literacy Curriculum
 description: >
-  Step-by-step financial literacy roadmap that blends guided lessons with independent practice for young beginners.
+  Step-by-step financial literacy roadmap for ages 8–12 that blends guided lessons with independent practice.
 sidebar_label: Curriculum Overview
 sidebar_position: 0
 ---
 
 # 18-Week Financial Literacy Curriculum
 
-This curriculum provides a **structured introduction to financial literacy** for young beginners (roughly ages 8-12, with adult guidance as needed). It blends guided instruction with independent exploration to help learners develop confidence understanding **money, saving, spending, earning, and making smart financial decisions**.
+This curriculum provides a **structured introduction to financial literacy** for learners ages 8–12, with adult guidance as needed. It blends guided instruction with independent exploration to help learners develop confidence understanding **money, saving, spending, earning, and making smart financial decisions**.
 
 The program progresses from **the mechanics of trade** through **digital money systems and strategic budgeting** into **economic systems** and culminates in an **entrepreneurship capstone project**.
 
-Lessons are intentionally **hands-on, interest-driven, and flexible**, allowing the instructor to adapt activities based on the learner's curiosity and pace while still pushing students to **analyze, evaluate, and create**.
+Lessons are intentionally **hands-on, curiosity-driven, and flexible**, allowing the facilitator to adapt activities based on the learner's interests and pace while still pushing learners to **analyze, evaluate, and create**.
 
 ---
 
@@ -33,25 +33,38 @@ Lessons are intentionally **hands-on, interest-driven, and flexible**, allowing 
 ## Curriculum Overview
 
 ### Target Audience
-Young beginner learners (roughly ages 7-11).
+Learners ages 8–12.
 Basic reading ability is helpful, but adult guidance is expected.
+
+This curriculum works for **classroom teachers, homeschool families, caregivers, after-school leaders**, and any adult guiding young learners.
 
 ### Weekly Structure
 Each week contains:
 
-- **Two guided sessions** (about 30 minutes each)
-- **One independent session** (about 20 minutes)
+- **Three sessions** of about 20 minutes each
 
-Guided sessions introduce concepts and tools.
-Independent sessions reinforce skills through creative exploration, reflection, and purposeful revision.
+Sessions 1 and 2 introduce and expand on concepts through guided exploration.
+Session 3 reinforces skills through creative exploration, reflection, and purposeful revision.
 
-Across the curriculum, students are regularly asked to explain what they notice, compare possible choices, judge what works best, and create stronger next versions of their work.
+Across the curriculum, learners are regularly asked to explain what they notice, compare possible choices, judge what works best, and create stronger next versions of their work.
+
+### Assessment and Facilitator Support
+
+Every weekly page includes:
+
+- **Check for Understanding** — 3–5 formative questions to use orally or in writing
+- **What Success Looks Like** — brief mastery indicators in plain language
+- **Reflection Prompt** — a short self-assessment question for the learner
+- **Age Adaptation Notes** — guidance for adjusting to ages 8–9 vs. 10–12
+- **Facilitator Notes** — background context and teaching tips
+
+**Unit checkpoint pages** appear after each major section of the curriculum (after Weeks 4, 8, 11, 14, and 18) for lightweight concept review and application.
 
 ### Final Project
 
 The program culminates in **The Value Creation Project** (Weeks 15–18).
 
-Students identify a real problem or need in their community and design a product or service that creates value. They plan a budget to manage their resources and present their project to others.
+Students identify a real problem or need in their community and design a product or service that creates value. They plan a budget to manage their resources and present their project to others. A simple capstone rubric guides both learners and facilitators through the final presentation.
 
 ### Flexibility & Adaptability
 
@@ -68,6 +81,19 @@ If a concept is mastered quickly, explore optional challenges.
 If a topic feels difficult, slow down and revisit it through play or discussion.
 
 The ultimate goal is **confidence and curiosity**, not rushing through content.
+
+---
+
+## Who This Is For
+
+This curriculum is designed to be usable by:
+
+- a **classroom teacher** with 25 students
+- a **homeschool parent** with 1–3 children
+- a **caregiver** with no finance background
+- an **after-school leader** with mixed ages within the 8–12 range
+
+Directions are concrete, prep burden is low, activities do not require special materials, and discussion prompts are easy to run.
 
 ---
 
@@ -155,21 +181,21 @@ Students begin by understanding how value and trade work, then move into digital
 
 ## Independent Session Setup Tips
 
-Independent sessions work best when the learner has **clear visual instructions and a structured environment**.
+Independent sessions (Session 3 each week) work best when the learner has **clear direction and a structured environment**.
 
 Helpful strategies:
 
-**1. Visual instruction cards**
-Provide simple step-by-step guidance with icons or pictures.
+**1. Simple written or verbal instructions**
+Provide step-by-step guidance before the learner begins.
 
-**2. Visual timer**
+**2. A timer**
 A countdown timer helps learners manage the 20-minute session independently.
 
 **3. A simple "Help Card"**
 Include common reminders and tips for the activity.
 
-**4. Achievement tracker**
-A themed progress chart with stickers or checkmarks can make progress visible and motivating.
+**4. Progress tracking**
+A simple checklist or chart can make progress visible and motivating.
 
 **5. Weekly show-and-tell**
 After each independent session, spend 1-2 minutes letting the learner explain what they learned or created.
@@ -178,7 +204,7 @@ After each independent session, spend 1-2 minutes letting the learner explain wh
 
 ## Final Notes
 
-This curriculum is designed to introduce children to **financial literacy as an empowering life skill**.
+This curriculum is designed to introduce children ages 8–12 to **financial literacy as an empowering life skill**.
 
 By the end of the program, students will have experience with:
 
