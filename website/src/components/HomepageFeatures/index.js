@@ -64,6 +64,44 @@ const roadmapSections = [
   },
 ];
 
+const literacyLinks = [
+  {
+    label: 'Decision Literacy',
+    icon: '🧠',
+    href: 'https://zcohen-nerd.github.io/decision_literacy_for_kids/',
+    description:
+      'How to think clearly, evaluate choices, and understand consequences.',
+  },
+  {
+    label: 'Computer Literacy',
+    icon: '💻',
+    href: 'https://zcohen-nerd.github.io/computer_literacy_for_kids/',
+    description:
+      'How computers work and how to use them responsibly.',
+  },
+  {
+    label: 'Media Literacy',
+    icon: '📰',
+    href: 'https://zcohen-nerd.github.io/media_literacy_for_kids/',
+    description:
+      'How to evaluate information and recognize bias.',
+  },
+  {
+    label: 'Financial Literacy',
+    icon: '💰',
+    href: 'https://zcohen-nerd.github.io/financial_literacy_for_kids/',
+    description:
+      'How money works and how to make responsible financial decisions.',
+  },
+  {
+    label: 'Civic Literacy',
+    icon: '🏛',
+    href: 'https://zcohen-nerd.github.io/civic_literacy_for_kids/',
+    description:
+      'How societies organize themselves and how citizens shape their communities.',
+  },
+];
+
 function FeatureCard({title, description}) {
   return (
     <article className={styles.card}>
@@ -78,6 +116,22 @@ function RoadmapCard({title, weeks, description}) {
     <article className={styles.roadmapCard}>
       <p className={styles.eyebrow}>{weeks}</p>
       <Heading as="h3">{title}</Heading>
+      <p>{description}</p>
+    </article>
+  );
+}
+
+function LiteracyCard({label, icon, href, description}) {
+  return (
+    <article className={styles.card}>
+      <Heading as="h3">
+        <Link to={href} className={styles.literacyLink}>
+          <span className={styles.literacyIcon} aria-hidden="true">
+            {icon}
+          </span>{' '}
+          {label}
+        </Link>
+      </Heading>
       <p>{description}</p>
     </article>
   );
@@ -98,6 +152,33 @@ export default function HomepageFeatures() {
             basic money awareness into real understanding — learning how financial systems
             work, how to make thoughtful decisions, and how to create value for others.
           </p>
+        </div>
+      </section>
+
+      <section className={styles.sectionAlt}>
+        <div className="container">
+          <Heading as="h2">Part of the Literacy for Kids Project</Heading>
+          <p className={styles.sectionLead}>
+            This curriculum is part of Literacy for Kids, a collection of open-source
+            curricula designed to help children ages 8–12 understand the systems that
+            shape the modern world.
+          </p>
+          <p className={styles.sectionLead}>
+            Each curriculum focuses on a different foundational life skill. You can
+            explore the full curriculum collection through the{' '}
+            <Link to="https://zcohen-nerd.github.io/literacy_for_kids/">
+              Literacy for Kids Hub
+            </Link>
+            .
+          </p>
+          <div className={styles.callout}>
+            <Heading as="h3">Explore the Other Literacies</Heading>
+            <div className={styles.cardGrid}>
+              {literacyLinks.map((literacy) => (
+                <LiteracyCard key={literacy.label} {...literacy} />
+              ))}
+            </div>
+          </div>
         </div>
       </section>
 
