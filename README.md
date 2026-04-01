@@ -7,7 +7,7 @@
 A curiosity-driven **18-week financial literacy curriculum** that helps young learners explore money as a tool for **thinking, planning, and making smart decisions.**
 
 🌐 **View the curriculum website:**  
-https://zcohen-nerd.github.io/financial_literacy_for_kids/
+https://literacy-for-kids.github.io/financial_literacy_for_kids/
 
 ---
 
