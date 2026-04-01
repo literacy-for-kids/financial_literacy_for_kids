@@ -4,7 +4,17 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
+import path from 'path';
+import {createRequire} from 'module';
+import {fileURLToPath} from 'url';
 import {themes as prismThemes} from 'prism-react-renderer';
+
+const require = createRequire(import.meta.url);
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const literacySiteThemeSrc = path.resolve(
+  __dirname,
+  'node_modules/literacy-site-theme/src',
+);
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -35,6 +45,39 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  themes: ['literacy-site-theme'],
+
+  plugins: [
+    function transpileLiteracySiteTheme() {
+      return {
+        name: 'transpile-literacy-site-theme',
+        configureWebpack(config, isServer, utils) {
+          return {
+            module: {
+              rules: [
+                {
+                  test: /\.[jt]sx?$/,
+                  include: [literacySiteThemeSrc],
+                  use: [
+                    utils.getJSLoader({
+                      isServer,
+                      babelOptions: {
+                        presets: [require.resolve('@docusaurus/core/lib/babel/preset')],
+                        plugins: [
+                          require.resolve('@babel/plugin-transform-modules-commonjs'),
+                        ],
+                      },
+                    }),
+                  ],
+                },
+              ],
+            },
+          };
+        },
+      };
+    },
+  ],
 
   presets: [
     [
@@ -75,89 +118,6 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/hero-image.png',
-      navbar: {
-        title: 'Financial Literacy for Kids',
-        logo: {
-          alt: 'Financial Literacy Logo',
-          src: 'img/logo.svg',
-        },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'curriculumSidebar',
-            position: 'left',
-            label: 'Curriculum',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/zcohen-nerd/financial_literacy_for_kids',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Curriculum',
-            items: [
-              {
-                label: 'Get Started',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Week 1: Understanding Value',
-                to: '/docs/week01-understanding-value',
-              },
-              {
-                label: 'License',
-                to: '/docs/license',
-              },
-            ],
-          },
-          {
-            title: 'License',
-            items: [
-              {
-                label: 'CC BY-NC-SA 4.0',
-                href: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
-              },
-              {
-                label: 'License Summary',
-                to: '/docs/license',
-              },
-              {
-                label: 'Source Repository',
-                href: 'https://github.com/zcohen-nerd/financial_literacy_for_kids',
-              },
-            ],
-          },
-          {
-            title: 'Literacy for Kids',
-            items: [
-              {
-                label: 'Project Hub',
-                href: 'https://zcohen-nerd.github.io/literacy_for_kids/',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'GitHub Discussions',
-                href: 'https://github.com/zcohen-nerd/financial_literacy_for_kids/discussions',
-              },
-              {
-                label: 'Issues',
-                href: 'https://github.com/zcohen-nerd/financial_literacy_for_kids/issues',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright \u00A9 ${new Date().getFullYear()} Zachary Cohen. Curriculum content is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. See the <a href="/financial_literacy_for_kids/docs/license">license page</a> for attribution, sharing, and adaptation details.`,
-      },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
