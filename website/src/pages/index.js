@@ -3,7 +3,7 @@ import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import EcosystemLinks from '@theme/EcosystemLinks';
+import EcosystemLinks from '@site/src/components/EcosystemLinks';
 
 import styles from './index.module.css';
 

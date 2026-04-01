@@ -4,19 +4,11 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import path from 'path';
-import {createRequire} from 'module';
-import {fileURLToPath} from 'url';
 import {themes as prismThemes} from 'prism-react-renderer';
-import navbarItems from 'literacy-site-theme/navbarItems';
-import footerConfig from 'literacy-site-theme/footerConfig';
-
+import {createRequire} from 'module';
 const require = createRequire(import.meta.url);
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const literacySiteThemeSrc = path.resolve(
-  __dirname,
-  'node_modules/literacy-site-theme/src',
-);
+const navbarItems = require('literacy-site-theme/navbarItems');
+const footerConfig = require('literacy-site-theme/footerConfig');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -49,37 +41,6 @@ const config = {
   },
 
   themes: ['literacy-site-theme'],
-
-  plugins: [
-    function transpileLiteracySiteTheme() {
-      return {
-        name: 'transpile-literacy-site-theme',
-        configureWebpack(config, isServer, utils) {
-          return {
-            module: {
-              rules: [
-                {
-                  test: /\.[jt]sx?$/,
-                  include: [literacySiteThemeSrc],
-                  use: [
-                    utils.getJSLoader({
-                      isServer,
-                      babelOptions: {
-                        presets: [require.resolve('@docusaurus/core/lib/babel/preset')],
-                        plugins: [
-                          require.resolve('@babel/plugin-transform-modules-commonjs'),
-                        ],
-                      },
-                    }),
-                  ],
-                },
-              ],
-            },
-          };
-        },
-      };
-    },
-  ],
 
   presets: [
     [
@@ -121,26 +82,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/hero-image.png',
       navbar: {
-        title: 'Financial Literacy for Kids',
-        logo: {
-          alt: 'Financial Literacy Logo',
-          src: 'img/logo.svg',
-        },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'curriculumSidebar',
-            position: 'left',
-            label: 'Curriculum',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          ...navbarItems,
-          {
-            href: 'https://github.com/zcohen-nerd/financial_literacy_for_kids',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+        items: navbarItems,
       },
       footer: footerConfig,
       prism: {
