@@ -52,13 +52,25 @@ Across the curriculum, learners are regularly asked to explain what they notice,
 
 Every weekly page includes:
 
+- **Minimum Viable Lesson** — a short-on-time box highlighting the one key concept and one core activity to prioritize
+- **Spiral Review** — a "Remember from Earlier?" box connecting each week to previous learning
 - **Check for Understanding** — 3–5 formative questions to use orally or in writing
 - **What Success Looks Like** — brief mastery indicators in plain language
 - **Reflection Prompt** — a short self-assessment question for the learner
 - **Age Adaptation Notes** — guidance for adjusting to ages 8–9 vs. 10–12
-- **Facilitator Notes** — background context and teaching tips
+- **Facilitator Notes** — background context, teaching tips, and equity guidance where relevant
+- **Companion Materials** — links to printable resource pages, student handouts, and the glossary
 
 **Unit checkpoint pages** appear after each major section of the curriculum (after Weeks 4, 8, 11, 14, and 18) for lightweight concept review and application.
+
+### Supporting Materials
+
+The curriculum includes a library of companion resources:
+
+- **[Resource Hub](./resources/overview)** — Printable activity cards, worksheets, and simulation templates organized by unit
+- **Student Handouts** — Take-home summaries for Weeks 7, 8, 10, 13, and 14
+- **[Glossary](./glossary)** — Alphabetized, kid-friendly definitions for every key term
+- **[Facilitator Quick Reference](./resources/facilitator-quick-reference)** — One-page guide covering session structure, equity approach, digital safety rules, and vocabulary
 
 ### Final Project
 
@@ -135,36 +147,36 @@ Each week below links to a detailed lesson page containing:
 flowchart TB
 
 subgraph L1[Value Foundations]
-A[💡 Understanding Value<br>Week 1]
-B[🤝 Trade and Barter<br>Week 2]
-C[💰 Why Money Exists<br>Week 3]
-D[🏠 Household Economy<br>Week 4]
+A[Understanding Value<br>Week 1]
+B[Trade and Barter<br>Week 2]
+C[Why Money Exists<br>Week 3]
+D[Household Economy<br>Week 4]
 end
 
 subgraph L2[The Flow of Resources]
-E[💵 How Money Moves<br>Week 5]
-F[� Ways We Pay<br>Week 6]
-G[💻 Digital Money<br>Week 7]
-H[🛑 Friction and Spending<br>Week 8]
+E[How Money Moves<br>Week 5]
+F[Ways We Pay<br>Week 6]
+G[Digital Money<br>Week 7]
+H[Friction and Spending<br>Week 8]
 end
 
 subgraph L3[Strategy & Planning]
-I[� Opportunity Cost<br>Week 9]
-J[� Budgeting<br>Week 10]
-K[🛡️ Risk & Emergency Funds<br>Week 11]
+I[Opportunity Cost<br>Week 9]
+J[Budgeting<br>Week 10]
+K[Risk & Emergency Funds<br>Week 11]
 end
 
 subgraph L4[Economic Systems]
-L[🏦 Banks<br>Week 12]
-M[� Interest<br>Week 13]
-N[� Inflation<br>Week 14]
+L[Banks<br>Week 12]
+M[Interest<br>Week 13]
+N[Inflation<br>Week 14]
 end
 
 subgraph L5[The Value Creation Project]
-O[🔍 Find Problems<br>Week 15]
-P[🛠️ Design a Solution<br>Week 16]
-Q[📊 Resources & Costs<br>Week 17]
-R[🏆 Sharing Value<br>Week 18]
+O[Find Problems<br>Week 15]
+P[Design a Solution<br>Week 16]
+Q[Resources & Costs<br>Week 17]
+R[Sharing Value<br>Week 18]
 end
 
 A --> B --> C --> D
@@ -210,9 +222,15 @@ By the end of the program, students will have experience with:
 
 - the history and mechanics of trade and currency
 - needs vs. wants and household budgeting
-- digital money systems and how spending behavior is shaped
+- digital money systems, online safety, and how spending behavior is shaped
 - budgeting, opportunity costs, and emergency planning
 - banking, interest, and inflation
 - entrepreneurship and value creation
+
+The curriculum also develops three cross-cutting strands:
+
+- **Digital safety awareness** — the Stop, Check, Protect framework introduced in Weeks 7–8 and reinforced throughout
+- **Equity and family-context sensitivity** — facilitator guidance ensuring no learner is shamed or excluded based on family finances
+- **Vocabulary and spiral review** — key terms defined in the [Glossary](./glossary) and revisited through weekly "Remember from Earlier?" prompts
 
 Most importantly, they will build **confidence understanding money and making thoughtful financial decisions**.

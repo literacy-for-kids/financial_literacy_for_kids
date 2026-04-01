@@ -15,7 +15,7 @@ Whenever someone buys something, money moves from one person to another. That mo
 
 This week, students begin to see money as something that **circulates**, rather than something that only belongs to one person.
 
-> **Unit Key Activity:** Tracking a "spent" dollar through the local economy to see how many people it touches.
+> **This Week's Anchor Activity:** The Dollar Journey Map — students trace a single dollar from earner to spender and discover how money connects people in a community.
 
 ---
 
@@ -31,6 +31,11 @@ This week, students begin to see money as something that **circulates**, rather 
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Money flows in a cycle — one person’s spending becomes another person’s income, connecting everyone in a community.
+**Core activity:** Run the “Follow the Dollar” story from Session 1 and have students trace the journey of a dollar through three people (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -60,7 +65,15 @@ Let students trace the chains themselves. The longer they can extend a chain, th
 
 ## Session 1
 
-### Spending and Earning (About 20 Minutes)
+:::note Remember from Earlier?
+In **Week 4**, we explored how households balance needs and wants with limited money. Now we zoom out to see the bigger picture — how does money move through an entire community?
+
+**Quick check:** What is the difference between a need and a want?
+:::
+
+*(About 20 Minutes)*
+
+### Spending and Earning
 
 #### Learning Goal
 
@@ -154,7 +167,9 @@ Let them guess and imagine. They do not need to be perfectly accurate — the go
 
 ## Session 2
 
-### Money Circulation (About 20 Minutes)
+*(About 20 Minutes)*
+
+### Money Circulation
 
 #### Learning Goal
 
@@ -259,7 +274,9 @@ Let the student trace the effects. The goal is to see that **everyone in the cir
 
 ## Session 3
 
-### Follow the Money (About 20 Minutes)
+*(About 20 Minutes)*
+
+### Follow the Money
 
 #### Instruction
 
@@ -411,6 +428,13 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"Think about something your family bought recently. Can you trace where that money might have gone next? How many people do you think it helped?"*
+
+---
+
+## Companion Materials
+
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

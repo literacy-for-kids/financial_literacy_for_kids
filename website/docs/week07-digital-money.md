@@ -15,7 +15,7 @@ Instead of coins and bills sitting in vaults, money is usually stored as **numbe
 
 Students learn that modern financial systems depend heavily on **digital information and technology** — and that keeping accurate records is what makes it all work.
 
-> **Unit Key Activity:** Tracking a "spent" dollar through the local economy to see how many people it touches.
+> **This Week's Anchor Activity:** The Digital Ledger Simulation — students build a shared digital ledger and move money between accounts by updating numbers, not passing cash.
 
 ---
 
@@ -31,6 +31,11 @@ Students learn that modern financial systems depend heavily on **digital informa
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Most money today is digital — numbers in computer systems, not physical coins and bills.
+**Core activity:** Draw Maya's bank account on the board from Session 1 and trace one deposit and one purchase to show how numbers change (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -59,6 +64,12 @@ Use concrete analogies. A bank balance is like a score in a game — the score i
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+In **Week 6**, we compared different payment methods — cash, debit cards, credit cards, and mobile payments. This week, we look **behind** those tools to discover what is really happening: numbers changing in computer systems.
+
+**Quick check:** Name two ways people can pay for things other than cash.
+:::
 
 *(About 20 Minutes)*
 
@@ -393,6 +404,16 @@ The Digital Ledger activity is the most important part of this week. Students ph
 - Avoid going deep into how banking networks or encryption work. The mental model — "money is information tracked by systems" — is enough for this stage.
 - **Consumer awareness note:** As learners explore digital money, gently introduce the idea that digital payments can make it harder to notice how much you are spending. Unlike handing over cash, tapping a phone does not create the same feeling of "spending." This connects directly to next week's lesson on friction.
 
+:::caution Digital Safety Spotlight
+As students explore digital money, introduce the three core safety rules that will carry through the rest of the curriculum:
+
+1. **Stop** — Pause before clicking, sharing, or buying anything online.
+2. **Check** — Is this from someone you trust? Is the website real? Ask a trusted adult if unsure.
+3. **Protect** — Never share passwords, full names, addresses, or payment information without a trusted adult's permission.
+
+Use scenarios from the [Digital Safety Scenarios](resources/digital-safety-scenarios.md) cards to practice. Ask: *"What would you do?"* after each scenario.
+:::
+
 ---
 
 :::note Simplified Model Note
@@ -443,6 +464,15 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"Imagine all digital money disappeared tomorrow and everyone had to use cash again. What would be the hardest thing about that? What might actually be easier?"*
+
+---
+
+## Companion Materials
+
+- [Digital Safety Scenarios](resources/digital-safety-scenarios.md) — 10 scenario cards for identifying online risks
+- [Week 7 Student Handout](handouts/week07-digital-money.md) — Take-home summary of digital money basics and safety rules
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

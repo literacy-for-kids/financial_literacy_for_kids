@@ -74,4 +74,11 @@ After completing this unit, most learners should be able to:
 
 - This checkpoint should take **10–15 minutes**.
 - The simplified model notes in Weeks 12–14 are important to reference. These are introductory concepts — learners do not need to understand compound interest, APR, or monetary policy.
+- **Digital safety reminder:** Connect banks and online accounts by asking: "What are the **Stop, Check, Protect** rules for banking online?"
 - The bridge to Unit 5: "You now understand how your money works and how the bigger system works. For the last four weeks, you are going to **create something** — using everything you have learned."
+
+---
+
+## Companion Materials
+
+- [Glossary](glossary.md) — Review key vocabulary from Weeks 12–14

@@ -15,7 +15,7 @@ Money is limited. Time is limited. When someone chooses to spend money on one th
 
 This is one of the most important ideas in all of financial thinking. Once students understand opportunity cost, they start seeing every decision differently — not just "what am I getting?" but also "what am I giving up?"
 
-> **Unit Key Activity:** Making real financial decisions — choosing how to spend limited resources, building budgets, and preparing for the unexpected.
+> **This Week's Anchor Activity:** The Opportunity Cost Choice Challenge — students face realistic two-option decisions and identify what they give up with every choice.
 
 ---
 
@@ -31,6 +31,11 @@ This is one of the most important ideas in all of financial thinking. Once stude
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Every choice has an opportunity cost — the value of the best alternative you gave up.
+**Core activity:** Present three two-option choice cards and have the learner identify the opportunity cost each time (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -58,6 +63,12 @@ Keep the tone exploratory. Ask "what did you give up?" with curiosity, not judgm
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+In **Week 8**, we learned about **friction** — things that slow you down before spending. Friction helps you pause and think. This week, we learn the name for what you are thinking about during that pause: **opportunity cost**.
+
+**Quick check:** What is one friction strategy you could use before buying something?
+:::
 
 *(About 20 Minutes)*
 
@@ -410,6 +421,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"Think about how you spent your last free afternoon. What did you do? Now think about what you could have done instead. Was your choice worth it? How do you decide?"*
+
+---
+
+## Companion Materials
+
+- [Opportunity Cost Choice Cards](resources/opportunity-cost-cards.md) — Two-option, three-option, and budget-based choice cards
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

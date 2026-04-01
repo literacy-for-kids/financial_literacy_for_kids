@@ -135,11 +135,32 @@ The goal is **confidence, ownership, and thoughtful decision-making**, not perfe
 
 Every weekly page includes:
 
+- **Minimum Viable Lesson** — a short-on-time version highlighting the one key concept and core activity
+- **Spiral Review** — a "Remember from Earlier?" box that connects each week to previous learning
 - **Check for Understanding** — 3–5 formative questions to use orally or in writing
 - **What Success Looks Like** — brief mastery indicators in plain language
 - **Reflection Prompt** — a short self-assessment question for the learner
+- **Companion Materials** — links to printable resources, handouts, and the glossary
 
 Unit checkpoint pages appear after each major section of the curriculum for lightweight review and application.
+
+---
+
+### Supporting Materials
+
+Use the [Resources Hub](/docs/resources/overview) for printable activity cards, worksheets, student handouts, the curriculum-wide [Glossary](/docs/glossary), and the [Facilitator Quick Reference](/docs/resources/facilitator-quick-reference).
+
+---
+
+### Digital Safety Strand
+
+Starting in Week 7, the curriculum weaves a **digital safety thread** through lessons on digital money, online payments, and consumer protection. Learners practice the three core rules — **Stop, Check, Protect** — through realistic scenario cards. These rules are reinforced in every subsequent unit.
+
+---
+
+### Equity & Family-Context Approach
+
+This curriculum respects that every family manages money differently. Facilitator guidance throughout the program helps ensure that discussions about budgets, spending, and saving never shame or exclude learners based on their family's financial situation. Key principles include using "some families" language, never asking learners to disclose personal financial details, and normalizing a variety of valid approaches.
 
 ---
 

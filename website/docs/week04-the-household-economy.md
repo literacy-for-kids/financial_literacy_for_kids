@@ -21,7 +21,7 @@ This week introduces three important ideas:
 
 These ideas prepare students to understand how money moves through everyday life in the coming weeks.
 
-> **Unit Key Activity:** The "Introducing Currency" experiment — building a marketplace where students trade, barter, and discover why money was invented.
+> **This Week's Anchor Activity:** The Household Budget Challenge — students manage a limited household budget, sorting needs from wants and facing surprise expenses.
 
 ---
 
@@ -37,6 +37,11 @@ These ideas prepare students to understand how money moves through everyday life
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Every household must balance needs and wants with limited money — and unexpected expenses force tradeoffs.
+**Core activity:** Run the Needs vs. Wants sorting activity from Session 1 using everyday items the learner can relate to (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -65,7 +70,15 @@ The goal is for students to **notice** that money decisions involve priorities a
 
 ## Session 1
 
-### Needs and Wants (About 20 Minutes)
+:::note Remember from Earlier?
+In **Weeks 1–3**, we learned that different people value different things, that trade happens because of those differences, and that money was invented to make trade easier. Now we zoom in to see how money decisions work inside a household.
+
+**Quick check:** Can you explain in one sentence why money exists?
+:::
+
+*(About 20 Minutes)*
+
+### Needs and Wants
 
 #### Learning Goal
 
@@ -161,7 +174,9 @@ This helps students see that the **basic version** may be a need, but the **upgr
 
 ## Session 2
 
-### Fixed and Flexible Spending (About 20 Minutes)
+*(About 20 Minutes)*
+
+### Fixed and Flexible Spending
 
 #### Learning Goal
 
@@ -264,7 +279,9 @@ Let the student share. There are no wrong answers — the point is to recognize 
 
 ## Session 3
 
-### Build a Household Budget (About 20 Minutes)
+*(About 20 Minutes)*
+
+### Build a Household Budget
 
 #### Instruction
 
@@ -379,6 +396,15 @@ This week is not about teaching "the right way" to budget. It is about helping s
 - Avoid moralizing about spending. The goal is awareness, not judgment.
 - Thread the earning connection: when introducing household income, mention that the money families spend was **earned** by someone — through work, effort, skills, or providing goods and services. This reinforces that money is connected to creating value for others.
 
+:::info Equity & Family-Context Guidance
+Every family’s budget looks different, and every approach reflects real priorities and circumstances.
+- Use “**some families**” language instead of “your family should…”
+- **Never ask learners to disclose** their family’s income, housing situation, or food budget.
+- When a learner says something like “we can’t afford that,” respond with: *“Every family makes different choices about where their money goes. That is exactly what budgeting is about.”*
+- Frame all budget differences as valid: a family that spends more on transportation may live farther from work; a family that spends less on entertainment may be saving for something big.
+- The goal is **awareness of choices**, not judgment of anyone’s situation.
+:::
+
 ---
 
 ## Age Adaptation Notes
@@ -422,6 +448,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"If your family had to cut one thing from its spending this month, what would be the hardest thing to give up? What would be the easiest? Why?"*
+
+---
+
+## Companion Materials
+
+- [Household Scenario Cards](resources/household-scenario-cards.md) — Needs/wants sorting cards, budget sheets, and surprise expense cards
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

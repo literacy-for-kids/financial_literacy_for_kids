@@ -17,7 +17,7 @@ A solution is an idea that makes a problem easier, faster, cheaper, or more enjo
 
 The best solutions are not necessarily the most complicated or expensive. They are the ones that clearly address a real problem and genuinely help the people who have it. This week, students will learn to think like designers — turning observations into ideas, and ideas into something they can describe, draw, and explain to others.
 
-> **Unit Key Activity:** Building and presenting a product or service idea that provides genuine value to others.
+> **This Week's Anchor Activity:** The Solution Sketch — students design and prototype a product or service to solve their chosen problem.
 
 ---
 
@@ -33,6 +33,11 @@ The best solutions are not necessarily the most complicated or expensive. They a
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** A prototype is an early version of an idea — it does not have to be perfect, it just has to show how the solution works.
+**Core activity:** Have each learner describe their solution idea in writing (what it is, who it helps, how it works) and draw a simple sketch or diagram (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -65,6 +70,12 @@ Remind students that nearly every successful product or business started as a ro
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+In **Week 15**, you identified a real problem you want to solve. This week, you move from the problem to the **solution** — designing what your product or service will look like and how it will work.
+
+**Quick check:** What problem did you choose, and who does it affect?
+:::
 
 *(About 20 Minutes)*
 
@@ -458,7 +469,7 @@ Students do not need a finished, polished idea this week. They need a **clear** 
 1. What is the difference between a product and a service?
 2. Why is it important to describe your solution clearly before building it?
 3. How does feedback make an idea better?
-4. What are the four key questions every solution should answer? (What problem? Who benefits? How does it work? What do you need?)
+4. What are the three key questions every solution should answer? (What problem does it solve? Who does it help? How does it work?)
 5. How did your solution idea change after getting feedback?
 
 ---
@@ -478,6 +489,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"Did your solution idea change after talking about it with someone else? What changed, and why? What does that teach you about sharing ideas early?"*
+
+---
+
+## Companion Materials
+
+- [Capstone Planning Guide](resources/capstone-planning-guide.md) — Solution design worksheets (Steps 3–6)
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

@@ -76,6 +76,16 @@ Every learner who participated in the project process deserves recognition. The 
 
 ---
 
+### 6. Vocabulary and Financial Literacy (Optional Bonus)
+
+| Level | Description |
+|---|---|
+| **Getting Started** | Did not use financial vocabulary from the curriculum |
+| **On Track** | Used at least two key terms correctly (e.g., budget, opportunity cost, value, tradeoff) |
+| **Shining** | Naturally used multiple key terms from the [Glossary](glossary.md) and could explain them in their own words |
+
+---
+
 ## Self-Assessment Version
 
 Learners can use this simplified version to evaluate their own work:
@@ -85,6 +95,7 @@ Learners can use this simplified version to evaluate their own work:
 3. **My budget:** Did I think about what my project would cost and make smart choices about resources? ⭐
 4. **My presentation:** Did I share my idea clearly with others? ⭐
 5. **My reflection:** Can I name one thing I learned and one thing I would do differently? ⭐
+6. **My vocabulary:** Did I use words from our [Glossary](glossary.md) when explaining my project? ⭐
 
 *For each star, learners rate themselves: "Still working on it" / "I did this" / "I'm proud of this"*
 

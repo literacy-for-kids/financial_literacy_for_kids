@@ -17,7 +17,7 @@ This matters because inflation affects **purchasing power** — how much stuff a
 
 Understanding inflation connects everything students have learned so far: why saving matters, why interest matters, and why financial planning is about **the future**, not just today.
 
-> **Unit Key Activity:** Simulating a bank to understand how financial records track the movement of money.
+> **This Week's Anchor Activity:** The Inflation Market — students experience rising prices over several simulation rounds and discover how inflation changes buying power.
 
 ---
 
@@ -33,6 +33,11 @@ Understanding inflation connects everything students have learned so far: why sa
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Inflation means prices go up over time, so the same amount of money buys less than it used to.
+**Core activity:** Show the sandwich price example (prices rising over 4 years) and calculate how many sandwiches $20 can buy at each price. Discuss what happened to buying power (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -62,6 +67,12 @@ Keep the tone curious: "Isn't it interesting that things used to cost less?" rat
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+In **Week 13**, we learned that **interest** makes your savings grow over time. But there is a force working in the other direction: **inflation** means prices go up over time. This week, we discover what happens when your money stays the same but prices do not.
+
+**Quick check:** If you save $100 and earn 5% interest, how much do you have after one year?
+:::
 
 *(About 20 Minutes)*
 
@@ -421,6 +432,15 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"Ask a parent, grandparent, or older person: 'What did your favorite food cost when you were my age?' Compare their answer to today's price. What does that tell you about money and time?"*
+
+---
+
+## Companion Materials
+
+- [Bank Ledger Templates](resources/bank-ledger-templates.md) — Inflation price tracker and buying power calculator
+- [Week 14 Student Handout](handouts/week14-inflation.md) — Take-home summary of inflation, buying power, and the Inflation Detective activity
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

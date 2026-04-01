@@ -15,7 +15,7 @@ Students learn that money is not valuable by itself. A coin or a bill is just an
 
 This week connects the difficulties of barter directly to the invention of money.
 
-> **Unit Key Activity:** The "Introducing Currency" experiment — building a marketplace where students trade, barter, and discover why money was invented.
+> **This Week's Anchor Activity:** The Currency Invention Challenge — students create their own tokens to solve barter problems and discover how and why money was invented.
 
 ---
 
@@ -31,6 +31,11 @@ This week connects the difficulties of barter directly to the invention of money
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Money is a shared agreement — it works because people trust it, not because the object itself is valuable.
+**Core activity:** Run the "Remember the Barter Market" discussion from Session 1 and walk through why a shared token solves the problem (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -58,7 +63,15 @@ The key insight: **money is an agreement**, not a thing.
 
 ## Session 1
 
-### The Problem With Barter (About 20 Minutes)
+:::note Remember from Earlier?
+In **Week 2**, we tried the barter market and some trades were easy while others were frustrating. Barter only works when two people each have exactly what the other wants — at the same time. This week, we discover the solution that communities invented.
+
+**Quick check:** What was a trade that did NOT work in the barter market, and why?
+:::
+
+*(About 20 Minutes)*
+
+### The Problem With Barter
 
 #### Learning Goal
 
@@ -147,7 +160,9 @@ When someone describes this, name it:
 
 ## Session 2
 
-### What Money Actually Is (About 20 Minutes)
+*(About 20 Minutes)*
+
+### What Money Actually Is
 
 #### Learning Goal
 
@@ -247,7 +262,9 @@ Let them reason through it: trade would get confusing again. The whole point of 
 
 ## Session 3
 
-### Introducing Currency (About 20 Minutes)
+*(About 20 Minutes)*
+
+### Introducing Currency
 
 #### Instruction
 
@@ -403,6 +420,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"If you could design your own money for your school or neighborhood, what would you make it out of? What qualities would it need to have for everyone to trust it?"*
+
+---
+
+## Companion Materials
+
+- [Value & Trade Cards](resources/value-trade-cards.md) — Currency tokens and price lists for the marketplace activity
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

@@ -91,9 +91,21 @@ The end of the curriculum is worth celebrating. Consider:
 
 ---
 
+## Companion Materials
+
+Use these resources to support final reflection and review:
+
+- [Glossary](glossary.md) — Review key vocabulary from all 18 weeks
+- [Capstone Planning Guide](resources/capstone-planning-guide.md) — Students can revisit their planning worksheets
+- [Capstone Presentation Guide](resources/capstone-presentation-guide.md) — Presentation tips and peer feedback forms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — Full curriculum summary on one page
+
+---
+
 ## Facilitator Notes
 
 - This checkpoint can be combined with the Week 18 reflection activity, or done as a separate brief session.
 - The most important outcome of the capstone is **pride and ownership**, not polish.
 - If some learners did not complete a full project, they can still participate in the reflection and conversation.
+- **Digital safety reminder:** Close by asking learners to name the three digital-money rules: **Stop, Check, Protect.**
 - Thank yourself, too. Facilitating 18 weeks of curriculum is a significant commitment.

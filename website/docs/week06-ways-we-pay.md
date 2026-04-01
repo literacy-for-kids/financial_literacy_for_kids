@@ -15,7 +15,7 @@ People can pay for things in many different ways. Cash is the most familiar, but
 
 The tool used to pay does not change the underlying idea of trade — but it can change **how spending feels**.
 
-> **Unit Key Activity:** Tracking a "spent" dollar through the local economy to see how many people it touches.
+> **This Week's Anchor Activity:** The Payment Method Showdown — students compare cash, debit, credit, and digital payments to understand the tradeoffs of each.
 
 ---
 
@@ -31,6 +31,11 @@ The tool used to pay does not change the underlying idea of trade — but it can
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** There are many ways to pay for things, and each method has different tradeoffs — speed, safety, cost, and control.
+**Core activity:** Present the four payment methods (cash, debit, credit, mobile) and have learners match scenario cards to the best payment method (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -62,7 +67,15 @@ Keep things concrete and familiar. Avoid explaining banking infrastructure — t
 
 ## Session 1
 
-### Cash and Physical Payments (About 20 Minutes)
+:::note Remember from Earlier?
+In **Week 5**, we followed money on its journey through a community and saw how one person’s spending becomes another person’s income. This week, we look at the **tools** people use to make those payments happen.
+
+**Quick check:** Can you describe how a single dollar might travel from one person to another to another?
+:::
+
+*(About 20 Minutes)*
+
+### Cash and Physical Payments
 
 #### Learning Goal
 
@@ -149,7 +162,9 @@ Let students brainstorm. This sets up the next session naturally.
 
 ## Session 2
 
-### Cards and Digital Payments (About 20 Minutes)
+*(About 20 Minutes)*
+
+### Cards and Digital Payments
 
 #### Learning Goal
 
@@ -253,7 +268,9 @@ This is an interesting question. Many students (and adults!) will say it feels d
 
 ## Session 3
 
-### Payment Method Comparison (About 20 Minutes)
+*(About 20 Minutes)*
+
+### Payment Method Comparison
 
 #### Instruction
 
@@ -398,6 +415,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"Think about the last time you saw someone pay for something. What method did they use? Do you think they thought carefully about the purchase, or did it happen almost automatically? Why might that matter?"*
+
+---
+
+## Companion Materials
+
+- [Payment Comparison Cards](resources/payment-comparison-cards.md) — Detailed payment method cards and scenario sorting activity
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

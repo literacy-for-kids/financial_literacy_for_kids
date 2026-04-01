@@ -74,4 +74,11 @@ This unit is the most hands-on so far. Check whether learners can **do** the fol
 
 - This checkpoint should take **10–15 minutes**.
 - Unit 3 is where abstract concepts became practical skills. If learners can budget, identify tradeoffs, and understand emergency funds, they are well-prepared for the remaining units.
+- **Digital safety reminder:** Briefly revisit **Stop, Check, Protect** with a too-good-to-be-true online deal scenario.
 - The bridge to Unit 4: "You now know how to manage your own money. Next, you will learn about the bigger systems that everyone's money flows through — starting with banks."
+
+---
+
+## Companion Materials
+
+- [Glossary](glossary.md) — Review key vocabulary from Weeks 9–11

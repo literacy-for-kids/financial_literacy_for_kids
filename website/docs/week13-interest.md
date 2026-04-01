@@ -17,7 +17,7 @@ But interest works in the other direction, too. When someone **borrows** money, 
 
 This is one of the most powerful ideas in finance: **time changes the value of money.** A dollar saved today may be worth more tomorrow. A dollar borrowed today may cost more to repay later.
 
-> **Unit Key Activity:** Simulating a bank to understand how financial records track the movement of money.
+> **This Week's Anchor Activity:** The Interest Calculator — students watch their classroom bank savings grow with interest and compare how different rates change the outcome.
 
 ---
 
@@ -33,6 +33,11 @@ This is one of the most powerful ideas in finance: **time changes the value of m
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Interest can work for you (saving) or against you (borrowing) — and time makes the difference bigger.
+**Core activity:** Walk through one saving example and one borrowing example on the board, showing how interest adds up over three periods (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -62,6 +67,12 @@ Keep the numbers simple and the focus on the pattern: a little extra, added agai
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+In **Week 12**, we set up our classroom bank — opening accounts, making deposits, and tracking balances on a ledger. Now we add something new: the bank is going to **pay you extra money** just for keeping your savings there. That extra money is called **interest**.
+
+**Quick check:** What is the difference between a deposit and a withdrawal?
+:::
 
 *(About 20 Minutes)*
 
@@ -417,6 +428,15 @@ The borrowing discussion in Session 2 is equally important. Students should leav
 - Connect to real decisions. "If your grandparent gives you birthday money, what might happen if you save it in a bank versus spending it right away?"
 - Balance both sides of interest. Do not make saving sound perfect or borrowing sound bad. Both are tools — and understanding when to use each one is the real skill.
 
+:::info Equity & Family-Context Guidance
+Interest and borrowing can be emotionally charged topics. Many families carry debt, and learners may have heard stress about loans, credit cards, or bills at home. Handle this with care:
+- **Never ask learners to share** whether their family borrows money, has loans, or is in debt.
+- Use **"some families"** language: "Some families borrow money to buy a home or pay for school, and that is a normal part of how money works."
+- **Frame borrowing as a tool, not a mistake.** Borrowing is a financial decision with tradeoffs — just like every other choice in this curriculum.
+- If a learner says "my family owes money," respond with: *"Many families do — borrowing is one of the tools people use. What matters is understanding how it works so you can make great decisions."*
+- Emphasize that **the goal is knowledge, not judgment.** Understanding interest gives people power to make informed choices.
+:::
+
 ---
 
 :::note Simplified Model Note
@@ -468,6 +488,15 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"If someone offered you $100 today or $120 a year from now, which would you choose? Why? What if the wait was 10 years — would your answer change?"*
+
+---
+
+## Companion Materials
+
+- [Bank Ledger Templates](resources/bank-ledger-templates.md) — Interest tracker and borrowing log templates
+- [Week 13 Student Handout](handouts/week13-interest.md) — Take-home summary of saving interest, borrowing interest, and how to calculate them
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

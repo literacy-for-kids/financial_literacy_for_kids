@@ -21,7 +21,7 @@ A solution that sits in a notebook helps no one. Value becomes real when it reac
 
 The week ends with the **Value Showcase** — where every student presents their project and the class reflects on the full journey from Week 1 to Week 18.
 
-> **Unit Key Activity:** Building and presenting a product or service idea that provides genuine value to others.
+> **This Week's Anchor Activity:** The Value Pitch — students present their completed projects to an audience and explain the value they created.
 
 ---
 
@@ -37,6 +37,11 @@ The week ends with the **Value Showcase** — where every student presents their
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Sharing your work helps others understand the value you created — and a clear presentation is a skill in itself.
+**Core activity:** Have each learner deliver a 2–3 minute pitch covering their problem, solution, and what they learned. Use the presentation checklist to prepare (15–20 minutes per learner).
 :::
 
 ## Facilitator Preparation
@@ -76,6 +81,12 @@ This is also a moment to look back at the full 18-week journey. Help students se
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+Over the past 17 weeks, you have learned about **value, trade, money, budgets, opportunity cost, interest, inflation**, and more. Last week, you built a budget for your project. Now it is time to share what you created with the world.
+
+**Quick check:** Can you name three financial concepts you used in your project?
+:::
 
 *(About 20 Minutes)*
 
@@ -488,6 +499,15 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"If you could go back to Week 1 and tell yourself one thing about money that you know now, what would it be? Why?"*
+
+---
+
+## Companion Materials
+
+- [Capstone Presentation Guide](resources/capstone-presentation-guide.md) — Presentation planning templates, tips, and peer feedback forms
+- [Capstone Planning Guide](resources/capstone-planning-guide.md) — Complete student planning guide for self-assessment
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

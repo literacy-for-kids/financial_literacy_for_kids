@@ -17,7 +17,7 @@ An **emergency fund** is money that people save specifically to handle unexpecte
 
 Students who understand this idea learn one of the most stabilizing habits in personal finance: **set something aside, just in case**.
 
-> **Unit Key Activity:** Making real financial decisions — choosing how to spend limited resources, building budgets, and preparing for the unexpected.
+> **This Week's Anchor Activity:** The Emergency Fund Simulation — students build an emergency fund, then face surprise events and decide how to respond.
 
 ---
 
@@ -33,6 +33,11 @@ Students who understand this idea learn one of the most stabilizing habits in pe
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Unexpected expenses happen to everyone — an emergency fund is money you set aside so surprises do not derail your plans.
+**Core activity:** Present five emergency sorting cards and have learners debate which are true emergencies and which are not (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -62,6 +67,12 @@ Keep the tone confident and practical. The message is: "Surprises happen to ever
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+In **Week 10**, we learned that a **budget** is a plan for your money. But what happens when something unexpected comes along and your plan has to change? This week, we learn about risk and why setting money aside for surprises matters.
+
+**Quick check:** What are the three categories in a basic budget? (Needs, Wants, Save)
+:::
 
 *(About 20 Minutes)*
 
@@ -404,6 +415,15 @@ This also closes the loop on the unit's three big ideas:
 - Discuss rebuilding. After using an emergency fund, people need to rebuild it. This teaches that emergency savings are not a one-time thing — they are an ongoing habit.
 - Avoid specific dollar amounts for "real" emergency funds. The lesson is about the concept, not a specific number. Different families have different situations, and the goal is understanding the principle.
 
+:::info Equity & Family-Context Guidance
+Discussions about emergencies and financial risk can be sensitive. Some learners may have experienced real financial hardship.
+- **Do not assume** all families have emergency funds or savings. Many do not, and that is not a failure.
+- Frame emergency funds as a **goal to work toward**, not something everyone already has.
+- If a learner shares a real difficult experience, validate it: *"That sounds really hard. Situations like that are exactly why learning about emergency planning matters."*
+- Avoid examples that could feel exclusionary (e.g., "when your family's second car breaks down").
+- Use **diverse scenarios** that reflect different living situations.
+:::
+
 ---
 
 ## Age Adaptation Notes
@@ -449,6 +469,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"Think about a time something unexpected happened in your family. It does not have to be about money — just something nobody planned for. How did your family handle it? What made it easier or harder?"*
+
+---
+
+## Companion Materials
+
+- [Emergency Event Cards](resources/emergency-event-cards.md) — Emergency sorting cards, fund simulation, and risk-level ranking activity
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

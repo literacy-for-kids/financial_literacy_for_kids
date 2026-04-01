@@ -15,14 +15,14 @@ This week, students learn that value is **subjective** — meaning different peo
 
 This idea becomes the foundation for understanding trade, money, and financial decisions throughout the rest of the curriculum.
 
-> **Unit Key Activity:** The "Introducing Currency" experiment — building a marketplace where students trade, barter, and discover why money was invented.
+> **This Week's Anchor Activity:** The Value Ranking Game — students rank everyday items by personal value and discover that no two people rank them the same way.
 
 ---
 
 :::info Facilitator Snapshot
 - **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
-- If time is short, run one session well and leave the rest for later. The lessons are designed to stretch across the week.
+- If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
 - The third session works best after the learner has already explored the main idea with you once.
 :::
 
@@ -31,6 +31,11 @@ This idea becomes the foundation for understanding trade, money, and financial d
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Value is subjective — different people value different things, and that is completely normal.
+**Core activity:** Run the "Would You Rather?" game from Session 1 and discuss why different people made different choices (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -59,7 +64,9 @@ The goal is for students to feel confident explaining **why** they value somethi
 
 ## Session 1
 
-### What Is Value? (About 20 Minutes)
+*(About 20 Minutes)*
+
+### What Is Value?
 
 #### Learning Goal
 
@@ -146,7 +153,9 @@ There are no wrong answers. The point is to notice that **different people choos
 
 ## Session 2
 
-### Why Things Become Valuable (About 20 Minutes)
+*(About 20 Minutes)*
+
+### Why Things Become Valuable
 
 #### Learning Goal
 
@@ -244,7 +253,9 @@ Explain:
 
 ## Session 3
 
-### The Value Exchange Game (About 20 Minutes)
+*(About 20 Minutes)*
+
+### The Value Exchange Game
 
 #### Instruction
 
@@ -382,6 +393,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"Think about something you value a lot. Why is it important to you? Do you think everyone would feel the same way about it? What does that tell you about how value works?"*
+
+---
+
+## Companion Materials
+
+- [Value & Trade Cards](resources/value-trade-cards.md) — Item cards and ranking sheets for Weeks 1–3
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

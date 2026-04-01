@@ -17,7 +17,7 @@ Every business, every product, every service that has ever existed started the s
 
 This week, students practice that first step. They become **problem finders** — careful observers who look at everyday life and ask: "What could be better?"
 
-> **Unit Key Activity:** Building and presenting a product or service idea that provides genuine value to others.
+> **This Week's Anchor Activity:** The Problem Hunt — students observe their school and community to find real problems worth solving.
 
 ---
 
@@ -33,6 +33,11 @@ This week, students practice that first step. They become **problem finders** �
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Every business or project starts with noticing a problem that people need solved.
+**Core activity:** Have each learner list 3–5 problems they notice in their school, home, or neighborhood, then pick the one they find most interesting (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -63,6 +68,12 @@ Encourage every observation, no matter how small. A messy desk, a tangled cord, 
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+Over the past 14 weeks, we have learned about **value**, **trade**, **money**, **budgets**, **interest**, and **inflation**. Now it is time to put it all together. In this final unit, you will create something valuable — a real project that solves a real problem.
+
+**Quick check:** What does "value" mean? (Hint: we learned this in Week 1!)
+:::
 
 *(About 20 Minutes)*
 
@@ -451,6 +462,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"What is one problem you noticed this week that you had never paid attention to before? Why do you think you noticed it now, when you had not noticed it before?"*
+
+---
+
+## Companion Materials
+
+- [Capstone Planning Guide](resources/capstone-planning-guide.md) — Step-by-step student planning worksheets for Weeks 15–18
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

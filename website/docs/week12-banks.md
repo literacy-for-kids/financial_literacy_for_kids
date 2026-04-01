@@ -15,7 +15,7 @@ Most people do not keep their money under a mattress or carry it all in their po
 
 Banks are like the record-keeping system of the financial world. Every deposit, every withdrawal, every payment with a card — a bank is updating its records behind the scenes. Students who understand how banks work begin to see the **infrastructure** that makes modern money possible.
 
-> **Unit Key Activity:** Simulating a bank to understand how financial records track the movement of money.
+> **This Week's Anchor Activity:** The Classroom Bank — students open accounts, make deposits and withdrawals, and keep ledgers to experience how banks track money.
 
 ---
 
@@ -31,6 +31,11 @@ Banks are like the record-keeping system of the financial world. Every deposit, 
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** A bank is a place that keeps money safe and keeps a record of every transaction — deposit in, withdrawal out.
+**Core activity:** Set up a simple two-account ledger on the board and walk through three transactions together (deposit, purchase, deposit) so learners see balances change (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -60,6 +65,12 @@ Keep the tone curious. Banks are fascinating systems when you look at what they 
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+In **Week 11**, we learned about **risk** and **emergency funds** — setting money aside for surprises. But where do people keep that money safe? This week, we explore how banks work.
+
+**Quick check:** What is the difference between a true emergency and something that just feels urgent?
+:::
 
 *(About 20 Minutes)*
 
@@ -398,6 +409,14 @@ This is also the first week of the Economic Systems unit. Students are shifting 
 - Connect to earlier weeks. In Week 7, students learned that most money is digital. This week, they learn **where** that digital money lives — in bank records.
 - Ask students to notice banks in daily life. "Next time your family pays for something with a card, think about which records are being updated."
 
+:::info Equity & Family-Context Guidance
+Not all families use traditional banks. Some use credit unions, prepaid cards, check-cashing services, or cash-based systems.
+- Present banks as **one important option**, not the only option.
+- If a learner says "my family doesn't use a bank," respond with: *"There are many ways people manage money. Banks are one option — we are learning how they work so you have that knowledge for the future."*
+- **Never ask** whether a learner's family has a bank account.
+- Focus on the **concept** (safe record-keeping of money) rather than on any single institution.
+:::
+
 ---
 
 :::note Simplified Model Note
@@ -448,6 +467,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"If you were put in charge of a bank for a day, what would be the most important thing you would have to do? What would worry you the most?"*
+
+---
+
+## Companion Materials
+
+- [Bank Ledger Templates](resources/bank-ledger-templates.md) — Basic ledger, interest tracker, and combined bank statement templates
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

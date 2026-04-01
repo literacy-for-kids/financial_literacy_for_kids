@@ -17,7 +17,7 @@ Budgeting does not mean someone cannot spend money. It means they have **thought
 
 This is one of the most directly useful skills in the entire curriculum. Students who learn to plan their money — even in simple ways — carry that habit for life.
 
-> **Unit Key Activity:** Making real financial decisions — choosing how to spend limited resources, building budgets, and preparing for the unexpected.
+> **This Week's Anchor Activity:** The Budget Builder — students create a personal budget for a set amount, balancing needs, wants, and savings.
 
 ---
 
@@ -33,6 +33,11 @@ This is one of the most directly useful skills in the entire curriculum. Student
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** A budget is a plan for your money — it helps you decide where your money goes before you spend it.
+**Core activity:** Give each learner $20 (play money or on paper) and ask them to split it into Needs, Wants, and Save categories. Discuss as a group (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -62,6 +67,12 @@ Keep the tone positive. A budget is not a set of rules someone else imposes — 
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+In **Week 9**, we learned about **opportunity cost** — the value of the next-best thing you give up when you make a choice. Budgeting is how we manage all those choices at once: deciding ahead of time where our money will go.
+
+**Quick check:** What is the opportunity cost of spending $10 on a toy if you could have saved it toward a $50 skateboard?
+:::
 
 *(About 20 Minutes)*
 
@@ -414,6 +425,15 @@ Students do not need to create perfect budgets. They need to learn that **having
 - Connect to real life gently. Ask students if their family plans spending before a grocery trip or a vacation — that is budgeting in action.
 - Avoid associating budgeting with poverty or scarcity. Everyone benefits from planning, regardless of how much money they have.
 
+:::info Equity & Family-Context Guidance
+Budgeting is deeply personal, and family financial situations vary widely. Handle this topic with care:
+- Use **"some families"** language: "Some families budget weekly, some monthly, some differently."
+- **Never ask learners to share** their family's real budget, income, or spending.
+- If a learner says "we don't have enough," respond with: *"Making the most of what you have is exactly what budgeting is about — and that is a real skill."*
+- Present the 50/30/20 guideline as **one approach**, not the right one. Many families cannot follow it, and that is normal.
+- Emphasize that budgeting is a **tool for control**, not a sign that someone does not have enough.
+:::
+
 ---
 
 ## Consumer Awareness Integration
@@ -474,6 +494,15 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"If you received $50 as a gift and had to split it into categories — spending, saving, and one other category you choose — how would you divide it? What is your third category, and why did you pick it?"*
+
+---
+
+## Companion Materials
+
+- [Budget Planning Sheets](resources/budget-planning-sheets.md) — Guided and open-ended budget worksheets plus adjustment cards
+- [Week 10 Student Handout](handouts/week10-budgeting.md) — Take-home summary of budgeting basics and the needs-wants-save framework
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

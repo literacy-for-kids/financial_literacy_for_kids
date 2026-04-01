@@ -41,17 +41,21 @@ Use it however works best:
 3. **Digital Money:** Is digital money real money? How do you know?
 4. **Friction:** What does "friction" mean when it comes to spending? Give an example of high friction and low friction.
 5. **Connection:** How does understanding digital money (Week 7) help explain why friction matters (Week 8)?
+6. **Digital Safety:** What are the three rules for staying safe with money online? Can you describe a situation where you would use them?
 
 ---
 
-## Consumer Awareness Check
+## Consumer Awareness & Digital Safety Check
 
-This unit introduced important consumer awareness themes. Check whether learners can:
+This unit introduced important consumer awareness and digital safety themes. Check whether learners can:
 
 - [ ] Name at least one way companies make spending feel easy (one-click, in-app purchases, auto-renewals)
 - [ ] Explain why paying with cash might feel different from paying with a phone
 - [ ] Describe a simple strategy for pausing before an impulse purchase
 - [ ] Recognize that "free" offers and targeted ads are designed to influence spending
+- [ ] Recite the three digital safety rules: **Stop, Check, Protect**
+- [ ] Identify at least one red flag in an online scenario (phishing, fake prizes, password requests)
+- [ ] Explain why they should never share personal or payment information online without a trusted adult's permission
 
 ---
 
@@ -83,3 +87,4 @@ After completing this unit, most learners should be able to:
 - The consumer awareness themes from this unit are especially important to reinforce, since they connect directly to budgeting in Unit 3.
 - If learners struggled with the digital money concept, revisit the "bank balance is like a game score" analogy before moving on.
 - Celebrate what they know. By this point, learners understand more about how money works than many adults actively think about.
+- The **digital safety rules** (Stop, Check, Protect) introduced in this unit should be reinforced in every future unit whenever digital topics arise. See the [Digital Safety Scenarios](resources/digital-safety-scenarios.md) for practice cards.

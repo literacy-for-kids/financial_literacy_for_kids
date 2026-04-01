@@ -15,7 +15,7 @@ Modern payment tools make purchases feel effortless. A tap, a click, a swipe —
 
 Students learn that small **pauses** before spending — called financial friction — can help people make more thoughtful choices. This is one of the most practical skills in the entire curriculum.
 
-> **Unit Key Activity:** Tracking a "spent" dollar through the local economy to see how many people it touches.
+> **This Week's Anchor Activity:** The Friction Experiment — students compare fast-purchase and slow-purchase scenarios to discover how friction protects us from impulse spending.
 
 ---
 
@@ -31,6 +31,11 @@ Students learn that small **pauses** before spending — called financial fricti
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Friction is anything that slows you down before spending — and that slowdown helps you make better decisions.
+**Core activity:** Present two scenarios (one with friction, one without) and discuss which leads to a better decision. Then have each learner choose one personal friction strategy (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -59,6 +64,12 @@ Keep the tone curious, not preachy. Ask "did you notice?" rather than "you shoul
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+In **Week 7**, we discovered that most money today is digital — just numbers in computer systems. Digital payments are fast and easy, but that speed can sometimes be a problem. This week, we explore why.
+
+**Quick check:** What actually happens behind the scenes when someone taps a card to pay?
+:::
 
 *(About 20 Minutes)*
 
@@ -360,6 +371,19 @@ The goal is not to make spending feel bad. It is to help students recognize that
 - Ask "what changed?" after the pause rounds. The answer reveals the thinking process.
 - Let students keep their personal friction strategies. These are real tools they can use starting today.
 
+:::caution Digital Safety Spotlight
+This week's friction concept connects directly to digital safety. Online spending has **very low friction** — one-click buying, saved payment info, and in-app purchases all remove the pause that helps us think.
+
+Reinforce the three rules from Week 7: **Stop, Check, Protect.**
+
+Discuss with learners:
+- How do apps and websites try to **remove friction** to get you to spend faster?
+- What are some **digital friction strategies** you could use? (e.g., removing saved payment info, using a wishlist, asking a parent before buying)
+- How can you tell the difference between a real deal and a trick designed to make you spend quickly?
+
+Use scenarios from the [Spending Decision Cards](resources/spending-decision-cards.md) and [Digital Safety Scenarios](resources/digital-safety-scenarios.md) to practice.
+:::
+
 ---
 
 ## Consumer Protection Spotlight
@@ -420,6 +444,16 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"Think about a time you or someone you know bought something really quickly without much thought. Would you have still bought it if you had to walk to a store and pay with cash? What does that tell you about friction?"*
+
+---
+
+## Companion Materials
+
+- [Spending Decision Cards](resources/spending-decision-cards.md) — Paired fast/pause scenarios and personal friction strategy cards
+- [Digital Safety Scenarios](resources/digital-safety-scenarios.md) — Scenario cards for online safety discussions
+- [Week 8 Student Handout](handouts/week08-friction-spending.md) — Take-home summary of friction strategies and consumer protection
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

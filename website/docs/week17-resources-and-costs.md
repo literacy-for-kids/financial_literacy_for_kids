@@ -17,7 +17,7 @@ Every product, every service, every project in the real world requires **resourc
 
 This week, students learn to think about **inputs** (what goes into creating something) and how to manage those inputs wisely using a **budget**. This connects directly to the budgeting and opportunity cost skills they practiced in Weeks 9 and 10 — but now they are applying those skills to their own project.
 
-> **Unit Key Activity:** Building and presenting a product or service idea that provides genuine value to others.
+> **This Week's Anchor Activity:** The Resource Budget — students list the resources they need, estimate costs, and build a realistic budget for their project.
 
 ---
 
@@ -33,6 +33,11 @@ This week, students learn to think about **inputs** (what goes into creating som
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Every project requires resources, and listing them with estimated costs helps you plan realistically.
+**Core activity:** Have each learner list the resources their project needs, estimate costs, and create a simple project budget (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -65,6 +70,12 @@ Connect this week explicitly to the budgeting and opportunity cost lessons from 
 ---
 
 ## Session 1
+
+:::note Remember from Earlier?
+In **Week 16**, you designed your solution — sketching out what it looks like and how it works. This week, you figure out the practical side: what **resources** do you need and what will it **cost**? Time to use those budgeting skills from Week 10!
+
+**Quick check:** What is the difference between a need and a want in a project budget?
+:::
 
 *(About 20 Minutes)*
 
@@ -538,6 +549,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"What was the hardest tradeoff you had to make in your project budget? If you had twice the budget, what would you add first? Why?"*
+
+---
+
+## Companion Materials
+
+- [Capstone Planning Guide](resources/capstone-planning-guide.md) — Resource list and budget worksheets (Steps 7–10)
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

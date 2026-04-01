@@ -15,7 +15,7 @@ Students explore how trade works and learn about **barter** — the earliest for
 
 They will also discover why barter can become difficult in larger groups, which prepares them to understand why money was eventually invented.
 
-> **Unit Key Activity:** The "Introducing Currency" experiment — building a marketplace where students trade, barter, and discover why money was invented.
+> **This Week's Anchor Activity:** The Barter Market Simulation — students try to trade items using only barter and discover why direct exchange can be frustrating.
 
 ---
 
@@ -31,6 +31,11 @@ They will also discover why barter can become difficult in larger groups, which 
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+:::
+
+:::caution Minimum Viable Lesson (Short on Time?)
+**Key concept:** Trade happens because people value things differently, but barter only works when both sides want what the other has.
+**Core activity:** Run the Simple Trade Story from Session 1 — present the granola-bar-and-juice scenario and discuss what makes a trade work (15–20 minutes).
 :::
 
 ## Facilitator Preparation
@@ -59,7 +64,15 @@ Avoid jumping ahead to explain money. Let the problem sit.
 
 ## Session 1
 
-### Why People Trade (About 20 Minutes)
+:::note Remember from Earlier?
+In **Week 1**, we learned that **value is subjective** — different people value different things. That idea is what makes trade possible! If everyone valued exactly the same things in exactly the same way, there would be no reason to trade.
+
+**Quick check:** Can you name one thing you value that someone else might not?
+:::
+
+*(About 20 Minutes)*
+
+### Why People Trade
 
 #### Learning Goal
 
@@ -140,7 +153,9 @@ Introduce one new word:
 
 ## Session 2
 
-### The Barter System (About 20 Minutes)
+*(About 20 Minutes)*
+
+### The Barter System
 
 #### Learning Goal
 
@@ -248,7 +263,9 @@ Do **not** explain money in detail yet — just let the problem sit. Tell them:
 
 ## Session 3
 
-### Barter Market Simulation (About 20 Minutes)
+*(About 20 Minutes)*
+
+### Barter Market Simulation
 
 #### Instruction
 
@@ -397,6 +414,14 @@ By the end of this week, a learner is on track if they can:
 ## Reflection Prompt
 
 > *"Think about a time you traded something with a friend or sibling. Was it easy to agree? What would have happened if neither of you wanted what the other person had?"*
+
+---
+
+## Companion Materials
+
+- [Value & Trade Cards](resources/value-trade-cards.md) — Item cards, want lists, and barter puzzle cards for Weeks 1–3
+- [Glossary](glossary.md) — Kid-friendly definitions for all key terms
+- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — One-page facilitation guide
 
 ---
 

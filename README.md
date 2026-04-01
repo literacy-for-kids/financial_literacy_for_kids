@@ -13,7 +13,7 @@ https://literacy-for-kids.github.io/financial_literacy_for_kids/
 
 # About the Curriculum
 
-This project provides an **18-week introduction to financial literacy** designed for young learners (roughly ages 7-11, with adult guidance as needed).
+This project provides an **18-week introduction to financial literacy** designed for young learners (ages 8–12, with adult guidance as needed).
 
 Instead of focusing on memorizing rules about money, the curriculum helps students develop **mental models for how money works** and how to **make thoughtful financial decisions independently**.
 
@@ -44,6 +44,15 @@ Each week includes:
 
 The curriculum emphasizes **exploration, reasoning, creativity, and problem solving**.
 
+### Supporting Materials
+
+- **[Glossary](website/docs/glossary.md)** — Kid-friendly definitions for every key financial term
+- **Resource Hub** — Printable activity cards, planning sheets, and simulation templates organized by unit
+- **Student Handouts** — Take-home reference sheets for the most concept-dense weeks (7, 8, 10, 13, 14)
+- **Facilitator Quick Reference** — One-page guide covering session structure, equity approach, and vocabulary
+- **Digital Safety Strand** — Stop, Check, Protect framework introduced in Weeks 7–8 and reinforced throughout
+- **Equity & Family-Context Guidance** — Built-in facilitator support ensuring no learner is shamed or excluded based on family finances
+
 ---
 
 # Repository Structure
@@ -57,10 +66,23 @@ website/
   docs/
     intro.md
     curriculum-overview.md
+    glossary.md
     week01-understanding-value.md
     week02-trade-and-barter.md
     ...
     week18-sharing-value.md
+    handouts/
+      week07-digital-money.md
+      week08-friction-spending.md
+      week10-budgeting.md
+      week13-interest.md
+      week14-inflation.md
+    resources/
+      overview.md
+      value-trade-cards.md
+      household-scenario-cards.md
+      ...
+      facilitator-quick-reference.md
 ```
 
 Each lesson is written in **Markdown**, which makes it easy to edit and maintain.
