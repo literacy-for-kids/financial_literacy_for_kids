@@ -1,7 +1,7 @@
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
-import ecosystemLinks from 'literacy-site-theme/ecosystemLinks';
+import {hub, curricula} from 'literacy-site-theme/ecosystem';
 import styles from './styles.module.css';
 
 const features = [
@@ -65,7 +65,6 @@ const roadmapSections = [
   },
 ];
 
-const [hub, ...curricula] = ecosystemLinks;
 const currentSiteHref = 'https://literacy-for-kids.github.io/financial_literacy_for_kids/';
 
 function FeatureCard({title, description}) {
