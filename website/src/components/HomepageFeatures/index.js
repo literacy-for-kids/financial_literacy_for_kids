@@ -1,6 +1,7 @@
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
+import ecosystemLinks from 'literacy-site-theme/ecosystemLinks';
 import styles from './styles.module.css';
 
 const features = [
@@ -64,44 +65,8 @@ const roadmapSections = [
   },
 ];
 
-const literacyLinks = [
-  {
-    label: 'Decision Literacy',
-    icon: '🧠',
-    href: 'https://literacy-for-kids.github.io/decision_literacy_for_kids/',
-    description:
-      'Thinking clearly and evaluating choices.',
-  },
-  {
-    label: 'Computer Literacy',
-    icon: '💻',
-    href: 'https://literacy-for-kids.github.io/computer_literacy_for_kids/',
-    description:
-      'Understanding technology and how computers work.',
-  },
-  {
-    label: 'Media Literacy',
-    icon: '📰',
-    href: 'https://literacy-for-kids.github.io/media_literacy_for_kids/',
-    description:
-      'Understanding information systems and evaluating sources.',
-  },
-  {
-    label: 'Financial Literacy',
-    icon: '💰',
-    href: 'https://literacy-for-kids.github.io/financial_literacy_for_kids/',
-    isCurrent: true,
-    description:
-      'Understanding money and financial decisions.',
-  },
-  {
-    label: 'Civic Literacy',
-    icon: '🏛',
-    href: 'https://literacy-for-kids.github.io/civic_literacy_for_kids/',
-    description:
-      'Understanding governance and communities.',
-  },
-];
+const [hub, ...curricula] = ecosystemLinks;
+const currentSiteHref = 'https://literacy-for-kids.github.io/financial_literacy_for_kids/';
 
 function FeatureCard({title, description}) {
   return (
@@ -122,14 +87,11 @@ function RoadmapCard({title, weeks, description}) {
   );
 }
 
-function LiteracyCard({label, icon, href, description, isCurrent}) {
+function LiteracyCard({label, href, description, isCurrent}) {
   return (
     <article className={styles.card}>
       <Heading as="h3">
         <Link href={href} className={styles.literacyLink}>
-          <span className={styles.literacyIcon} aria-hidden="true">
-            {icon}
-          </span>{' '}
           {label}
         </Link>
         {isCurrent && <span className={styles.currentBadge}>Current curriculum</span>}
@@ -162,9 +124,7 @@ export default function HomepageFeatures() {
           <Heading as="h2">Part of the Literacy for Kids Ecosystem</Heading>
           <p className={styles.sectionLead}>
             This curriculum is part of{' '}
-            <Link href="https://literacy-for-kids.github.io/literacy_for_kids/">
-              Literacy for Kids
-            </Link>
+            <Link href={hub.href}>{hub.label}</Link>
             , a collection of open-source curricula designed to help children
             ages 8–12 understand the systems that shape the modern world.
           </p>
@@ -174,8 +134,12 @@ export default function HomepageFeatures() {
           <div className={styles.callout}>
             <Heading as="h3">Explore the other literacies</Heading>
             <div className={styles.cardGrid}>
-              {literacyLinks.map((literacy) => (
-                <LiteracyCard key={literacy.label} {...literacy} />
+              {curricula.map((literacy) => (
+                <LiteracyCard
+                  key={literacy.href}
+                  {...literacy}
+                  isCurrent={literacy.href === currentSiteHref}
+                />
               ))}
             </div>
           </div>

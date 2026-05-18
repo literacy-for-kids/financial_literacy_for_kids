@@ -7,8 +7,9 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import {createRequire} from 'module';
 const require = createRequire(import.meta.url);
-const navbarItems = require('literacy-site-theme/navbarItems');
+const ecosystemLinks = require('literacy-site-theme/ecosystemLinks');
 const footerConfig = require('literacy-site-theme/footerConfig');
+const [hub, ...curricula] = ecosystemLinks;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -68,7 +69,20 @@ const config = {
       // Replace with your project's social card
       image: 'img/hero-image.png',
       navbar: {
-        items: navbarItems,
+        items: [
+          {
+            type: 'dropdown',
+            label: 'Literacy for Kids',
+            position: 'left',
+            items: [
+              {label: 'Hub', href: hub.href},
+              ...curricula.map((curriculum) => ({
+                label: curriculum.label.replace(' Literacy', ''),
+                href: curriculum.href,
+              })),
+            ],
+          },
+        ],
       },
       footer: footerConfig,
       prism: {
