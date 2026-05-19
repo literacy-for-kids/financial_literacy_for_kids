@@ -7,9 +7,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import {createRequire} from 'module';
 const require = createRequire(import.meta.url);
-const ecosystemLinks = require('literacy-site-theme/ecosystemLinks');
+const {hub, curricula} = require('literacy-site-theme/ecosystem');
 const footerConfig = require('literacy-site-theme/footerConfig');
-const [hub, ...curricula] = ecosystemLinks;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -76,9 +75,9 @@ const config = {
             position: 'left',
             items: [
               {label: 'Hub', href: hub.href},
-              ...curricula.map((curriculum) => ({
-                label: curriculum.label.replace(' Literacy', ''),
-                href: curriculum.href,
+              ...curricula.map((c) => ({
+                label: c.label.replace(' Literacy', ''),
+                href: c.href,
               })),
             ],
           },
