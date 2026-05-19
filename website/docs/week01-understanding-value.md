@@ -3,6 +3,7 @@ sidebar_position: 1
 sidebar_label: "Week 1: Understanding Value"
 title: "Week 1: Understanding Value"
 description: "Students discover that value is subjective — different people value different things — and that this idea is the foundation of all trade and economic activity."
+slug: /week1
 ---
 
 # Week 1: Understanding Value
