@@ -120,7 +120,7 @@ Each week below links to a detailed lesson page containing:
 
 | Week | Theme | Focus Highlights |
 |---|---|---|
-| [Week 1](./week01-understanding-value) | 💡 Understanding Value | Value is subjective — different people value different things |
+| [Week 1](/docs/week1) | 💡 Understanding Value | Value is subjective — different people value different things |
 | [Week 2](./week02-trade-and-barter) | 🤝 Trade and Barter | How trade works when people value things differently, and why barter has limits |
 | [Week 3](./week03-why-money-exists) | 💰 Why Money Exists | Why barter breaks down and how money was invented as a shared tool |
 | [Week 4](./week04-the-household-economy) | 🏠 The Household Economy | Needs vs. wants, fixed vs. flexible spending, and tradeoffs when money is limited |
