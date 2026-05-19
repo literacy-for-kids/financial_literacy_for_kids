@@ -11,7 +11,6 @@ const currentSiteHref = 'https://literacy-for-kids.github.io/financial_literacy_
 const sidebars = {
   curriculumSidebar: [
     'intro',
-    'license',
     {
       type: 'category',
       label: 'Value Foundations',
@@ -125,6 +124,7 @@ const sidebars = {
           })),
       ],
     },
+    'license',
   ],
 };
 
