@@ -69,7 +69,18 @@ const config = {
       // Replace with your project's social card
       image: 'img/hero-image.png',
       navbar: {
+        title: 'Financial Literacy for Kids',
+        logo: {
+          alt: 'Financial Literacy Logo',
+          src: 'img/logo.svg',
+        },
         items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'curriculumSidebar',
+            position: 'left',
+            label: 'Curriculum',
+          },
           {
             type: 'dropdown',
             label: 'Literacy for Kids',
@@ -81,6 +92,11 @@ const config = {
                 href: curriculum.href,
               })),
             ],
+          },
+          {
+            href: 'https://github.com/literacy-for-kids/financial_literacy_for_kids',
+            label: 'GitHub',
+            position: 'right',
           },
         ],
       },
