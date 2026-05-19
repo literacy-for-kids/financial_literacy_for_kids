@@ -28,9 +28,9 @@ Students learn that small **pauses** before spending — called financial fricti
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -63,7 +63,7 @@ Keep the tone curious, not preachy. Ask "did you notice?" rather than "you shoul
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 7**, we discovered that most money today is digital — just numbers in computer systems. Digital payments are fast and easy, but that speed can sometimes be a problem. This week, we explore why.
@@ -152,7 +152,7 @@ Guide students to see: the problem was not that the items were bad. The problem 
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -255,7 +255,7 @@ Let them write or draw their strategy. This becomes a personal tool they can act
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

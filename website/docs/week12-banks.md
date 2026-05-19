@@ -28,9 +28,9 @@ Banks are like the record-keeping system of the financial world. Every deposit, 
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -64,7 +64,7 @@ Keep the tone curious. Banks are fascinating systems when you look at what they 
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 11**, we learned about **risk** and **emergency funds** — setting money aside for surprises. But where do people keep that money safe? This week, we explore how banks work.
@@ -168,7 +168,7 @@ Let students discuss. The point is clear: **accurate recordkeeping is what makes
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -272,7 +272,7 @@ Guide students toward these ideas:
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

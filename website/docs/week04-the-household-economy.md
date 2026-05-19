@@ -34,9 +34,9 @@ These ideas prepare students to understand how money moves through everyday life
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -68,7 +68,7 @@ The goal is for students to **notice** that money decisions involve priorities a
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Weeks 1–3**, we learned that different people value different things, that trade happens because of those differences, and that money was invented to make trade easier. Now we zoom in to see how money decisions work inside a household.
@@ -172,7 +172,7 @@ This helps students see that the **basic version** may be a need, but the **upgr
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -277,7 +277,7 @@ Let the student share. There are no wrong answers — the point is to recognize 
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

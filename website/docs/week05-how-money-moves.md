@@ -28,9 +28,9 @@ This week, students begin to see money as something that **circulates**, rather 
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -63,7 +63,7 @@ Let students trace the chains themselves. The longer they can extend a chain, th
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 4**, we explored how households balance needs and wants with limited money. Now we zoom out to see the bigger picture — how does money move through an entire community?
@@ -165,7 +165,7 @@ Let them guess and imagine. They do not need to be perfectly accurate — the go
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -272,7 +272,7 @@ Let the student trace the effects. The goal is to see that **everyone in the cir
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

@@ -28,9 +28,9 @@ This week connects the difficulties of barter directly to the invention of money
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -61,7 +61,7 @@ The key insight: **money is an agreement**, not a thing.
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 2**, we tried the barter market and some trades were easy while others were frustrating. Barter only works when two people each have exactly what the other wants — at the same time. This week, we discover the solution that communities invented.
@@ -158,7 +158,7 @@ When someone describes this, name it:
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -260,7 +260,7 @@ Let them reason through it: trade would get confusing again. The whole point of 
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

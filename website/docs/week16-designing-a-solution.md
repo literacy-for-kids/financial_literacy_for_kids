@@ -30,9 +30,9 @@ The best solutions are not necessarily the most complicated or expensive. They a
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -69,7 +69,7 @@ Remind students that nearly every successful product or business started as a ro
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 15**, you identified a real problem you want to solve. This week, you move from the problem to the **solution** — designing what your product or service will look like and how it will work.
@@ -197,7 +197,7 @@ Ask:
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -305,7 +305,7 @@ Wrap up with an encouraging message:
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

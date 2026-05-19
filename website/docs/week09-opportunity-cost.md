@@ -28,9 +28,9 @@ This is one of the most important ideas in all of financial thinking. Once stude
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -62,7 +62,7 @@ Keep the tone exploratory. Ask "what did you give up?" with curiosity, not judgm
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 8**, we learned about **friction** — things that slow you down before spending. Friction helps you pause and think. This week, we learn the name for what you are thinking about during that pause: **opportunity cost**.
@@ -155,7 +155,7 @@ Let students share their stories. The goal is for them to realize that they alre
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -253,7 +253,7 @@ Connect to last week:
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

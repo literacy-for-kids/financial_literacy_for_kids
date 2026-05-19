@@ -30,9 +30,9 @@ Understanding inflation connects everything students have learned so far: why sa
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -66,7 +66,7 @@ Keep the tone curious: "Isn't it interesting that things used to cost less?" rat
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 13**, we learned that **interest** makes your savings grow over time. But there is a force working in the other direction: **inflation** means prices go up over time. This week, we discover what happens when your money stays the same but prices do not.
@@ -162,7 +162,7 @@ Ask:
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -256,7 +256,7 @@ The key insight:
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 
