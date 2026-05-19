@@ -445,7 +445,7 @@ Discussion questions for the whole group:
 Give students 10–12 minutes for Steps 1–3 (listing resources, estimating costs, comparing to budget). Use the remaining time for Steps 4–5 (finalizing and sharing). Consider using physical play money — handing each student $10 in bills makes the budget feel real and forces concrete decisions.
 
 **At home or in a small group:**
-Work through the budget together as a conversation. The caregiver can help the student look up approximate prices for items (or estimate together). Building the budget collaboratively mirrors how real families plan spending.
+Work through the budget together as a conversation. The facilitator can help the student look up approximate prices for items (or estimate together). Building the budget collaboratively mirrors how real families plan spending.
 
 **For younger students:**
 Simplify the categories to three: "Things I Need to Buy," "Things I Already Have," and "Time It Takes." Use a smaller budget ($5) and fewer resources. Focus on the concept of choosing between options rather than exact math.
@@ -454,7 +454,7 @@ Simplify the categories to three: "Things I Need to Buy," "Things I Already Have
 Add a "revenue" row — if the student could sell their product or charge for their service, how much could they reasonably charge? Compare revenue to costs. Do they "make money" or "lose money"? This introduces the concept of profit without using the term explicitly. Also try different budget amounts ($5, $10, $20) to see how constraints change decisions.
 
 **As a multi-day activity:**
-Day 1: Steps 1–3 (list resources, estimate costs, compare to budget). Day 2: Steps 4–5 (finalize, share, compare). Between sessions, students can "research" actual prices by checking a store, looking online with a caregiver, or asking an adult — making the estimates more realistic.
+Day 1: Steps 1–3 (list resources, estimate costs, compare to budget). Day 2: Steps 4–5 (finalize, share, compare). Between sessions, students can "research" actual prices by checking a store, looking online with a facilitator, or asking an adult — making the estimates more realistic.
 :::
 
 ---

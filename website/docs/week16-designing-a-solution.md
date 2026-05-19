@@ -398,7 +398,7 @@ Discussion questions for the whole group:
 Give students 15 minutes for Steps 1–3 (writing and drawing). Use the remaining time for Steps 4–5 (checking and sharing). Consider setting up a "gallery walk" where students place their design sheets on their desks and the class walks around to read and leave sticky-note feedback.
 
 **At home or in a small group:**
-Work through the steps together conversationally. The caregiver can ask the four key questions from Step 2, and the student answers out loud while the caregiver writes or the student draws. This collaborative approach works especially well for younger learners.
+Work through the steps together conversationally. The facilitator can ask the four key questions from Step 2, and the student answers out loud while the facilitator writes or the student draws. This collaborative approach works especially well for younger learners.
 
 **For younger students:**
 Simplify to three questions: "What is the problem?", "What is your idea?", and "Who does it help?" Focus more on drawing than writing. Let them explain their idea verbally and have an adult write down their words.
