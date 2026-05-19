@@ -28,9 +28,9 @@ The tool used to pay does not change the underlying idea of trade — but it can
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -65,7 +65,7 @@ Keep things concrete and familiar. Avoid explaining banking infrastructure — t
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 5**, we followed money on its journey through a community and saw how one person’s spending becomes another person’s income. This week, we look at the **tools** people use to make those payments happen.
@@ -160,7 +160,7 @@ Let students brainstorm. This sets up the next session naturally.
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -266,7 +266,7 @@ This is an interesting question. Many students (and adults!) will say it feels d
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

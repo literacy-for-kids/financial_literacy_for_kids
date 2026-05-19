@@ -30,9 +30,9 @@ This week, students learn to think about **inputs** (what goes into creating som
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -69,7 +69,7 @@ Connect this week explicitly to the budgeting and opportunity cost lessons from 
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 16**, you designed your solution — sketching out what it looks like and how it works. This week, you figure out the practical side: what **resources** do you need and what will it **cost**? Time to use those budgeting skills from Week 10!
@@ -194,7 +194,7 @@ Discussion questions:
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -325,7 +325,7 @@ Invite a few students to share with the group. Highlight creative resource decis
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

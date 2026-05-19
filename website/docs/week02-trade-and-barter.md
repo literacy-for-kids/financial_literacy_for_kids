@@ -23,14 +23,14 @@ They will also discover why barter can become difficult in larger groups, which 
 - **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, run one session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The third session works best after the learner has already explored the main idea with you once.
+- The independent session works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -62,7 +62,7 @@ Avoid jumping ahead to explain money. Let the problem sit.
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 1**, we learned that **value is subjective** — different people value different things. That idea is what makes trade possible! If everyone valued exactly the same things in exactly the same way, there would be no reason to trade.
@@ -151,7 +151,7 @@ Introduce one new word:
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -261,7 +261,7 @@ Do **not** explain money in detail yet — just let the problem sit. Tell them:
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

@@ -30,9 +30,9 @@ This week, students practice that first step. They become **problem finders** â€
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -67,7 +67,7 @@ Encourage every observation, no matter how small. A messy desk, a tangled cord, 
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 Over the past 14 weeks, we have learned about **value**, **trade**, **money**, **budgets**, **interest**, and **inflation**. Now it is time to put it all together. In this final unit, you will create something valuable â€” a real project that solves a real problem.
@@ -172,7 +172,7 @@ Most answers will be yes. The point clicks:
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -277,7 +277,7 @@ Let students share. This is a preview of the project they will be developing ove
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

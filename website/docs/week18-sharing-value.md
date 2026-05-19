@@ -34,9 +34,9 @@ The week ends with the **Value Showcase** — where every student presents their
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -80,7 +80,7 @@ This is also a moment to look back at the full 18-week journey. Help students se
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 Over the past 17 weeks, you have learned about **value, trade, money, budgets, opportunity cost, interest, inflation**, and more. Last week, you built a budget for your project. Now it is time to share what you created with the world.
@@ -193,7 +193,7 @@ After the practice round, ask:
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -296,7 +296,7 @@ Draw or describe a simple loop:
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

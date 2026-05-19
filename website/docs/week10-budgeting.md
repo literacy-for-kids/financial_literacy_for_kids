@@ -30,9 +30,9 @@ This is one of the most directly useful skills in the entire curriculum. Student
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -66,7 +66,7 @@ Keep the tone positive. A budget is not a set of rules someone else imposes — 
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 9**, we learned about **opportunity cost** — the value of the next-best thing you give up when you make a choice. Budgeting is how we manage all those choices at once: deciding ahead of time where our money will go.
@@ -170,7 +170,7 @@ Let students brainstorm. There are no wrong answers — the point is that a budg
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -291,7 +291,7 @@ Possible answers:
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

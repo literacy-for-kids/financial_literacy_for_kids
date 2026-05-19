@@ -24,14 +24,14 @@ This idea becomes the foundation for understanding trade, money, and financial d
 - **Ages:** 8–12 | **Sessions this week:** 3 (about 20 minutes each)
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one session well and leave the rest for later. The lessons are designed to stretch across the week.
-- The third session works best after the learner has already explored the main idea with you once.
+- The independent session works best after the learner has already explored the main idea with you once.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -63,7 +63,7 @@ The goal is for students to feel confident explaining **why** they value somethi
 
 ---
 
-## Session 1
+## Guided Session 1
 
 *(About 20 Minutes)*
 
@@ -152,7 +152,7 @@ There are no wrong answers. The point is to notice that **different people choos
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -252,7 +252,7 @@ Explain:
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

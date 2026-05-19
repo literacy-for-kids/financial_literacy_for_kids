@@ -28,9 +28,9 @@ Students learn that modern financial systems depend heavily on **digital informa
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -63,7 +63,7 @@ Use concrete analogies. A bank balance is like a score in a game — the score i
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 6**, we compared different payment methods — cash, debit cards, credit cards, and mobile payments. This week, we look **behind** those tools to discover what is really happening: numbers changing in computer systems.
@@ -170,7 +170,7 @@ The answer: **not really**. The bank has some cash, but Maya's money is mostly j
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -273,7 +273,7 @@ Compare it to something familiar:
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

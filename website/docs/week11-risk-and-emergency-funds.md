@@ -30,9 +30,9 @@ Students who understand this idea learn one of the most stabilizing habits in pe
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -66,7 +66,7 @@ Keep the tone confident and practical. The message is: "Surprises happen to ever
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 10**, we learned that a **budget** is a plan for your money. But what happens when something unexpected comes along and your plan has to change? This week, we learn about risk and why setting money aside for surprises matters.
@@ -166,7 +166,7 @@ Let students share their examples. Then connect back:
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -283,7 +283,7 @@ Students might think of: homework in a separate folder, sports equipment in its 
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 

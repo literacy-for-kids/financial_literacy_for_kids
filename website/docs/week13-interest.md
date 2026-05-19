@@ -30,9 +30,9 @@ This is one of the most powerful ideas in finance: **time changes the value of m
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Session 1](#session-1)
-- [Session 2](#session-2)
-- [Session 3](#session-3)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
 :::
 
 :::caution Minimum Viable Lesson (Short on Time?)
@@ -66,7 +66,7 @@ Keep the numbers simple and the focus on the pattern: a little extra, added agai
 
 ---
 
-## Session 1
+## Guided Session 1
 
 :::note Remember from Earlier?
 In **Week 12**, we set up our classroom bank — opening accounts, making deposits, and tracking balances on a ledger. Now we add something new: the bank is going to **pay you extra money** just for keeping your savings there. That extra money is called **interest**.
@@ -169,7 +169,7 @@ The point is not to calculate exact answers — it is to see the pattern: **time
 
 ---
 
-## Session 2
+## Guided Session 2
 
 *(About 20 Minutes)*
 
@@ -275,7 +275,7 @@ Key insight:
 
 ---
 
-## Session 3
+## Independent Session
 
 *(About 20 Minutes)*
 
