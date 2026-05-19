@@ -116,10 +116,8 @@ Typical workflow:
 # License
 
 This project uses dual licensing:
-- Code (JavaScript, CSS, configuration, build scripts):
-  <a>MIT License</a>
-- Curriculum content (Markdown documents under `website/docs/`):
-  <a>CC BY-NC-SA 4.0</a>
+- Code (JavaScript, CSS, configuration, build scripts): [MIT License](LICENSE-CODE)
+- Curriculum content (Markdown documents under `website/docs/`): [CC BY-NC-SA 4.0](LICENSE-CONTENT)
 
 You are free to use, adapt, and share the curriculum content for
 non-commercial purposes, with attribution, and under the same
