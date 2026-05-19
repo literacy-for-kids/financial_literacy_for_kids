@@ -22,7 +22,7 @@ Lessons are intentionally **hands-on, curiosity-driven, and flexible**, allowing
 - Review [Curriculum Overview](#curriculum-overview) for pacing and teaching assumptions.
 - Use [Program at a Glance](#program-at-a-glance) to jump to a specific week quickly.
 - Open [Learning Ladder: How Skills Build Over Time](#learning-ladder-how-skills-build-over-time) to see how the course connects.
-- Save [Independent Session Setup Tips](#independent-session-setup-tips) for caregiver logistics.
+- Save [Independent Session Setup Tips](#independent-session-setup-tips) for facilitator logistics.
 :::
 
 :::info Planning Help
@@ -102,7 +102,7 @@ This curriculum is designed to be usable by:
 
 - a **classroom teacher** with 25 students
 - a **homeschool parent** with 1–3 children
-- a **caregiver** with no finance background
+- a **facilitator** with no finance background
 - an **after-school leader** with mixed ages within the 8–12 range
 
 Directions are concrete, prep burden is low, activities do not require special materials, and discussion prompts are easy to run.

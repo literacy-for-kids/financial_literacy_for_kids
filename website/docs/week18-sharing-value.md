@@ -409,7 +409,7 @@ Final message to the group:
 Allow 2–3 minutes per presentation. For a class of 20, plan for about an hour total (including transitions and questions). If time is tight, use the gallery walk format — it allows all students to present simultaneously. Consider inviting another class, the principal, or parents to serve as the audience.
 
 **At home or in a small group:**
-The student presents to family members or caregivers. Make it special — set up a "presentation area," sit down as an audience, and give the student your full attention. Ask real questions. Write real feedback. The formality makes it feel meaningful, even with an audience of one or two.
+The student presents to family members or facilitators. Make it special — set up a "presentation area," sit down as an audience, and give the student your full attention. Ask real questions. Write real feedback. The formality makes it feel meaningful, even with an audience of one or two.
 
 **For younger students:**
 Shorten the presentation to the two most important parts: "The problem I found" and "The solution I designed." Let them show a drawing rather than speaking from notes. The feedback round can be verbal rather than written. Focus on making the experience positive and encouraging.
