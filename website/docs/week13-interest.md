@@ -159,6 +159,8 @@ The point is not to calculate exact answers — it is to see the pattern: **time
 
 > "This is why people say 'start saving early.' The more time money has to earn interest, the more it can grow."
 
+Real savings accounts grow more slowly than our example — actual interest rates are much smaller — but the pattern is the same: the longer your money stays, the more it grows.
+
 ---
 
 #### Reflection Questions
