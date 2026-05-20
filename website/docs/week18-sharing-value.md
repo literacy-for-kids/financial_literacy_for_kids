@@ -64,6 +64,7 @@ The week ends with the **Value Showcase** — where every student presents their
 - Plan for audience members if possible — invite other classes, parents, caregivers, or family members to watch and ask questions. Even one additional person in the "audience" makes presentations feel more meaningful.
 - Have a whiteboard or large paper for the final curriculum reflection discussion.
 - Set up a visual timer for sessions.
+- For single learners: The Value Showcase works just as well with one presenter and one audience member (you). Set up a clear presentation space — even a kitchen table with the learner standing and you seated as the audience creates the right dynamic. Ask genuine questions and give real feedback. The experience of presenting to a real listener matters more than the audience size.
 :::
 
 :::tip Teaching Mindset
@@ -304,7 +305,7 @@ Draw or describe a simple loop:
 
 #### Instruction
 
-In this activity, students present their completed Value Creation Project to an audience. This is the culmination of the four-week capstone and, in many ways, the entire 18-week curriculum. Students explain their idea, share their thinking, and celebrate what they have built.
+In this activity, students present their completed Value Creation Project to an audience (For single learners: your facilitator or another family member serves as the full audience — that’s enough.). This is the culmination of the four-week capstone and, in many ways, the entire 18-week curriculum. Students explain their idea, share their thinking, and celebrate what they have built.
 
 **Setup:**
 
