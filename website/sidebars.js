@@ -54,6 +54,7 @@ const sidebars = {
         'week12-banks',
         'week13-interest',
         'week14-inflation',
+        'week-supplemental-taxes',
         'checkpoint-4',
       ],
     },
