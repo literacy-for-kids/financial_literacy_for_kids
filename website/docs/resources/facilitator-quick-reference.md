@@ -69,7 +69,7 @@ Every family manages money differently, and every approach reflects real values,
 
 ## Digital Safety Reminders (Weeks 6–8 and Beyond)
 
-Reference the three core rules from [Digital Safety Scenarios](./digital-safety-scenarios):
+Reference the three core rules from [Digital Safety Scenarios](/docs/resources/digital-safety-scenarios):
 
 1. **Stop** — Pause before clicking, sharing, or buying anything online.
 2. **Check** — Is this from someone you trust? Is the website real? Ask an adult if unsure.
@@ -81,7 +81,7 @@ When digital topics come up in any week, reinforce these three rules.
 
 ## Glossary Quick List
 
-Core vocabulary for the full curriculum. For kid-friendly definitions, see the [Glossary](../glossary).
+Core vocabulary for the full curriculum. For kid-friendly definitions, see the [Glossary](/docs/glossary).
 
 | Term | Introduced |
 |---|---|
@@ -122,17 +122,17 @@ Core vocabulary for the full curriculum. For kid-friendly definitions, see the [
 
 | Resource | Used In |
 |---|---|
-| [Value & Trade Cards](./value-trade-cards) | Weeks 1–3 |
-| [Household Scenario Cards](./household-scenario-cards) | Week 4 |
-| [Payment Comparison Cards](./payment-comparison-cards) | Week 6 |
-| [Digital Safety Scenarios](./digital-safety-scenarios) | Weeks 7–8 |
-| [Spending Decision Cards](./spending-decision-cards) | Week 8 |
-| [Opportunity Cost Cards](./opportunity-cost-cards) | Week 9 |
-| [Budget Planning Sheets](./budget-planning-sheets) | Weeks 10–11 |
-| [Emergency Event Cards](./emergency-event-cards) | Week 11 |
-| [Bank Ledger Templates](./bank-ledger-templates) | Weeks 12–14 |
-| [Capstone Planning Guide](./capstone-planning-guide) | Weeks 15–18 |
-| [Presentation Guide](./capstone-presentation-guide) | Week 18 |
+| [Value & Trade Cards](/docs/resources/value-trade-cards) | Weeks 1–3 |
+| [Household Scenario Cards](/docs/resources/household-scenario-cards) | Week 4 |
+| [Payment Comparison Cards](/docs/resources/payment-comparison-cards) | Week 6 |
+| [Digital Safety Scenarios](/docs/resources/digital-safety-scenarios) | Weeks 7–8 |
+| [Spending Decision Cards](/docs/resources/spending-decision-cards) | Week 8 |
+| [Opportunity Cost Cards](/docs/resources/opportunity-cost-cards) | Week 9 |
+| [Budget Planning Sheets](/docs/resources/budget-planning-sheets) | Weeks 10–11 |
+| [Emergency Event Cards](/docs/resources/emergency-event-cards) | Week 11 |
+| [Bank Ledger Templates](/docs/resources/bank-ledger-templates) | Weeks 12–14 |
+| [Capstone Planning Guide](/docs/resources/capstone-planning-guide) | Weeks 15–18 |
+| [Presentation Guide](/docs/resources/capstone-presentation-guide) | Week 18 |
 
 ---
 

@@ -67,10 +67,10 @@ Every weekly page includes:
 
 The curriculum includes a library of companion resources:
 
-- **[Resource Hub](./resources/overview)** — Printable activity cards, worksheets, and simulation templates organized by unit
+- **[Resource Hub](/docs/resources/overview)** — Printable activity cards, worksheets, and simulation templates organized by unit
 - **Student Handouts** — Take-home summaries for Weeks 7, 8, 10, 13, and 14
-- **[Glossary](./glossary)** — Alphabetized, kid-friendly definitions for every key term
-- **[Facilitator Quick Reference](./resources/facilitator-quick-reference)** — One-page guide covering session structure, equity approach, digital safety rules, and vocabulary
+- **[Glossary](/docs/glossary)** — Alphabetized, kid-friendly definitions for every key term
+- **[Facilitator Quick Reference](/docs/resources/facilitator-quick-reference)** — One-page guide covering session structure, equity approach, digital safety rules, and vocabulary
 
 ### Final Project
 
@@ -121,23 +121,23 @@ Each week below links to a detailed lesson page containing:
 | Week | Theme | Focus Highlights |
 |---|---|---|
 | [Week 1](/docs/week1) | 💡 Understanding Value | Value is subjective — different people value different things |
-| [Week 2](./week02-trade-and-barter) | 🤝 Trade and Barter | How trade works when people value things differently, and why barter has limits |
-| [Week 3](./week03-why-money-exists) | 💰 Why Money Exists | Why barter breaks down and how money was invented as a shared tool |
-| [Week 4](./week04-the-household-economy) | 🏠 The Household Economy | Needs vs. wants, fixed vs. flexible spending, and tradeoffs when money is limited |
-| [Week 5](./week05-how-money-moves) | 💵 How Money Moves | Spending becomes earning — tracing money as it flows through a community |
-| [Week 6](./week06-ways-we-pay) | 💳 Ways We Pay | Cash, cards, and digital payments — different tools for moving money |
-| [Week 7](./week07-digital-money) | 💻 Digital Money | Most money exists as numbers in computer systems — how digital records track every transaction |
-| [Week 8](./week08-friction-and-spending) | 🛑 Friction and Spending | The easier it is to spend money, the less carefully people think — small pauses help |
-| [Week 9](./week09-opportunity-cost) | 🔀 Opportunity Cost | Every financial choice involves a tradeoff — what you gain and what you give up |
-| [Week 10](./week10-budgeting) | 📊 Budgeting | Planning how money will be used before spending it |
-| [Week 11](./week11-risk-and-emergency-funds) | 🛡️ Risk and Emergency Funds | Preparing for unexpected events with financial buffers |
-| [Week 12](./week12-banks) | 🏦 Banks | How banks store money, keep records, and move money between accounts |
-| [Week 13](./week13-interest) | 💰 Interest | How money grows when saved and costs more when borrowed |
-| [Week 14](./week14-inflation) | 📉 Inflation | How rising prices change what money can buy over time |
-| [Week 15](./week15-finding-problems-and-opportunities) | 🔍 Finding Problems and Opportunities | Noticing everyday problems as opportunities to create value |
-| [Week 16](./week16-designing-a-solution) | 🛠️ Designing a Solution | Transforming problem observations into clear, useful product or service ideas |
-| [Week 17](./week17-resources-and-costs) | 📊 Resources and Costs | Planning the time, materials, and money needed to build a project |
-| [Week 18](./week18-sharing-value) | 🏆 Sharing Value | Presenting the project, exploring trade, and reflecting on the full journey |
+| [Week 2](/docs/week02-trade-and-barter) | 🤝 Trade and Barter | How trade works when people value things differently, and why barter has limits |
+| [Week 3](/docs/week03-why-money-exists) | 💰 Why Money Exists | Why barter breaks down and how money was invented as a shared tool |
+| [Week 4](/docs/week04-the-household-economy) | 🏠 The Household Economy | Needs vs. wants, fixed vs. flexible spending, and tradeoffs when money is limited |
+| [Week 5](/docs/week05-how-money-moves) | 💵 How Money Moves | Spending becomes earning — tracing money as it flows through a community |
+| [Week 6](/docs/week06-ways-we-pay) | 💳 Ways We Pay | Cash, cards, and digital payments — different tools for moving money |
+| [Week 7](/docs/week07-digital-money) | 💻 Digital Money | Most money exists as numbers in computer systems — how digital records track every transaction |
+| [Week 8](/docs/week08-friction-and-spending) | 🛑 Friction and Spending | The easier it is to spend money, the less carefully people think — small pauses help |
+| [Week 9](/docs/week09-opportunity-cost) | 🔀 Opportunity Cost | Every financial choice involves a tradeoff — what you gain and what you give up |
+| [Week 10](/docs/week10-budgeting) | 📊 Budgeting | Planning how money will be used before spending it |
+| [Week 11](/docs/week11-risk-and-emergency-funds) | 🛡️ Risk and Emergency Funds | Preparing for unexpected events with financial buffers |
+| [Week 12](/docs/week12-banks) | 🏦 Banks | How banks store money, keep records, and move money between accounts |
+| [Week 13](/docs/week13-interest) | 💰 Interest | How money grows when saved and costs more when borrowed |
+| [Week 14](/docs/week14-inflation) | 📉 Inflation | How rising prices change what money can buy over time |
+| [Week 15](/docs/week15-finding-problems-and-opportunities) | 🔍 Finding Problems and Opportunities | Noticing everyday problems as opportunities to create value |
+| [Week 16](/docs/week16-designing-a-solution) | 🛠️ Designing a Solution | Transforming problem observations into clear, useful product or service ideas |
+| [Week 17](/docs/week17-resources-and-costs) | 📊 Resources and Costs | Planning the time, materials, and money needed to build a project |
+| [Week 18](/docs/week18-sharing-value) | 🏆 Sharing Value | Presenting the project, exploring trade, and reflecting on the full journey |
 
 ---
 
@@ -231,6 +231,6 @@ The curriculum also develops three cross-cutting strands:
 
 - **Digital safety awareness** — the Stop, Check, Protect framework introduced in Weeks 7–8 and reinforced throughout
 - **Equity and family-context sensitivity** — facilitator guidance ensuring no learner is shamed or excluded based on family finances
-- **Vocabulary and spiral review** — key terms defined in the [Glossary](./glossary) and revisited through weekly "Remember from Earlier?" prompts
+- **Vocabulary and spiral review** — key terms defined in the [Glossary](/docs/glossary) and revisited through weekly "Remember from Earlier?" prompts
 
 Most importantly, they will build **confidence understanding money and making thoughtful financial decisions**.
