@@ -22,6 +22,14 @@ Use it to:
 
 Every learner who participated in the project process deserves recognition. The rubric measures **thinking and effort**, not perfection.
 
+## Age-Banded Use of the Rubric
+
+- **Ages 8–9:** Oral explanations, drawings, and a simple project budget with facilitator support are enough to show success.
+- **Ages 10–12:** The core path is a clear problem, a workable solution, a simple budget, and a presentation that explains the value created.
+- **Ages 11–13 optional extension:** Older or ready learners may include more detailed pricing, recurring costs, assumptions, and tradeoff analysis.
+
+Use estimated, classroom, community, or project-based numbers when scoring budgets. Learners do not need to use private family financial details.
+
 ---
 
 ## Rubric Categories
@@ -52,7 +60,7 @@ Every learner who participated in the project process deserves recognition. The 
 |---|---|
 | **Getting Started** | Listed some resources but did not create a budget or consider costs |
 | **On Track** | Created a simple budget that fits within a limit and made at least one tradeoff |
-| **Shining** | Budget is detailed, realistic, and shows thoughtful tradeoff decisions — connects to earlier budgeting concepts |
+| **Shining** | Budget is detailed for the chosen scenario, uses reasonable estimates, and shows thoughtful tradeoff decisions — connects to earlier budgeting concepts |
 
 ---
 
@@ -82,7 +90,7 @@ Every learner who participated in the project process deserves recognition. The 
 |---|---|
 | **Getting Started** | Did not use financial vocabulary from the curriculum |
 | **On Track** | Used at least two key terms correctly (e.g., budget, opportunity cost, value, tradeoff) |
-| **Shining** | Naturally used multiple key terms from the [Glossary](glossary.md) and could explain them in their own words |
+| **Shining** | Naturally used multiple key terms from the [Glossary](/docs/glossary) and could explain them in their own words |
 
 ---
 
@@ -92,10 +100,10 @@ Learners can use this simplified version to evaluate their own work:
 
 1. **My problem:** Can I explain the problem I chose in one or two sentences? ⭐
 2. **My solution:** Can someone else understand my idea just from hearing me describe it? ⭐
-3. **My budget:** Did I think about what my project would cost and make smart choices about resources? ⭐
+3. **My budget:** Did I think about what my project would cost using estimated or project-based numbers and make smart choices about resources? ⭐
 4. **My presentation:** Did I share my idea clearly with others? ⭐
 5. **My reflection:** Can I name one thing I learned and one thing I would do differently? ⭐
-6. **My vocabulary:** Did I use words from our [Glossary](glossary.md) when explaining my project? ⭐
+6. **My vocabulary:** Did I use words from our [Glossary](/docs/glossary) when explaining my project? ⭐
 
 *For each star, learners rate themselves: "Still working on it" / "I did this" / "I'm proud of this"*
 

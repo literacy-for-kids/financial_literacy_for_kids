@@ -341,11 +341,11 @@ Draw one large timeline on the board. Go through each item together, plotting pr
 **With a spreadsheet (if technology is available):**
 Students enter prices into a simple spreadsheet and create a bar chart or line graph. The visual curve of rising prices is especially impactful on screen.
 
-**For older students:**
+**Guided extension for ages 11–13:**
 Add a calculation challenge: "If prices doubled every 20 years, what would a $4 loaf of bread cost in 2045? In 2065?" (Answer: $8, then $16.) Then ask: "If you are saving money now for something you want in 20 years, how might you plan for this?"
 
-**With family involvement:**
-Ask students to interview a parent, grandparent, or older relative: "How much did ___ cost when you were my age?" Students bring real data back to the next session and add it to the timeline. This makes inflation personal and memorable.
+**Optional community connection:**
+Ask students to talk with an older person, use a teacher-provided old menu or ad, or compare a public price example: "How much did ___ cost then, and what does it cost now?" Students can bring that example back to the next session and add it to the timeline.
 :::
 
 ---
@@ -357,6 +357,32 @@ Ask students to interview a parent, grandparent, or older relative: "How much di
 - calculating how many items a fixed amount of money can buy at different price levels
 - connecting price changes to the concept of purchasing power
 - thinking about the future when making financial decisions today
+
+---
+
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+
+- explain that prices can go up over time
+- compare a simple "then and now" price example
+- notice that the same amount of money may buy less later
+- use a visual timeline, story, or chart with support
+
+### Ages 10–12: Core path
+
+- explain inflation and purchasing power in their own words
+- compare prices over time using guided charts or examples
+- connect inflation to saving and planning ahead
+- question price claims by asking what changed over time
+
+### Ages 11–13: Optional extension
+
+- try guided inflation calculations or reverse-looking price comparisons
+- compare interest and inflation in simple scenarios over time
+- research older prices using a community source, public example, or supported conversation
+
+Detailed inflation calculations and historical price research should remain guided extension work rather than baseline expectations for every learner.
 
 ---
 
@@ -377,7 +403,7 @@ The Price Timeline activity makes this abstract concept concrete. When a student
 - Use real examples that students can relate to. Candy, pizza, movie tickets, and video games resonate far more than abstract goods.
 - Avoid political or economic debates about inflation. The lesson is about **understanding the concept**, not assigning blame for price changes.
 - Connect all three Economic Systems weeks. Banks → Interest → Inflation form a complete picture: money is stored in systems, it can grow through interest, but inflation means it needs to grow just to keep up.
-- Make the family interview optional but encouraged. When a grandparent says "I used to buy a candy bar for a quarter," inflation becomes real in a way no textbook can replicate.
+- Make the community or family memory activity optional and replaceable. A teacher-provided old menu, flyer, ad, or community example can make inflation just as real without requiring personal sharing.
 - Emphasize that inflation is **normal**. Prices have been rising for centuries. It is not something to fear — it is something to understand and plan for.
 - Revisit the mattress example. "If you just hid money and never saved it in a bank, what would happen over 20 years?" This simple question captures the entire lesson.
 
@@ -393,13 +419,13 @@ This lesson presents inflation at a level appropriate for ages 8–12. In realit
 
 **Ages 8–9:**
 - Focus on concrete comparisons: "A candy bar used to cost $0.25 and now costs $1.50."
-- Use the family interview activity if possible — stories from grandparents make inflation real.
+- Use a community memory, older-person story, or teacher-provided old price example if possible.
 - Skip the calculation challenges — focus on the visual timeline.
 - Ask: "If prices keep going up, what should people do with their savings?"
 - Keep the tone light and curious, not alarming.
 
 **Ages 10–12:**
-- Introduce the calculation challenge: "If prices double every 20 years..."
+- If learners are ready, try the guided calculation challenge: "If prices double every 20 years..."
 - Discuss how inflation connects to interest: saving needs to earn interest to keep up.
 - Challenge them to think about wages: "Do people usually earn more money as time goes on? Why?"
 - Explore the "mattress test": what happens to $100 hidden at home for 30 years?
@@ -431,7 +457,7 @@ By the end of this week, a learner is on track if they can:
 
 ## Reflection Prompt
 
-> *"Ask a parent, grandparent, or older person: 'What did your favorite food cost when you were my age?' Compare their answer to today's price. What does that tell you about money and time?"*
+> *"Ask an older person, use a classroom source, or compare a public old price example: 'What did this item cost then, and what does it cost now?' What does that tell you about money and time?"*
 
 ---
 

@@ -21,6 +21,28 @@ Use it however works best for your setting:
 - As a **group activity** where learners discuss answers together
 - As a **facilitator self-check** — skim the questions and note which topics felt strongest
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+Learners should be able to:
+- explain that different people can value the same item differently
+- sort simple examples into needs and wants with support
+- describe a basic trade using familiar classroom or story examples
+- notice that money helps people trade more easily than barter alone
+
+### Ages 10–12: Core path
+Learners should be able to:
+- explain why barter has limits in larger groups
+- compare needs, wants, and tradeoffs in a household or classroom scenario
+- explain how money works as a shared agreement that helps exchange happen
+- connect value, trade, money, and household choices in their own words
+
+### Ages 11–13: Optional extension
+Learners may also:
+- analyze more complex trade chains or scarcity scenarios
+- compare how the same item shifts between need and want in different contexts
+- explain why trade systems change as communities grow
+
 ---
 
 ## Key Concepts to Check

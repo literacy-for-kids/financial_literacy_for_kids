@@ -15,6 +15,28 @@ description: "A final check-in after Weeks 15–18 covering the capstone project
 
 This checkpoint serves as a **final reflection** on both the capstone project and the full 18-week curriculum. It helps learners see how far they have come and gives facilitators a clear view of what was achieved.
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+Learners should be able to:
+- explain the problem they chose using simple language
+- describe a solution and one thing it helps with
+- name a few resources they would need
+- share one thing they learned about money or value
+
+### Ages 10–12: Core path
+Learners should be able to:
+- explain how their project creates value for someone else
+- build a simple project budget with at least one tradeoff
+- connect the project to earlier lessons such as opportunity cost, budgeting, risk, or inflation
+- present their idea clearly to a group or partner
+
+### Ages 11–13: Optional extension
+Learners may also:
+- create a more detailed capstone budget with assumptions, recurring costs, or pricing choices
+- compare audience needs, project tradeoffs, and different versions of a solution
+- reflect on how systems concepts such as interest, inflation, or risk might affect the project over time
+
 ---
 
 ## Key Concepts to Check
@@ -44,7 +66,7 @@ By the end of Week 18, learners who completed the full project arc should have:
 
 - [ ] **A clear problem statement** — a real frustration or need they observed
 - [ ] **A solution description** — what it is, who it helps, how it works
-- [ ] **A simple project budget** — resources needed and estimated costs within a limit
+- [ ] **A simple project budget** — resources needed and estimated or sample costs within a limit
 - [ ] **A presentation** — a verbal explanation of the problem, solution, and resources
 - [ ] **A reflection** — what they learned and what they would change
 
@@ -85,7 +107,7 @@ The end of the curriculum is worth celebrating. Consider:
 
 - **Certificates:** Print simple completion certificates for each learner
 - **Gallery Walk:** Display project posters or descriptions around the room
-- **Family Showcase:** Invite family members to hear learners present their projects
+- **Family or Community Showcase:** Invite family members, caregivers, or community guests to hear learners present their projects
 - **Letter to Future Learners:** Have each learner write one piece of advice for next year's group
 - **Time Capsule:** Have learners write what they think about money now — seal it and open in a year
 
@@ -95,10 +117,10 @@ The end of the curriculum is worth celebrating. Consider:
 
 Use these resources to support final reflection and review:
 
-- [Glossary](glossary.md) — Review key vocabulary from all 18 weeks
-- [Capstone Planning Guide](resources/capstone-planning-guide.md) — Students can revisit their planning worksheets
-- [Capstone Presentation Guide](resources/capstone-presentation-guide.md) — Presentation tips and peer feedback forms
-- [Facilitator Quick Reference](resources/facilitator-quick-reference.md) — Full curriculum summary on one page
+- [Glossary](/docs/glossary) — Review key vocabulary from all 18 weeks
+- [Capstone Planning Guide](/docs/resources/capstone-planning-guide) — Students can revisit their planning worksheets
+- [Capstone Presentation Guide](/docs/resources/capstone-presentation-guide) — Presentation tips and peer feedback forms
+- [Facilitator Quick Reference](/docs/resources/facilitator-quick-reference) — Full curriculum summary on one page
 
 ---
 

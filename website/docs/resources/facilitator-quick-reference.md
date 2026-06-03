@@ -8,17 +8,23 @@ description: "One-page summary of key facilitation tips, equity guidance, and se
 
 A single-page reference for facilitators running the Financial Literacy for Kids curriculum (ages 8–12).
 
+For privacy-safe discussion language and sensitive-topic guidance, use the [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance).
+
 ---
 
-## Session Structure (Each Session ≈ 45–60 Minutes)
+## Session Structure (Each Session ≈ 20 Minutes)
+
+Each session is designed for about 20 minutes.
+
+Facilitators with longer blocks can combine two sessions, add optional extensions, or spend extra time on reflection and discussion.
 
 | Phase | Time | What Happens |
 |---|---|---|
-| **Warm-Up / Spiral Review** | 5–8 min | Quick review of a concept from a previous week. Use the "Remember from earlier?" prompt in each lesson. |
-| **Introduction** | 5–10 min | Present the new concept. Use the Facilitator Snapshot box at the top of each lesson. |
-| **Main Activity** | 20–25 min | Hands-on activity (games, simulations, discussions). See the lesson's session plan. |
-| **Reflection & Check** | 5–10 min | Use the Check for Understanding and Reflection Prompt sections. |
-| **Preview** | 2–3 min | Brief mention of next week's topic. |
+| **Warm-Up / Spiral Review** | 2–3 min | Quick review of a concept from a previous week. Use the "Remember from earlier?" prompt in each lesson. |
+| **Introduction** | 3–4 min | Present the new concept. Use the Facilitator Snapshot box at the top of each lesson. |
+| **Main Activity** | 10–12 min | Run the core game, simulation, discussion, or modeling task for that session. |
+| **Reflection & Check** | 3–4 min | Use the Check for Understanding and Reflection Prompt sections. |
+| **Preview** | 1–2 min | Brief mention of the next session or one thing to notice before next time. |
 
 ---
 

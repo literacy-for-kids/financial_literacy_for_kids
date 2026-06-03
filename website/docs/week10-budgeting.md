@@ -389,7 +389,7 @@ Students write "$40" at the top and fill in category amounts. They must check th
 **As a visual budget (drawing):**
 Students draw a pie chart or bar graph showing how their $40 is divided. Use colored markers for each category. Display finished budgets for the group to compare.
 
-**For older students:**
+**Guided extension for ages 11–13:**
 Increase the budget to $100 and add more realistic categories (transportation, phone plan, charity). Introduce the idea of "fixed expenses" — costs that do not change — versus "flexible expenses" that the student can adjust.
 :::
 
@@ -451,6 +451,32 @@ Frame the budget not as a restriction but as a **tool for getting what you actua
 
 ---
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+
+- sort money into a few simple categories such as needs, wants, saving, and giving
+- build a short budget with support using play money, gifts, project money, or classroom scenarios
+- explain one tradeoff in plain language
+- understand that a budget is a plan made before spending
+
+### Ages 10–12: Core path
+
+- build and adjust a simple budget using clear categories
+- compare fixed and flexible expenses in realistic scenarios
+- explain why recurring charges belong in a budget when they are introduced
+- use a budget as a tool for slowing down and checking choices
+
+### Ages 11–13: Optional extension
+
+- build a monthly scenario budget with recurring charges, fees, or more detailed assumptions
+- revise a budget after multiple changes
+- compare how different priorities change the budget plan
+
+Monthly scenario budgets and detailed recurring-cost analysis should remain guided extension work, not a baseline requirement for every learner.
+
+---
+
 ## Age Adaptation Notes
 
 **Ages 8–9:**
@@ -463,7 +489,7 @@ Frame the budget not as a restriction but as a **tool for getting what you actua
 **Ages 10–12:**
 - Use more categories and more realistic numbers.
 - Introduce the idea of adjusting a budget when something unexpected happens.
-- Challenge them to create a monthly budget for a fictional teenager or family.
+- Challenge them to create a monthly budget for a fictional teenager, classroom club, or community project.
 - Discuss: "What happens if you go over budget in one category? Where does the extra money come from?"
 - Introduce the idea of tracking spending over time — not just planning, but checking.
 

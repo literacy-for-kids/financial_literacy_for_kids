@@ -9,6 +9,8 @@ description: "Ready-to-use companion materials, printable cards, planning sheets
 
 This page collects all the **ready-to-use companion materials** for the Financial Literacy for Kids curriculum. Every resource is designed to reduce facilitator prep time and make lessons more hands-on and engaging for learners ages 8–12.
 
+For privacy-safe facilitation moves and sensitive-topic guidance, see [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance).
+
 ---
 
 ## How to Use These Resources

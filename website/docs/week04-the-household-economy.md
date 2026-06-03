@@ -96,7 +96,7 @@ By the end of this session, the student can:
 
 Start with an open question:
 
-> "Think about all the things your family uses money for. Can you name a few?"
+> "Think about all the things a household, classroom, or community group might use money for. Can you name a few?"
 
 Let the student brainstorm. They might say things like food, rent, toys, clothes, games, electricity, school supplies, vacations.
 
@@ -447,7 +447,7 @@ By the end of this week, a learner is on track if they can:
 
 ## Reflection Prompt
 
-> *"If your family had to cut one thing from its spending this month, what would be the hardest thing to give up? What would be the easiest? Why?"*
+> *"If a sample household, classroom, or club had to cut one thing from its plan this month, what would be the hardest thing to give up? What would be the easiest? Why?"*
 
 ---
 

@@ -10,13 +10,15 @@ description: "Step-by-step planning worksheets for the Value Creation Project ca
 
 This guide walks you through every step of planning your capstone project. Complete each section in order as you move through Weeks 15–18.
 
+Use school, library, club, neighborhood, classroom, community, or fictional examples if a home-based example feels too personal. Use estimated or sample costs instead of private family financial details.
+
 ---
 
 ## Week 15: Finding a Problem
 
 ### Step 1 — Observe and List
 
-Look around your school, home, or neighborhood. What problems or needs do you notice?
+Look around your school, library, club, neighborhood, or another community space you know. If a home example feels too personal, use a classroom, community, or fictional one.
 
 | # | Problem or Need I Noticed | Who Has This Problem? |
 |---|---|---|
@@ -90,10 +92,12 @@ What resources (materials, time, help) do you need to make your solution?
 
 ### Step 8 — Create a Budget
 
+Use only the rows that fit your age and project. Younger learners can skip the time-value row and focus on materials, help, and other direct costs.
+
 | Category | Amount |
 |---|---|
 | Materials | $ |
-| Time (hours × value per hour) | $ |
+| Time (optional extension: hours × value per hour) | $ |
 | Help from others | $ |
 | Other costs | $ |
 | **Total Cost** | **$** |

@@ -407,7 +407,7 @@ This is also the first week of the Economic Systems unit. Students are shifting 
 - Emphasize that most real banking is digital. The physical play money is a teaching tool, but in practice, banks move numbers, not bills.
 - Avoid getting into banking regulations, fees, or lending details. Those topics come later. This week is about the **fundamental role**: store, track, move.
 - Connect to earlier weeks. In Week 7, students learned that most money is digital. This week, they learn **where** that digital money lives — in bank records.
-- Ask students to notice banks in daily life. "Next time your family pays for something with a card, think about which records are being updated."
+- Ask students to notice banks in daily life. "Next time you see someone pay with a card, think about which records are being updated."
 
 :::info Equity & Family-Context Guidance
 Not all families use traditional banks. Some use credit unions, prepaid cards, check-cashing services, or cash-based systems.

@@ -7,7 +7,7 @@ description: "Take-home handout covering digital payment basics and safety rules
 # Student Handout — Digital Money (Week 7)
 
 :::tip Take This Home
-This handout summarizes what we learned in Week 7. Share it with your family!
+This handout summarizes what we learned in Week 7. Share it at home with a caregiver or trusted adult if you want.
 :::
 
 ---
@@ -20,7 +20,7 @@ Digital money is any way of paying that does **not** use physical cash. Instead 
 
 | Method | How It Works |
 |---|---|
-| **Debit card** | Takes money directly from a bank account right away |
+| **Debit card** | Takes money from an account linked to the card right away |
 | **Credit card** | Lets you buy now and pay later (with interest if you wait too long) |
 | **Mobile payment** | Uses a phone app to pay — like tapping your phone at a store |
 | **Online payment** | Typing in card information or using a service to pay on a website |
@@ -66,15 +66,15 @@ Be suspicious if you see any of these:
 |---|---|
 | **Digital payment** | Paying without physical cash — using cards, phones, or the internet |
 | **Transaction** | Any exchange of money for goods or services |
-| **Debit card** | Card that takes money from your bank account immediately |
+| **Debit card** | Card that takes money from an account linked to the card immediately |
 | **Credit card** | Card that lets you buy now and pay later |
 
 ---
 
 ## Talk About It at Home
 
-Here are some questions to discuss with your family:
+Use these questions with a caregiver or trusted adult if they fit your setting. You can also answer them with a classroom or made-up example.
 
-1. What kinds of digital payments does our family use?
-2. Have you ever seen a suspicious message or website? What happened?
+1. What kinds of digital payments have you seen people use in stores or online?
+2. Have you ever seen a suspicious message or website? What made it seem suspicious?
 3. What should I do if someone online asks for personal information?

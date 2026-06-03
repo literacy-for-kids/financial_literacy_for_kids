@@ -63,7 +63,7 @@ These templates support the classroom bank simulation. Start with the basic ledg
 | 5 | $ | % | $ | $ |
 | 6 | $ | % | $ | $ |
 
-### Comparison Challenge
+### Optional Extension: Comparison Challenge
 
 Fill in this chart to compare what happens at different interest rates:
 
@@ -120,7 +120,7 @@ Use this log when practicing a borrowing scenario.
 
 ### Buying Power Calculator
 
-**Your salary stays the same:** $__________ per year.
+**Your income in the scenario stays the same:** $__________ per year.
 
 | Year | Salary | Price of a Book | How Many Books Can You Buy? |
 |---|---|---|---|
@@ -169,7 +169,7 @@ This template combines deposits, withdrawals, interest, and inflation into one s
 ## Facilitator Notes
 
 - **Week 12:** Use only Template 1 (Basic Ledger). Focus on recording transactions accurately.
-- **Week 13:** Introduce Templates 2 and 3. Start with saving interest, then optionally introduce borrowing interest.
+- **Week 13:** Introduce Templates 2 and 3. Start with saving interest, then optionally introduce borrowing interest. The comparison challenge is extension work.
 - **Week 14:** Use Template 4 to show how inflation reduces buying power. Template 5 can be used as a cumulative capstone for the banking unit.
 - For younger learners (ages 8–9), stick to round numbers and low interest rates (5%, 10%) for easier mental math.
 - Pair struggling learners with a "bank partner" who double-checks calculations.

@@ -336,7 +336,7 @@ Students write "$20" at the top of two columns: "Round 1 (Fast)" and "Round 2 (T
 **As a group discussion (no materials needed):**
 Read the menu aloud. In Round 1, have students shout out quick choices. In Round 2, give quiet thinking time, then go around the room. Compare answers as a class.
 
-**For older students:**
+**Guided extension for ages 11–13:**
 Increase the budget to $50 and add more expensive options ($12 headphones, $15 video game). Add a "monthly subscription" option ($3/month) that looks cheap but adds up — and ask them to calculate the yearly cost.
 :::
 
@@ -402,6 +402,32 @@ The goal is awareness, not fear. Help learners understand that **being aware of 
 
 ---
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+
+- explain that easier spending can lead to faster choices
+- notice when an app, game, ad, or offer is trying to get attention
+- practice one pause strategy with support
+- ask a trusted adult for help before clicking, buying, or sharing information
+
+### Ages 10–12: Core path
+
+- compare high-friction and low-friction spending situations
+- explain how in-app purchases, subscriptions, and ads can influence choices
+- use **Stop, Check, Protect** with money-related digital decisions
+- check claims before trusting an offer, review, or message
+
+### Ages 11–13: Optional extension
+
+- analyze subscription pricing, recurring charges, and persuasive design in more detail
+- compare fake reviews, creator codes, sponsored recommendations, or affiliate-style prompts with guidance
+- calculate how small recurring charges add up over time
+
+Detailed subscription math and deeper persuasive-design analysis should stay optional extension work, not baseline expectations for every learner.
+
+---
+
 ## Age Adaptation Notes
 
 **Ages 8–9:**
@@ -412,7 +438,7 @@ The goal is awareness, not fear. Help learners understand that **being aware of 
 
 **Ages 10–12:**
 - Go deeper into how companies design payment experiences to reduce friction.
-- Discuss real examples: saved credit cards on websites, one-click ordering, auto-renewing subscriptions.
+- Discuss guided examples: saved payment info, one-click ordering, or auto-renewing subscriptions from public, classroom, or teacher-created scenarios.
 - Challenge them: "If a company makes it really easy to buy but really hard to cancel, what does that tell you?"
 - Introduce the concept of "cooling off" — waiting before making a purchase to see if you still want it.
 - Ask them to evaluate: are there times when low friction is genuinely helpful, not just a trick?

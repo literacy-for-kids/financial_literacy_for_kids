@@ -382,7 +382,7 @@ The longer and more detailed students can make their money chains, the deeper th
 - Emphasize that the **same money** moves through many hands. It is not "used up" when spent.
 - Ask "and then what?" repeatedly. Each answer extends the chain.
 - Celebrate long chains. If a student traces money through eight or ten steps, that shows strong systems thinking.
-- Connect back to real life: "Think about money your family spent this week. Where might it be now?"
+- Connect back to everyday life with a privacy-safe example: "Think about money a class, club, store, or fictional household spent this week. Where might it be now?"
 - Strengthen the earning/value thread: emphasize that **every person in the money chain earned their money by doing something useful** — the pizza maker earns by cooking, the farmer earns by growing food, the truck driver earns by delivering goods. Earning is always connected to work, skill, or providing something people need.
 
 ---
@@ -421,13 +421,13 @@ By the end of this week, a learner is on track if they can:
 - **Trace** a simple money chain through at least three or four people
 - **Describe** how money circulates through a community like water through a system
 - **Predict** what would happen if money stopped flowing
-- **Connect** their own purchases to other people's income
+- **Connect** a purchase scenario to other people's income
 
 ---
 
 ## Reflection Prompt
 
-> *"Think about something your family bought recently. Can you trace where that money might have gone next? How many people do you think it helped?"*
+> *"Think about something a household, classroom, or community group bought recently. Can you trace where that money might have gone next? How many people do you think it helped?"*
 
 ---
 

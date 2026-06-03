@@ -21,7 +21,7 @@ Cut apart and have students sort into three piles: **Need**, **Want**, or **It D
 | 🍎 | Groceries for the week |
 | 🏠 | Rent or mortgage payment |
 | 💡 | Electricity bill |
-| 👕 | A basic winter coat |
+| 👕 | Basic weather-appropriate outerwear |
 | 🎮 | A new video game |
 | 🍦 | Ice cream from a shop |
 | 🚌 | Bus pass to get to school |
@@ -33,21 +33,23 @@ Cut apart and have students sort into three piles: **Need**, **Want**, or **It D
 | 💧 | Clean drinking water |
 | 🎂 | A birthday cake |
 | 🧸 | A new toy |
-| 🚗 | Gas for the family car (used to drive to work) |
+| 🚗 | Transportation costs for getting to work or school |
 | 📶 | Internet service |
 | ✈️ | A vacation trip |
-| 🐕 | Dog food (family has a dog) |
+| 🐕 | Pet care (if the household has a pet) |
 | 🎨 | Art class registration |
 
 :::info Facilitator Note
 Many of these cards are deliberately ambiguous. "Internet service" might be a need for a family where a parent works from home, but more of a want for entertainment purposes. Use the discussion to help learners see that **context matters** — the same item can be a need or a want depending on the situation.
+
+Adapt the cards to match local climate, transportation options, and the kinds of household or community examples that fit your learners.
 :::
 
 ---
 
 ## Household Budget Sheet
 
-Print one per student. The scenario: **A family has $100 for the week.** They must decide how to divide it.
+Print one per student. The scenario: **A sample household or community group has $100 for the week.** They must decide how to divide it.
 
 ### My Household Budget
 
@@ -56,7 +58,7 @@ Print one per student. The scenario: **A family has $100 for the week.** They mu
 | 🍎 Food | Groceries for the week | $ ______ |
 | 🏠 Housing | Rent or mortgage portion | $ ______ |
 | 💡 Utilities | Electricity, water, internet | $ ______ |
-| 🚌 Transportation | Gas, bus fare, or car costs | $ ______ |
+| 🚌 Transportation | Bus fare, fuel, or other transportation costs | $ ______ |
 | 💰 Savings | Money set aside for the future | $ ______ |
 | 🎮 Entertainment | Fun activities, games, treats | $ ______ |
 | **Total** | **Must equal $100** | **$ ______** |
@@ -76,10 +78,10 @@ Cut along the lines. Shuffle and draw one at random.
 
 ---
 
-| 🚗 Car Trouble | The family car needs an emergency repair. **Cost: $15** |
+| 🚗 Transportation Trouble | A vehicle or transportation tool needs an urgent repair or replacement part. **Cost: $15** |
 |---|---|
 
-| 🤒 Sick Day | Someone in the family gets sick and needs medicine. **Cost: $8** |
+| 🤒 Sick Day | A needed health item or medicine costs extra this week. **Cost: $8** |
 |---|---|
 
 | 🎒 School Supply Emergency | A required school project needs supplies by tomorrow. **Cost: $6** |
@@ -88,7 +90,7 @@ Cut along the lines. Shuffle and draw one at random.
 | 🌧️ Rainy Day Disaster | A window leak damages some books and clothes. **Cost: $12** |
 |---|---|
 
-| 🐕 Pet Emergency | The family pet needs an unexpected vet visit. **Cost: $10** |
+| 🐕 Pet Emergency | A pet needs an unexpected checkup or supply replacement. **Cost: $10** |
 |---|---|
 
 | 🏠 Appliance Breakdown | The family's toaster breaks and needs replacing. **Cost: $7** |

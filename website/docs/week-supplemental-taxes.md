@@ -41,8 +41,8 @@ Most kids hear adults talk about taxes and absorb only one message — that taxe
 :::info Before You Begin
 - Find a simple, publicly available local government budget. Many city or county websites publish an annual budget summary. A 1-page summary is all you need.
   - If your locality does not have a simple summary available, a quick web search for "[your city] annual budget" or "[your county] where does my tax money go" usually finds a plain-language version.
-- Think of two or three concrete examples of public services the student interacts with regularly: the road in front of your home, the local school, a nearby park or library.
-- Optional: if sales tax applies in your area, recall a recent receipt that showed it — seeing the line item is concrete and memorable.
+- Think of two or three concrete examples of public services the learner interacts with regularly: a nearby road, the local school, a park, a library, or public transit.
+- Optional: if sales tax applies in your area, use a teacher-provided, public, or fictional receipt that shows it — seeing the line item is concrete and memorable.
 :::
 
 :::tip Teaching Mindset
@@ -107,7 +107,7 @@ Introduce the three most common types students are likely to encounter:
 
 Ask:
 
-> "Which of these do you think you or your family probably pays? Can you think of a time you saw a sales tax on a receipt?"
+> "Which of these do you think people in a community might pay most often? Have you ever noticed sales tax on a store sign, a public example, or a sample receipt?"
 
 Keep it brief — you're building vocabulary, not calculating amounts.
 
@@ -158,6 +158,30 @@ A student has understood this session if they can:
 
 ---
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+
+- explain that taxes help pay for shared services
+- name a few community services people use together
+- use the street-light example to explain why communities need shared funding
+
+### Ages 10–12: Core path
+
+- compare income tax, sales tax, and property tax in plain language
+- explain why taxes connect to public goods and community budgets
+- discuss tradeoffs in a public budget without needing political debate
+
+### Ages 11–13: Optional extension
+
+- explore progressive tax or larger budget-category comparisons with guidance
+- compare how different funding choices shift tradeoffs in a sample budget
+- discuss why people may disagree about priorities while still understanding the system
+
+Progressive tax discussions and deeper budget analysis should stay optional extension work.
+
+---
+
 ## Age Adaptation Notes
 
 **For Ages 8–9:**
@@ -167,5 +191,5 @@ A student has understood this session if they can:
 
 **For Ages 10–12:**
 - Extend the budget walk-through: ask the student to find the three largest categories in the budget and estimate what percentage of the total each represents.
-- Introduce the term **progressive tax** (where higher earners pay a higher percentage) as an optional concept: "Why might the system be designed that way?"
+- Introduce the term **progressive tax** (where higher earners pay a higher percentage) as a guided optional concept: "Why might the system be designed that way?"
 - Ask: "What is one service you'd want more funding for, and one you think could be reduced? What would the trade-off be?"

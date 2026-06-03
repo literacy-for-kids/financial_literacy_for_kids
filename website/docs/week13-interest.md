@@ -379,7 +379,7 @@ Students track everything on paper. This version emphasizes the math and pattern
 **As a class chart:**
 Draw one large chart on the board. Track a single saver's balance together, round by round. Students call out the new balance after each interest payment. This works well for younger groups.
 
-**For older students:**
+**Guided extension for ages 11–13:**
 Introduce a twist: instead of a flat $0.50, interest is **10% of the current balance** each round. This creates a curve instead of a straight line — the interest itself starts earning interest. Students will notice that the amount added each round gets bigger. This is a gentle introduction to the concept of compound growth without needing to name it.
 
 | Round | Balance | 10% Interest | New Balance |
@@ -406,6 +406,32 @@ Ask: "Why did the interest amount keep getting bigger each round?" Answer: becau
 
 ---
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+
+- explain that saving can earn extra money and borrowing costs extra money
+- use repeated addition or tokens to show simple growth over time
+- compare spending now with saving for later using familiar examples
+- describe borrowing as a tradeoff without percentage calculations
+
+### Ages 10–12: Core path
+
+- explain how time changes the value of money in saving and borrowing scenarios
+- compare an early saver and a later saver
+- explain why borrowing costs more over time
+- use simple rates with guidance when helpful, without treating advanced growth models as required
+
+### Ages 11–13: Optional extension
+
+- compare flat growth with compound-style growth using guided charts
+- analyze how different rates change outcomes over time
+- question fast-money or borrowing claims more critically
+
+Compound-style growth should remain a guided extension, not a baseline expectation for every learner.
+
+---
+
 ## Facilitator Notes
 
 :::tip Purpose of This Lesson
@@ -416,7 +442,7 @@ This lesson introduces interest at its simplest: **extra money added over time f
 1. **Saving earns.** Money left in a savings account can grow without the saver doing anything extra.
 2. **Borrowing costs.** Getting something now by borrowing means paying more later.
 
-The Money Over Time activity is designed to make growth **visible**. When students watch their balance climb round after round — especially in the compound interest variant — they develop an intuitive feel for why saving early matters.
+The Money Over Time activity is designed to make growth **visible**. When students watch their balance climb round after round — especially in the guided compound-style extension — they develop an intuitive feel for why saving early matters.
 
 The borrowing discussion in Session 2 is equally important. Students should leave understanding that borrowing is not bad — it is a **tradeoff**. Sometimes borrowing makes sense. But it always comes with a cost, and understanding that cost is what allows people to make informed decisions.
 :::
@@ -426,8 +452,8 @@ The borrowing discussion in Session 2 is equally important. Students should leav
 - Keep the numbers simple. $10, $0.50, $100 — round numbers that students can calculate in their heads. The concept matters more than the arithmetic.
 - Let students discover the pattern. Instead of explaining that interest grows money, let them watch it happen through the rounds and ask: "What do you notice?"
 - Compare the early saver and the late saver. This comparison is often the most powerful moment — same amount saved, different results, only because of **when** they started.
-- Avoid the word "compound" unless using the advanced variant. For most 8–12 year olds, the flat interest model is more than sufficient. The advanced variant is there for students who are ready.
-- Connect to real decisions. "If your grandparent gives you birthday money, what might happen if you save it in a bank versus spending it right away?"
+- Avoid the word "compound" unless using the guided extension. For most 8–12 year olds, the flat interest model is more than sufficient. The extension is there for students who are ready.
+- Connect to real decisions. "If someone gives you birthday money or project money, what might happen if you save it in a bank versus spending it right away?"
 - Balance both sides of interest. Do not make saving sound perfect or borrowing sound bad. Both are tools — and understanding when to use each one is the real skill.
 
 :::info Equity & Family-Context Guidance
@@ -442,7 +468,7 @@ Interest and borrowing can be emotionally charged topics. Many families carry de
 ---
 
 :::note Simplified Model Note
-This lesson presents interest at a simplified level appropriate for ages 8–12. In reality, interest rates vary enormously — savings accounts may earn very little, while loans can carry high costs. Compound interest, credit scores, APR, and the difference between simple and compound interest are all important concepts that learners will encounter later. For now, the essential idea is: **time changes the value of money — it can grow when saved, or cost more when borrowed.** If a learner asks about specific rates or credit cards, keep it simple: "Interest rates are different depending on the situation. The most important thing to know now is that saving earns and borrowing costs."
+This lesson presents interest at a simplified level appropriate for ages 8–12. In reality, interest rates vary enormously — savings accounts may earn very little, while loans can carry high costs. Compound interest, credit scores, APR, and the difference between simple and compound interest are all important concepts that learners will encounter later. For now, the essential idea is: **time changes the value of money — it can grow when saved, or cost more when borrowed.** If a learner asks about specific rates or credit cards, keep it simple: "Interest rates are different depending on the situation. The most important thing to know now is that saving earns and borrowing costs." Guided compound-style comparisons can be offered later as an extension.
 :::
 
 ---
@@ -457,7 +483,7 @@ This lesson presents interest at a simplified level appropriate for ages 8–12.
 - Let learners count their play money tokens physically to see growth.
 
 **Ages 10–12:**
-- Introduce the percentage-based model (10% per round) and let them calculate.
+- Keep the flat model as the default. If learners are ready, compare it to a guided percentage-based example.
 - Challenge them to compare an early saver vs. a late saver using a chart.
 - Discuss: "If saving earns money and borrowing costs money, when does it make sense to borrow?"
 - Introduce the idea that different accounts have different interest rates.

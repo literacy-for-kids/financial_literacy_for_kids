@@ -63,7 +63,7 @@ These cards present two versions of the same purchase — one where spending hap
 ### Scenario D: The Subscription
 
 **⚡ Fast Version:**
-> An app offers a "free trial — just enter your card." You sign up and forget about it. Three months later, your family discovers $30 in charges.
+> An app offers a "free trial — just enter your card." You sign up and forget about it. Three months later, the account shows $30 in charges.
 
 **⏸️ Pause Version:**
 > You see the free trial offer. You ask a trusted adult about it first. They help you set a calendar reminder to cancel before the trial ends. You enjoy the free week and cancel on time.

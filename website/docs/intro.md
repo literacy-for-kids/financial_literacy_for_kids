@@ -22,6 +22,8 @@ By the end of the curriculum, learners will understand not just *what* money is 
 - Start with [The Big Idea](#the-big-idea) for the course philosophy.
 - Skim [Course at a Glance](#course-at-a-glance) to see the full program structure.
 - Jump to [What Each Week Includes](#what-each-week-includes) for session format.
+- Use [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance) for privacy-safe discussion support.
+- Check [Standards and Framework Connections](/docs/standards-framework-connections) when mapping lessons to local goals.
 - Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
 :::
 
@@ -36,7 +38,7 @@ This curriculum is designed for **classroom teachers, homeschool families, careg
 
 ## The Big Idea
 
-Many money lessons focus on simple rules like "save your allowance."
+Many money lessons focus on simple rules like "always save first."
 This curriculum takes a different approach.
 
 Instead of teaching **rigid rules**, we focus on helping learners develop:
@@ -62,6 +64,35 @@ This curriculum is built to work in multiple settings:
 | **Caregivers and parents** | No finance background needed. Facilitator notes guide you through every concept. |
 | **After-school clubs** | Self-contained weekly topics. Great for mixed-age groups within the 8–12 range. |
 | **Other learning environments** | Libraries, community centers, tutoring programs — anywhere adults guide young learners. |
+
+---
+
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+Learners should be able to:
+- explain simple money choices using familiar examples
+- sort needs, wants, savings, and giving choices with support
+- talk through tradeoffs using sentence starters
+- notice when an ad, game, app, or offer is trying to get attention
+- ask for help before trusting or acting on a money message
+
+### Ages 10–12: Core path
+Learners should be able to:
+- explain opportunity cost and tradeoffs in their own words
+- compare simple payment methods and spending choices
+- build a simple budget for allowance, project money, gifts, or classroom scenarios
+- recognize subscriptions, in-app purchases, sponsorships, and persuasive design
+- check claims before trusting offers, reviews, or financial messages
+
+### Ages 11–13: Optional extension
+Learners may also:
+- compare recurring charges, fees, and subscriptions in more detail
+- analyze sponsored recommendations, affiliate links, creator codes, and fake reviews
+- explain how interest, inflation, and risk affect choices over time
+- create a more detailed capstone budget with assumptions and tradeoffs
+
+These age bands are there to guide support, not to label learners. The core curriculum remains appropriate for ages 8–12, and older or more experienced learners can use the optional extensions when helpful.
 
 ---
 
@@ -148,7 +179,7 @@ Unit checkpoint pages appear after each major section of the curriculum for ligh
 
 ### Supporting Materials
 
-Use the [Resources Hub](/docs/resources/overview) for printable activity cards, worksheets, student handouts, the curriculum-wide [Glossary](/docs/glossary), and the [Facilitator Quick Reference](/docs/resources/facilitator-quick-reference).
+Use the [Resources Hub](/docs/resources/overview) for printable activity cards, worksheets, student handouts, the curriculum-wide [Glossary](/docs/glossary), the [Facilitator Quick Reference](/docs/resources/facilitator-quick-reference), the [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance), and the [Standards and Framework Connections](/docs/standards-framework-connections).
 
 ---
 

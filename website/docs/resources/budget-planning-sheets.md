@@ -10,11 +10,13 @@ description: "Printable budget worksheets for weekly and special-event planning 
 
 These worksheets guide learners through creating a simple budget. Start with the guided version, then try the open-ended version.
 
+Use classroom, project, gift, earnings, or fictional money if you do not want to use personal examples.
+
 ---
 
 ## Worksheet 1: Guided Weekly Budget
 
-**Scenario:** You receive **$25 per week** for all your spending. Plan how you will use it.
+**Scenario:** You have **$25 available this week** in a classroom or fictional scenario. Plan how you will use it.
 
 ### Step 1 — List your needs first
 
@@ -97,9 +99,9 @@ Brainstorm items, then categorize them as needs or wants.
 
 ---
 
-## Worksheet 3: Open-Ended Personal Budget
+## Worksheet 3: Open-Ended Budget
 
-Create your own budget for any amount and any time period.
+Create your own budget for any amount and any time period. You can use a personal, classroom, project, community, or fictional scenario.
 
 **My budget is for:** ________________________________
 

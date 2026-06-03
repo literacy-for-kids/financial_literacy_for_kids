@@ -7,7 +7,7 @@ description: "Take-home handout about spending friction, consumer protection, an
 # Student Handout — Friction and Smart Spending (Week 8)
 
 :::tip Take This Home
-This handout summarizes what we learned in Week 8. Share it with your family!
+This handout summarizes what we learned in Week 8. Share it at home with a caregiver or trusted adult if you want.
 :::
 
 ---
@@ -86,6 +86,8 @@ A **consumer** is anyone who buys things. Even kids are consumers! Here is how t
 
 ## Talk About It at Home
 
-1. Has anyone in our family ever bought something and regretted it? What happened?
-2. What friction strategies does our family already use?
-3. Can you spot an ad that is trying to remove friction? (Look at your favorite app or website.)
+Only share examples that feel comfortable. You can always use a made-up example instead.
+
+1. Can you think of a time someone bought something too quickly and later changed their mind? What happened?
+2. What friction strategies might a household, class, or club use to slow down before spending?
+3. Can you spot an ad that is trying to remove friction? (Look at a public example, your favorite app, or a website with a trusted adult.)

@@ -150,7 +150,7 @@ Ask:
 
 - "What happened?"
 - "How did it feel when the plan changed?"
-- "What did you or your family do to handle it?"
+- "What could a person, family, classroom, or team do to handle it?"
 
 Let students share their examples. Then connect back:
 
@@ -468,7 +468,7 @@ By the end of this week, a learner is on track if they can:
 
 ## Reflection Prompt
 
-> *"Think about a time something unexpected happened in your family. It does not have to be about money — just something nobody planned for. How did your family handle it? What made it easier or harder?"*
+> *"Think about a time something unexpected happened in a story, a classroom, a team, or a fictional household. It does not have to be about money — just something nobody planned for. How was it handled? What made it easier or harder?"*
 
 ---
 

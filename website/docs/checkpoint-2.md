@@ -21,6 +21,28 @@ Use it however works best:
 - As a **group discussion** comparing ideas
 - As a **facilitator self-check** to gauge readiness for the next unit
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+Learners should be able to:
+- name a few ways people pay for things
+- explain that digital money is real money tracked in a system
+- describe one way paying can feel fast or slow
+- use Stop, Check, Protect when a money message feels unsafe
+
+### Ages 10–12: Core path
+Learners should be able to:
+- compare payment methods and explain tradeoffs between them
+- explain friction in their own words using online or in-person examples
+- recognize that apps, ads, and offers can be designed to encourage fast spending
+- check claims before trusting a digital offer, review, or money message
+
+### Ages 11–13: Optional extension
+Learners may also:
+- analyze subscriptions, auto-renewals, creator codes, and sponsored recommendations in more detail
+- evaluate fake reviews, urgency messages, and persuasive design choices more critically
+- compare monthly and yearly cost patterns in guided scenarios
+
 ---
 
 ## Key Concepts to Check
@@ -87,4 +109,4 @@ After completing this unit, most learners should be able to:
 - The consumer awareness themes from this unit are especially important to reinforce, since they connect directly to budgeting in Unit 3.
 - If learners struggled with the digital money concept, revisit the "bank balance is like a game score" analogy before moving on.
 - Celebrate what they know. By this point, learners understand more about how money works than many adults actively think about.
-- The **digital safety rules** (Stop, Check, Protect) introduced in this unit should be reinforced in every future unit whenever digital topics arise. See the [Digital Safety Scenarios](resources/digital-safety-scenarios.md) for practice cards.
+- The **digital safety rules** (Stop, Check, Protect) introduced in this unit should be reinforced in every future unit whenever digital topics arise. See the [Digital Safety Scenarios](/docs/resources/digital-safety-scenarios) for practice cards.

@@ -15,6 +15,28 @@ description: "A quick check-in after Weeks 9–11 to assess understanding of opp
 
 This checkpoint is a **brief pause** to help facilitators and learners see what concepts stuck and what might need another look before moving into the Economic Systems unit.
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+Learners should be able to:
+- explain that every choice means not choosing something else
+- sort money into a few simple categories such as spend, save, and give
+- describe why saving a little extra can help with surprises
+- adjust a simple plan when a fictional surprise cost appears
+
+### Ages 10–12: Core path
+Learners should be able to:
+- explain opportunity cost and tradeoffs in their own words
+- build a simple budget using classroom, gift, project, or fictional money scenarios
+- explain the difference between regular saving and emergency saving
+- connect budgeting to earlier lessons about friction, ads, and spending choices
+
+### Ages 11–13: Optional extension
+Learners may also:
+- compare recurring charges and subscriptions inside a guided budget scenario
+- explain how one budget decision affects the rest of the plan over time
+- create a more detailed budget with assumptions and revisions
+
 ---
 
 ## Key Concepts to Check
@@ -81,4 +103,4 @@ This unit is the most hands-on so far. Check whether learners can **do** the fol
 
 ## Companion Materials
 
-- [Glossary](glossary.md) — Review key vocabulary from Weeks 9–11
+- [Glossary](/docs/glossary) — Review key vocabulary from Weeks 9–11

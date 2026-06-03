@@ -43,8 +43,8 @@ Emergency or Not? __________ Why? __________________________________
 
 Emergency or Not? __________ Why? __________________________________
 
-### Card 6: Winter Coat
-> Your winter coat zipper broke during a cold week. A new coat costs **$35**.
+### Card 6: Weather Gear
+> Your weather gear broke during a week when you really need it. A replacement costs **$35**.
 
 Emergency or Not? __________ Why? __________________________________
 
@@ -63,8 +63,8 @@ Emergency or Not? __________ Why? __________________________________
 
 Emergency or Not? __________ Why? __________________________________
 
-### Card 10: Medicine
-> You are sick and need medicine that costs **$8**. Your family needs this money right away.
+### Card 10: Needed Health Item
+> You need a health item or medicine that costs **$8** right away.
 
 Emergency or Not? __________ Why? __________________________________
 
@@ -113,9 +113,9 @@ Draw one event card per round. Decide: Do you pay from savings, your emergency f
 | A pet needing to go to the vet | | |
 | Breaking your glasses | | |
 | Your bike getting stolen | | |
-| A big storm damaging your home | | |
+| A big storm damaging a place you rely on daily | | |
 | Needing new shoes because yours wore out | | |
-| A family member's car breaking down | | |
+| A transportation breakdown that affects getting to work or school | | |
 
 ### Discussion
 
@@ -154,3 +154,4 @@ After 6 weeks, answer:
 - There is sometimes no single right answer — some cards can spark genuine debate. Encourage discussion rather than insisting on one answer.
 - The simulation works well in pairs or small groups.
 - For younger learners (ages 8–9), reduce the number of cards and use the simulation with the whole group.
+- Adapt the cards to local climate, transportation access, health access, and community context.

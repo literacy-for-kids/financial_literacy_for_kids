@@ -7,7 +7,7 @@ description: "Take-home handout covering budgeting concepts, the needs-wants-sav
 # Student Handout — Budgeting Basics (Week 10)
 
 :::tip Take This Home
-This handout summarizes what we learned in Week 10. Share it with your family!
+This handout summarizes what we learned in Week 10. Share it at home with a caregiver or trusted adult if you want.
 :::
 
 ---
@@ -85,6 +85,8 @@ Check: Does your total equal $20? ☐ Yes ☐ No
 
 ## Talk About It at Home
 
-1. Does our family use a budget? What does it look like?
-2. What is the difference between a need and a want in our family? (Some things might be different for different families — and that is okay!)
+Only share what feels comfortable. You can use a classroom, club, community, or made-up example instead of a private family example.
+
+1. What might a simple household, classroom, or club budget include?
+2. How can needs and wants look different for different families or groups?
 3. If you had $10 right now, how would you split it between needs, wants, and saving?

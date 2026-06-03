@@ -392,7 +392,7 @@ The Choice Challenge activity is designed to make opportunity cost **concrete an
 - Introduce scenarios with more options and help learners identify the single best alternative they gave up.
 - Discuss time-based opportunity costs: "If you spend Saturday on a video game, what else could you have done?"
 - Challenge them with a scenario where both options have strong benefits — practice the discomfort of choosing.
-- Ask: "Do adults face opportunity costs? Can you think of a big decision where your family had to choose between two good options?"
+- Ask: "Do adults face opportunity costs? Can you think of a big decision where a household, team, or community group had to choose between two good options?"
 
 ---
 

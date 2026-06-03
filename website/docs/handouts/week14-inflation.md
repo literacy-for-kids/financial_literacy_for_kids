@@ -7,7 +7,7 @@ description: "Take-home handout explaining inflation, buying power, and what ris
 # Student Handout — Inflation (Week 14)
 
 :::tip Take This Home
-This handout summarizes what we learned in Week 14. Share it with your family!
+This handout summarizes what we learned in Week 14. Share it at home with a caregiver or trusted adult if you want.
 :::
 
 ---
@@ -49,7 +49,9 @@ Inflation can happen for many reasons. Here are two common ones:
 
 ---
 
-## Inflation and Saving
+## Guided Extension: Inflation and Saving
+
+This comparison is optional extension work for older or ready learners.
 
 Inflation is why **saving money under your mattress** is not always the best plan:
 
@@ -82,9 +84,9 @@ Inflation is why **saving money under your mattress** is not always the best pla
 
 ---
 
-## Try This: Inflation Detective
+## Guided Extension: Inflation Detective
 
-Ask a family member: **"How much did _________ cost when you were my age?"**
+Ask an older person, use a teacher-provided old menu or ad, or compare a public price example: **"How much did _________ cost then?"**
 
 | Item | Price Back Then | Price Now | How Much Did It Change? |
 |---|---|---|---|
@@ -97,8 +99,10 @@ Were you surprised by any of the differences?
 
 ---
 
-## Talk About It at Home
+## Talk About It at Home or With a Trusted Adult
 
-1. Have you noticed any prices going up recently? Which ones?
-2. Why is it important to save money in a way that earns interest?
-3. If inflation is 3% per year, what happens to your piggy bank savings over 10 years?
+Only share what feels comfortable. You can use a public example, a classroom example, or a made-up scenario instead.
+
+1. Have you noticed any prices changing over time? Which ones?
+2. Why can it help to keep savings in a place where they can grow?
+3. What happens if prices keep going up but money stays the same?

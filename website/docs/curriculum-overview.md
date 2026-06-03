@@ -22,6 +22,8 @@ Lessons are intentionally **hands-on, curiosity-driven, and flexible**, allowing
 - Review [Curriculum Overview](#curriculum-overview) for pacing and teaching assumptions.
 - Use [Program at a Glance](#program-at-a-glance) to jump to a specific week quickly.
 - Open [Learning Ladder: How Skills Build Over Time](#learning-ladder-how-skills-build-over-time) to see how the course connects.
+- Use [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance) for privacy-safe facilitation moves.
+- Use [Standards and Framework Connections](/docs/standards-framework-connections) when matching lessons to local goals.
 - Save [Independent Session Setup Tips](#independent-session-setup-tips) for facilitator logistics.
 :::
 
@@ -48,6 +50,33 @@ Session 3 reinforces skills through creative exploration, reflection, and purpos
 
 Across the curriculum, learners are regularly asked to explain what they notice, compare possible choices, judge what works best, and create stronger next versions of their work.
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+Learners should be able to:
+- explain simple money choices using familiar examples
+- sort needs, wants, savings, and giving choices with support
+- talk through tradeoffs using sentence starters
+- notice when an ad, game, app, or offer is trying to get attention
+- ask for help before trusting or acting on a money message
+
+### Ages 10–12: Core path
+Learners should be able to:
+- explain opportunity cost and tradeoffs in their own words
+- compare simple payment methods and spending choices
+- build a simple budget for allowance, project money, gifts, or classroom scenarios
+- recognize subscriptions, in-app purchases, sponsorships, and persuasive design
+- check claims before trusting offers, reviews, or financial messages
+
+### Ages 11–13: Optional extension
+Learners may also:
+- compare recurring charges, fees, and subscriptions in more detail
+- analyze sponsored recommendations, affiliate links, creator codes, and fake reviews
+- explain how interest, inflation, and risk affect choices over time
+- create a more detailed capstone budget with assumptions and tradeoffs
+
+Advanced tasks stay optional. Core expectations should remain achievable in short, guided sessions for ages 8–12.
+
 ### Assessment and Facilitator Support
 
 Every weekly page includes:
@@ -71,6 +100,8 @@ The curriculum includes a library of companion resources:
 - **Student Handouts** — Take-home summaries for Weeks 7, 8, 10, 13, and 14
 - **[Glossary](/docs/glossary)** — Alphabetized, kid-friendly definitions for every key term
 - **[Facilitator Quick Reference](/docs/resources/facilitator-quick-reference)** — One-page guide covering session structure, equity approach, digital safety rules, and vocabulary
+- **[Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance)** — Privacy-safe language, sensitive-topic guidance, and short-session facilitation tips
+- **[Standards and Framework Connections](/docs/standards-framework-connections)** — Framework-level alignment for financial literacy, digital citizenship, and inquiry goals
 
 ### Final Project
 
@@ -101,7 +132,7 @@ The ultimate goal is **confidence and curiosity**, not rushing through content.
 This curriculum is designed to be usable by:
 
 - a **classroom teacher** with 25 students
-- a **homeschool parent** with 1–3 children
+- a **homeschool caregiver** guiding one learner or a small group
 - a **facilitator** with no finance background
 - an **after-school leader** with mixed ages within the 8–12 range
 

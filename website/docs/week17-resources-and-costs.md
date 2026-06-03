@@ -450,7 +450,7 @@ Work through the budget together as a conversation. The facilitator can help the
 **For younger students:**
 Simplify the categories to three: "Things I Need to Buy," "Things I Already Have," and "Time It Takes." Use a smaller budget ($5) and fewer resources. Focus on the concept of choosing between options rather than exact math.
 
-**For older students:**
+**Guided extension for ages 11–13:**
 Add a "revenue" row — if the student could sell their product or charge for their service, how much could they reasonably charge? Compare revenue to costs. Do they "make money" or "lose money"? This introduces the concept of profit without using the term explicitly. Also try different budget amounts ($5, $10, $20) to see how constraints change decisions.
 
 **As a multi-day activity:**
@@ -506,6 +506,32 @@ The goal is the **planning skill**, not the physical materials. A learner who ca
 
 ---
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+
+- identify the main resources a project needs
+- choose between a few simple options in a small budget
+- explain one clear tradeoff
+- use estimates without needing exact prices
+
+### Ages 10–12: Core path
+
+- build a simple project budget using estimated costs
+- separate must-have resources from nice-to-have resources
+- revise a plan when the budget is too small
+- explain budget choices using tradeoffs and priorities
+
+### Ages 11–13: Optional extension
+
+- add revenue, recurring costs, or time-value assumptions with guidance
+- compare multiple budget levels or pricing options
+- defend a more detailed budget using stated assumptions
+
+Detailed pricing and revenue analysis should stay optional extension work, not a baseline requirement for every learner.
+
+---
+
 ## Age Adaptation Notes
 
 **Ages 8–9:**
@@ -517,7 +543,7 @@ The goal is the **planning skill**, not the physical materials. A learner who ca
 
 **Ages 10–12:**
 - Use more realistic resource lists and prices.
-- Add a "revenue" row: if they could sell or charge for their solution, how much?
+- Keep the main focus on costs and tradeoffs. If learners are ready, add a guided "revenue" row as an extension.
 - Challenge them to compare multiple budget amounts ($5 vs. $10 vs. $20) and see how constraints change decisions.
 - Discuss the difference between "nice to have" and "must have" resources.
 - Ask: "What would a real business do if they ran out of budget? Give up, or find creative alternatives?"

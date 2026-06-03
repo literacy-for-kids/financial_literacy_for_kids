@@ -106,7 +106,7 @@ The goal is awareness and confidence, not fear. Learners practice recognizing co
 
 **Discussion:** How much are all three subscriptions costing per month? Per year? What should you do about the ones you are not using?
 
-**Safe choice:** $2.99 × 3 = $8.97 per month. That is almost $108 per year. Cancel subscriptions you are not using. Small monthly charges add up to large amounts over time. Check regularly to see what you (or your family) are still paying for.
+**Safe choice:** $2.99 × 3 = $8.97 per month. That is almost $108 per year. Cancel subscriptions you are not using. Small monthly charges add up to large amounts over time. Check regularly to see what an account, household, or sample scenario is still paying for.
 
 ---
 
@@ -137,7 +137,7 @@ Post this on a wall or keep it in a notebook.
 | Rule | Why It Matters |
 |---|---|
 | **Ask a trusted adult before buying anything online** | Adults can help you decide if a purchase is safe and worth it |
-| **Never share your password** | Passwords protect your accounts and your family's money |
+| **Never share your password** | Passwords protect your accounts and any money tools connected to them |
 | **Do not click links in messages from strangers** | Links can lead to scams or fake websites |
 | **Read the fine print on "free" offers** | Free trials often turn into paid subscriptions |
 | **Remember: digital money is real money** | Tapping "buy" on a screen spends real dollars, even if it does not feel like it |

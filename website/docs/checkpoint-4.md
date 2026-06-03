@@ -15,6 +15,28 @@ description: "A quick check-in after Weeks 12–14 to assess understanding of ba
 
 This checkpoint is a **brief pause** before the capstone project to make sure learners have a solid grasp of how larger economic systems work.
 
+## Age-Banded Learning Goals
+
+### Ages 8–9: Guided foundation
+Learners should be able to:
+- explain that banks keep records of money
+- describe interest as extra money earned from saving or extra money owed from borrowing
+- explain that inflation means prices can rise over time
+- use simple examples to notice that money changes over time
+
+### Ages 10–12: Core path
+Learners should be able to:
+- compare banks, saving, interest, and inflation as connected systems
+- explain how interest and inflation affect choices over time
+- use simple multi-step examples to describe saving growth or changing buying power
+- connect these system ideas to budgeting and planning
+
+### Ages 11–13: Optional extension
+Learners may also:
+- compare simple and compounding growth in guided examples
+- analyze historical price comparisons or timeline math with support
+- discuss why different interest rates or inflation patterns change long-term outcomes
+
 ---
 
 ## Key Concepts to Check
@@ -73,7 +95,7 @@ After completing this unit, most learners should be able to:
 ## Facilitator Notes
 
 - This checkpoint should take **10–15 minutes**.
-- The simplified model notes in Weeks 12–14 are important to reference. These are introductory concepts — learners do not need to understand compound interest, APR, or monetary policy.
+- The simplified model notes in Weeks 12–14 are important to reference. These are introductory concepts. Compound interest, APR, and monetary policy should stay **guided extension topics**, not baseline expectations for every learner.
 - **Digital safety reminder:** Connect banks and online accounts by asking: "What are the **Stop, Check, Protect** rules for banking online?"
 - The bridge to Unit 5: "You now understand how your money works and how the bigger system works. For the last four weeks, you are going to **create something** — using everything you have learned."
 
@@ -81,4 +103,4 @@ After completing this unit, most learners should be able to:
 
 ## Companion Materials
 
-- [Glossary](glossary.md) — Review key vocabulary from Weeks 12–14
+- [Glossary](/docs/glossary) — Review key vocabulary from Weeks 12–14
