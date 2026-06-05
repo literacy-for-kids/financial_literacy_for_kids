@@ -31,8 +31,12 @@ jobs:
         with:
           args: >-
             --root-dir ./website/static
+            --timeout 30
+            --max-retries 3
+            --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
+            --exclude 'https://literacy-for-kids.github.io'
             './README.md'
             './website/docs/**/*.md'
           fail: true
