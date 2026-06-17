@@ -22,6 +22,16 @@ A want is a **feeling, not a command.** It tells you something looks appealing; 
 
 The friction and pause ideas in this curriculum *are* coping skills. They help you slow down enough to compare options, ask questions, wait out a feeling, and bounce back when a money choice doesn't go the way you hoped.
 
+## When this shows up
+
+These tools come in handy in everyday money moments:
+
+- When you really want to buy something right now
+- When a sale makes a choice feel urgent
+- When someone else has something you wish you had
+- When you regret a spending choice you already made
+- When waiting to buy something feels hard
+
 ## Tools that help with money
 
 - **Pause before buying** — a short wait lets the urgency fade so you can think.
