@@ -38,6 +38,10 @@ Students learn that small **pauses** before spending — called financial fricti
 **Core activity:** Present two scenarios (one with friction, one without) and discuss which leads to a better decision. Then have each learner choose one personal friction strategy (15–20 minutes).
 :::
 
+:::tip Coping Skill Moment
+Fast spending skips the pause where good choices happen. When a purchase feels urgent, add your own friction: *"Wanting is real, but it is not a command."* Take one breath and wait before deciding. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

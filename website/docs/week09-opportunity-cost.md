@@ -38,6 +38,10 @@ This is one of the most important ideas in all of financial thinking. Once stude
 **Core activity:** Present three two-option choice cards and have the learner identify the opportunity cost each time (15–20 minutes).
 :::
 
+:::tip Coping Skill Moment
+Every choice means giving something else up, and that "missing out" feeling can be uncomfortable. Notice it, then run a quick check: *What do I actually gain, and what am I really giving up?* A wait-and-check pause helps you weigh the trade-off instead of just chasing the want. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

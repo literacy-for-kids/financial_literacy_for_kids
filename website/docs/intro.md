@@ -14,6 +14,8 @@ This 18-week program is not focused on memorizing rules about money. Instead, it
 
 The goal is for learners to develop **financial confidence and independent decision-making skills** while building healthy habits around money.
 
+Money choices almost always come with feelings — wanting, comparison, and the pressure of a sale. The short [Coping Skills for Money Choices](./coping-skills.md) page introduces simple tools for pausing, waiting, and recovering from disappointment, so those feelings don't make the choice for you.
+
 By the end of the curriculum, learners will understand not just *what* money is — but **how financial systems work and how to figure things out on their own.**
 
 ---

@@ -40,6 +40,10 @@ This is one of the most directly useful skills in the entire curriculum. Student
 **Core activity:** Give each learner $20 (play money or on paper) and ask them to split it into Needs, Wants, and Save categories. Discuss as a group (15–20 minutes).
 :::
 
+:::tip Coping Skill Moment
+A budget sometimes means saying "not right now" to something you want, and that can feel disappointing. Disappointment is a feeling to ride out, not a sign the plan is wrong. Name it, take a breath, and remember the plan is helping you reach something you care about more. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

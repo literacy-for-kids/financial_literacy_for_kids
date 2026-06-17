@@ -40,6 +40,10 @@ Students who understand this idea learn one of the most stabilizing habits in pe
 **Core activity:** Present five emergency sorting cards and have learners debate which are true emergencies and which are not (15–20 minutes).
 :::
 
+:::tip Coping Skill Moment
+Thinking about things going wrong — running out, emergencies, the unexpected — can stir up worry. A little worry is useful; it's what makes planning feel worth it. If the worry gets big, ground yourself with a slow breath and turn it into one useful action: *"What is one small thing I can set aside or plan for today?"* (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

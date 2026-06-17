@@ -10,6 +10,7 @@ const currentSiteHref = 'https://literacy-for-kids.github.io/financial_literacy_
 const sidebars = {
   curriculumSidebar: [
     'intro',
+    'coping-skills',
     {
       type: 'category',
       label: 'Value Foundations',

@@ -39,6 +39,10 @@ This idea becomes the foundation for understanding trade, money, and financial d
 **Core activity:** Run the "Would You Rather?" game from Session 1 and discuss why different people made different choices (15–20 minutes).
 :::
 
+:::tip Coping Skill Moment
+Wanting something can make it feel super valuable in the moment. Try saying: *"Wanting is real, but it is not a command."* Naming the feeling helps you notice the difference between how much you *want* something and how much it's actually worth to you. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin
