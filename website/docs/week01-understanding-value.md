@@ -43,6 +43,10 @@ This idea becomes the foundation for understanding trade, money, and financial d
 Wanting something can make it feel super valuable in the moment. Try saying: *"Wanting is real, but it is not a command."* Naming the feeling helps you notice the difference between how much you *want* something and how much it's actually worth to you. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Value is personal, so explaining *why* something matters to you helps others understand your choice. Try the "because bridge": "This is worth it to me because ___." A clear reason turns "I just want it" into something people can actually talk about with you. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

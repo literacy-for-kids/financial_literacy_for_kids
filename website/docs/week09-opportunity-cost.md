@@ -42,6 +42,10 @@ This is one of the most important ideas in all of financial thinking. Once stude
 Every choice means giving something else up, and that "missing out" feeling can be uncomfortable. Notice it, then run a quick check: *What do I actually gain, and what am I really giving up?* A wait-and-check pause helps you weigh the trade-off instead of just chasing the want. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Explaining a trade-off out loud makes it clearer — for you and anyone deciding with you. Try: "If I spend on ___, I give up ___." Naming both sides of the trade helps a group compare options instead of just arguing about the want. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

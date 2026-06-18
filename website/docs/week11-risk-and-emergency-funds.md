@@ -44,6 +44,10 @@ Students who understand this idea learn one of the most stabilizing habits in pe
 Thinking about things going wrong — running out, emergencies, the unexpected — can stir up worry. A little worry is useful; it's what makes planning feel worth it. If the worry gets big, ground yourself with a slow breath and turn it into one useful action: *"What is one small thing I can set aside or plan for today?"* (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Planning for risk means asking "What could go wrong?" out loud — before it does. With shared money or a group plan, a clear question like "What's our backup if this costs more than we think?" helps everyone prepare together instead of being surprised apart. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

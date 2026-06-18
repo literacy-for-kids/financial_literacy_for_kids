@@ -44,6 +44,10 @@ This is one of the most directly useful skills in the entire curriculum. Student
 A budget sometimes means saying "not right now" to something you want, and that can feel disappointing. Disappointment is a feeling to ride out, not a sign the plan is wrong. Name it, take a breath, and remember the plan is helping you reach something you care about more. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Budgets often involve other people — family, friends, a group fund. Talking about priorities openly helps: "What matters most to us this month?" Listening to what others value, and explaining what you value, turns a budget from a list of "no"s into a shared plan. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin
