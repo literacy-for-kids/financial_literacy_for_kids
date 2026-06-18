@@ -48,10 +48,6 @@ A budget sometimes means saying "not right now" to something you want, and that 
 Budgets often involve other people — family, friends, a group fund. Talking about priorities openly helps: "What matters most to us this month?" Listening to what others value, and explaining what you value, turns a budget from a list of "no"s into a shared plan. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-A budget is a Version 1. After a week, observe what actually happened, then adjust — that's problem solving, not failure. Real budgets get better by trying, watching, and changing. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -89,6 +85,10 @@ In **Week 9**, we learned about **opportunity cost** — the value of the next-b
 *(About 20 Minutes)*
 
 ### What Is a Budget?
+
+:::tip Problem Solving Moment
+A budget is a Version 1. After a week, observe what actually happened, then adjust — that's problem solving, not failure. Real budgets get better by trying, watching, and changing. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 #### Learning Goal
 

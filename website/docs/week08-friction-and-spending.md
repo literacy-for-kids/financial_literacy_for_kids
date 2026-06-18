@@ -46,10 +46,6 @@ Fast spending skips the pause where good choices happen. When a purchase feels u
 A question is its own kind of friction — a good one. Before buying, ask one out loud: "Do I already have something like this?" or "What else could this money do?" Saying the question to a parent or friend slows a fast purchase down enough to think. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-When spending feels stuck, name the constraint: "I want ___, but I only have ___." A clear constraint helps you compare real options instead of just feeling stuck. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -86,6 +82,10 @@ In **Week 7**, we discovered that most money today is digital — just numbers i
 *(About 20 Minutes)*
 
 ### Easy Spending
+
+:::tip Problem Solving Moment
+When spending feels stuck, name the constraint: "I want ___, but I only have ___." A clear constraint helps you compare real options instead of just feeling stuck. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 #### Learning Goal
 

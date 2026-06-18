@@ -48,10 +48,6 @@ Thinking about things going wrong — running out, emergencies, the unexpected �
 Planning for risk means asking "What could go wrong?" out loud — before it does. With shared money or a group plan, a clear question like "What's our backup if this costs more than we think?" helps everyone prepare together instead of being surprised apart. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Worried about an unexpected cost? Try one safe step: set aside a small amount now. A tiny test beats waiting for the perfect plan — and a small fund teaches you how much "what could go wrong" really costs. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -89,6 +85,10 @@ In **Week 10**, we learned that a **budget** is a plan for your money. But what 
 *(About 20 Minutes)*
 
 ### When Plans Change
+
+:::tip Problem Solving Moment
+Worried about an unexpected cost? Try one safe step: set aside a small amount now. A tiny test beats waiting for the perfect plan — and a small fund teaches you how much "what could go wrong" really costs. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 #### Learning Goal
 
