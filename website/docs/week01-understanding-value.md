@@ -47,6 +47,10 @@ Wanting something can make it feel super valuable in the moment. Try saying: *"W
 Value is personal, so explaining *why* something matters to you helps others understand your choice. Try the "because bridge": "This is worth it to me because ___." A clear reason turns "I just want it" into something people can actually talk about with you. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Money choices get clearer when you name the problem: "What am I actually trying to get, and what does it cost me?" Defining value is really defining the problem you're solving. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

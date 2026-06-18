@@ -46,6 +46,10 @@ Every choice means giving something else up, and that "missing out" feeling can 
 Explaining a trade-off out loud makes it clearer — for you and anyone deciding with you. Try: "If I spend on ___, I give up ___." Naming both sides of the trade helps a group compare options instead of just arguing about the want. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Every purchase has a hidden option you gave up. Before deciding, brainstorm at least two other things that money could do — comparing options is how you spot the real opportunity cost. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin
