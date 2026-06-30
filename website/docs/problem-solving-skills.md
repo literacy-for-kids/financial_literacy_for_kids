@@ -10,7 +10,7 @@ slug: /problem-solving-skills
 
 Money problems are often tradeoff problems: you cannot have everything, so you have to choose. Problem solving helps kids name the constraint, compare options, test small habits, and adjust.
 
-This page is the local doorway into the Literacy for Kids [Problem Solving Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving), connected to the money skills this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Problem Solving Toolkit](https://www.literacy-for-kids.com/docs/toolkits/problem-solving), connected to the money skills this curriculum builds.
 
 ## A few core ideas
 
@@ -46,6 +46,6 @@ These are everyday problem-solving tools, not therapy, legal advice, or medical 
 
 The full toolkit has short lessons on naming the problem, sorting facts from guesses, breaking problems into parts, brainstorming options, trying one safe step, observing results, and adjusting:
 
-- [Problem Solving Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving)
+- [Problem Solving Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/problem-solving)
 
-For quick-reference cards, see the hub [Printable Problem Solving Cards](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving/problem-solving-printables).
+For quick-reference cards, see the hub [Printable Problem Solving Cards](https://www.literacy-for-kids.com/docs/toolkits/problem-solving/problem-solving-printables).

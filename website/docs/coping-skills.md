@@ -10,7 +10,7 @@ slug: /coping-skills
 
 This curriculum helps kids make thoughtful choices about earning, saving, spending, and sharing. But money decisions are almost never *just* math — they come bundled with **feelings**: wanting, envy, the sting of missing out, the pressure of a sale, and the disappointment of a mistake.
 
-This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills), connected to the money skills this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://www.literacy-for-kids.com/docs/toolkits/coping-skills), connected to the money skills this curriculum builds.
 
 ## Money choices come with feelings
 
@@ -52,4 +52,4 @@ These are everyday coping and self-management tools, not therapy or medical advi
 
 The full toolkit has short lessons on noticing signals, pausing, grounding, breathing, body resets, checking your thoughts, asking for help, and building a personal coping menu:
 
-- [Coping Skills Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills)
+- [Coping Skills Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/coping-skills)
