@@ -196,6 +196,12 @@ After the practice round, ask:
 
 ## Guided Session 2
 
+:::tip Collaboration Moment
+Sharing value includes sharing credit. When a group project wraps up, name who contributed what — including the planning, checking, and encouraging that is easy to miss. Credit is part of finishing together.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
+
 *(About 20 Minutes)*
 
 ### Value and Trade

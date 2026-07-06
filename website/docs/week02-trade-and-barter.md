@@ -153,6 +153,12 @@ Introduce one new word:
 
 ## Guided Session 2
 
+:::tip Collaboration Moment
+Trading works when both sides feel the deal is fair — and fair is discussed, not guessed. Before a trade, try: "What does each of us actually need from this?" Naming needs out loud beats silent resentment.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
+
 *(About 20 Minutes)*
 
 ### The Barter System

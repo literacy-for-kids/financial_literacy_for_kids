@@ -405,6 +405,12 @@ The longer and more detailed students can make their money chains, the deeper th
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Tracking where money goes is easier with a simple checklist you repeat: what came in, what went out, what is left. A visible tracker beats trying to remember it all.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 1. What happens to the money after you buy something?
 2. How does one person's spending become another person's income?
 3. Can you trace a money chain of at least four steps starting with buying a pizza?

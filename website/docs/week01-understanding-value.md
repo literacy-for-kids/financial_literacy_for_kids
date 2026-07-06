@@ -43,10 +43,6 @@ This idea becomes the foundation for understanding trade, money, and financial d
 Wanting something can make it feel super valuable in the moment. Try saying: *"Wanting is real, but it is not a command."* Naming the feeling helps you notice the difference between how much you *want* something and how much it's actually worth to you. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Value is personal, so explaining *why* something matters to you helps others understand your choice. Try the "because bridge": "This is worth it to me because ___." A clear reason turns "I just want it" into something people can actually talk about with you. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -165,6 +161,10 @@ There are no wrong answers. The point is to notice that **different people choos
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Value is personal, so explaining *why* something matters to you helps others understand your choice. Try the "because bridge": "This is worth it to me because ___." A clear reason turns "I just want it" into something people can actually talk about with you. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 
 *(About 20 Minutes)*
 
@@ -380,6 +380,12 @@ This week builds the mental foundation that everything else in the curriculum de
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Teaching an idea back helps it stick. Try explaining value to someone: "Value means ___, and an example is ___." Where your explanation gets stuck shows what to practice next.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 Use these questions orally or in writing to gauge learning:
 

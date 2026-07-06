@@ -173,6 +173,12 @@ Real savings accounts grow more slowly than our example — actual interest rate
 
 ## Guided Session 2
 
+:::tip Information Organization Moment
+Interest is easier to see in a table than a sentence. One row per year, one column for the amount — suddenly the growth pattern is visible. When numbers change over time, a table or timeline shows what words hide.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
+
 *(About 20 Minutes)*
 
 ### Paying Interest When Borrowing

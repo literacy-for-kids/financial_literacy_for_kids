@@ -71,6 +71,12 @@ Remind students that nearly every successful product or business started as a ro
 
 ## Guided Session 1
 
+:::tip Collaboration Moment
+When a group has limited resources, fairness needs a conversation. Ask: "What is our shared goal, and who needs what to contribute?" Fair does not always mean identical.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
+
 :::note Remember from Earlier?
 In **Week 15**, you identified a real problem you want to solve. This week, you move from the problem to the **solution** — designing what your product or service will look like and how it will work.
 

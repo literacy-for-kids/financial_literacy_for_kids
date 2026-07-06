@@ -42,10 +42,6 @@ Students learn that small **pauses** before spending — called financial fricti
 Fast spending skips the pause where good choices happen. When a purchase feels urgent, add your own friction: *"Wanting is real, but it is not a command."* Take one breath and wait before deciding. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-A question is its own kind of friction — a good one. Before buying, ask one out loud: "Do I already have something like this?" or "What else could this money do?" Saying the question to a parent or friend slows a fast purchase down enough to think. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -165,6 +161,10 @@ Guide students to see: the problem was not that the items were bad. The problem 
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+A question is its own kind of friction — a good one. Before buying, ask one out loud: "Do I already have something like this?" or "What else could this money do?" Saying the question to a parent or friend slows a fast purchase down enough to think. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 
 *(About 20 Minutes)*
 
@@ -458,6 +458,12 @@ Detailed subscription math and deeper persuasive-design analysis should stay opt
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+A purchase you regret is data, not proof you are bad with money. Ask: "What did this teach me about my spending, and what will I try next time?"
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 1. What does "friction" mean when we talk about spending money?
 2. How does paying with cash create more friction than paying with a phone?

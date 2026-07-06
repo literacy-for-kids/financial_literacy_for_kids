@@ -172,6 +172,12 @@ The answer: **not really**. The bank has some cash, but Maya's money is mostly j
 
 ## Guided Session 2
 
+:::tip Information Organization Moment
+Digital money leaves digital records. Knowing where the record lives — a receipt, a history screen, a statement — is an organization skill: the information exists, but only if you can find it again.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
+
 *(About 20 Minutes)*
 
 ### Moving Digital Money

@@ -552,6 +552,12 @@ Detailed pricing and revenue analysis should stay optional extension work, not a
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Listing resources and costs is easier as a checklist. Write each item and its cost in order, then check the list — that way nothing gets missed.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 1. What are "resources"? Name three types of resources someone might need for a project.
 2. Why do creators need to think about costs before building something?
 3. What happens if a project's costs are higher than the budget?

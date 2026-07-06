@@ -439,6 +439,12 @@ The problem each student selects at the end of this week will carry forward into
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Before starting a money project, clear the job: "What problem am I solving, and what does done look like?" A clear job turns a big idea into a first step.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 1. Where do most business ideas come from?
 2. Why is observation an important skill for creating value?
 3. What makes a problem "worth solving"?

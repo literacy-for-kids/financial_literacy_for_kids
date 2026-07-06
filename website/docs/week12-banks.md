@@ -170,6 +170,12 @@ Let students discuss. The point is clear: **accurate recordkeeping is what makes
 
 ## Guided Session 2
 
+:::tip Information Organization Moment
+A bank is partly a giant information organizer: it tracks who deposited what, when, and where it went. A ledger is just sorted, labeled money information — the same move you make when you track a pretend budget.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
+
 *(About 20 Minutes)*
 
 ### Moving Money Between Accounts

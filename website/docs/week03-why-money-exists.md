@@ -397,6 +397,12 @@ This distinction matters because it helps students later understand concepts lik
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+A money task is easier when the job is clear. Instead of "deal with money," name it: "I am comparing two prices," or "I am tracking one week of spending." A clear job has a startable first step.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 1. Why did barter become difficult in larger communities?
 2. What problem did money solve?
 3. Is a dollar bill valuable because of the paper it is made of? If not, why is it valuable?

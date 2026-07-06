@@ -42,10 +42,6 @@ This is one of the most important ideas in all of financial thinking. Once stude
 Every choice means giving something else up, and that "missing out" feeling can be uncomfortable. Notice it, then run a quick check: *What do I actually gain, and what am I really giving up?* A wait-and-check pause helps you weigh the trade-off instead of just chasing the want. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Explaining a trade-off out loud makes it clearer — for you and anyone deciding with you. Try: "If I spend on ___, I give up ___." Naming both sides of the trade helps a group compare options instead of just arguing about the want. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -168,6 +164,10 @@ Let students share their stories. The goal is for them to realize that they alre
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Explaining a trade-off out loud makes it clearer — for you and anyone deciding with you. Try: "If I spend on ___, I give up ___." Naming both sides of the trade helps a group compare options instead of just arguing about the want. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 
 *(About 20 Minutes)*
 
@@ -409,6 +409,12 @@ The Choice Challenge activity is designed to make opportunity cost **concrete an
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+When wants compete, sort them: must, should, could. Choosing what matters now does not mean the others do not matter — it just picks the first move.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 1. What is opportunity cost, in your own words?
 2. If you spend $10 on a book instead of a game, what is the opportunity cost?

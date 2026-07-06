@@ -392,6 +392,12 @@ The key insight is not which method is "best" — it is that the **tool changes 
 
 ## Check for Understanding
 
+:::tip Learning Moment
+Payment words stick better through remembering practice than rereading. Cover the terms, say what each means from memory, then check — and practice the fuzzy ones again.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
+
 1. Name three different ways people can pay for things.
 2. What is the difference between a debit card and a credit card, in simple terms?
 3. If you buy the same item with cash and with a phone payment, does one cost more? Why or why not?

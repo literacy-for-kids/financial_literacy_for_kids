@@ -44,10 +44,6 @@ This is one of the most directly useful skills in the entire curriculum. Student
 A budget sometimes means saying "not right now" to something you want, and that can feel disappointing. Disappointment is a feeling to ride out, not a sign the plan is wrong. Name it, take a breath, and remember the plan is helping you reach something you care about more. (More on the [Coping Skills for Money Choices](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Budgets often involve other people — family, friends, a group fund. Talking about priorities openly helps: "What matters most to us this month?" Listening to what others value, and explaining what you value, turns a budget from a list of "no"s into a shared plan. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -183,6 +179,10 @@ Let students brainstorm. There are no wrong answers — the point is that a budg
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Budgets often involve other people — family, friends, a group fund. Talking about priorities openly helps: "What matters most to us this month?" Listening to what others value, and explaining what you value, turns a budget from a list of "no"s into a shared plan. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 
 *(About 20 Minutes)*
 
@@ -508,6 +508,12 @@ Monthly scenario budgets and detailed recurring-cost analysis should remain guid
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+A budget that did not work is feedback, not failure. Ask: "What did this plan teach me, and what should Version 2 change?" Learning from a plan is how the next one gets better.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 1. What is a budget, and why do people use them?
 2. What is the difference between a fixed expense and a flexible expense?

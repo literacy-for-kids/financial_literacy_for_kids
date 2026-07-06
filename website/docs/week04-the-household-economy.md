@@ -174,6 +174,12 @@ This helps students see that the **basic version** may be a need, but the **upgr
 
 ## Guided Session 2
 
+:::tip Collaboration Moment
+A household is shared work. Fair does not always mean identical — different people carry different loads at different times. What matters is that the loads are visible and discussed, so nobody is quietly crushed or quietly left out.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
+
 *(About 20 Minutes)*
 
 ### Fixed and Flexible Spending

@@ -164,6 +164,12 @@ Ask:
 
 ## Guided Session 2
 
+:::tip Information Organization Moment
+Inflation is a change over time, so organize it that way: the same item, its price then, its price now. A two-column comparison makes a slippery idea concrete.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
+
 *(About 20 Minutes)*
 
 ### Money and Changing Value
