@@ -131,21 +131,9 @@ Use an analogy:
 
 **3. Your Account Is a Record**
 
-Draw a simple bank account on the board:
+Draw a simple bank account on the board, or show this one:
 
-```
-┌──────────────────────────┐
-│  Maya's Bank Account     │
-│                          │
-│  Balance: $150.00        │
-│                          │
-│  Recent:                 │
-│  + $50.00 (allowance)    │
-│  - $12.00 (book)         │
-│  - $8.00  (lunch)        │
-│  + $20.00 (birthday)     │
-└──────────────────────────┘
-```
+![A fictional bank account screen for Maya: a balance of $150 and a list of recent transactions — money in makes the number go up, money out makes it go down](/img/diagrams/bank-account.svg)
 
 Explain:
 

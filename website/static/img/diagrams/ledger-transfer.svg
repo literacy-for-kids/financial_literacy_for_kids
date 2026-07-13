@@ -1,0 +1,40 @@
+<svg viewBox="0 0 860 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ltTitle">
+  <title id="ltTitle">Buying a ten-dollar book with a card: your account record goes from fifty dollars to forty, the store account goes from two hundred to two hundred ten — no physical money moves, only the records change</title>
+  <defs>
+    <marker id="ltA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#ca8a04"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="378" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Where Did the $10 Go?</text>
+  <text x="430" y="66" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">You buy a $10 book with a card. No coins or bills move &#8212; two records change.</text>
+
+  <!-- your account -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <rect x="80" y="105" width="260" height="180" rx="12" fill="#fefce8" stroke="#ca8a04" stroke-width="2.5"/>
+    <text x="210" y="136" font-size="15" font-weight="700" fill="#a16207">YOUR ACCOUNT</text>
+    <text x="210" y="180" font-size="26" font-weight="800" fill="#64748b">$50</text>
+    <text x="210" y="216" font-size="15" fill="#64748b">&#8595;</text>
+    <text x="210" y="252" font-size="26" font-weight="800" fill="#dc2626">$40</text>
+    <text x="210" y="308" font-size="13.5" fill="#dc2626" font-weight="600">went down by $10</text>
+  </g>
+
+  <!-- store account -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <rect x="520" y="105" width="260" height="180" rx="12" fill="#fefce8" stroke="#ca8a04" stroke-width="2.5"/>
+    <text x="650" y="136" font-size="15" font-weight="700" fill="#a16207">STORE&#8217;S ACCOUNT</text>
+    <text x="650" y="180" font-size="26" font-weight="800" fill="#64748b">$200</text>
+    <text x="650" y="216" font-size="15" fill="#64748b">&#8595;</text>
+    <text x="650" y="252" font-size="26" font-weight="800" fill="#16a34a">$210</text>
+    <text x="650" y="308" font-size="13.5" fill="#16a34a" font-weight="600">went up by $10</text>
+  </g>
+
+  <!-- transfer arrow -->
+  <line x1="345" y1="195" x2="512" y2="195" stroke="#ca8a04" stroke-width="4" marker-end="url(#ltA)"/>
+  <rect x="373" y="160" width="115" height="26" rx="13" fill="#ca8a04"/>
+  <text x="430" y="178" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" font-weight="700" fill="#ffffff">$10 moves</text>
+  <text x="430" y="225" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#64748b">from one record</text>
+  <text x="430" y="242" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#64748b">to another</text>
+
+  <text x="430" y="345" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">The money never left the bank&#8217;s computers &#8212; most money is numbers in a system.</text>
+</svg>

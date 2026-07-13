@@ -208,19 +208,9 @@ Let students think about it.
 
 > "The money did not physically move anywhere. The numbers changed. And those numbers are the money."
 
-Draw a simple diagram on the board:
+Draw a simple diagram on the board, or show this one:
 
-```
-Before the purchase:
-  Your account:  $50
-  Store account: $200
-
-You buy a book for $10.
-
-After the purchase:
-  Your account:  $40  (went down by $10)
-  Store account: $210 (went up by $10)
-```
+![Buying a ten-dollar book with a card: your account record goes from fifty dollars to forty, the store account goes from two hundred to two hundred ten — no physical money moves, only the records change](/img/diagrams/ledger-transfer.svg)
 
 Ask:
 

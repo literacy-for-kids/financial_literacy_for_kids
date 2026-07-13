@@ -52,7 +52,9 @@ This is one of the most powerful ideas in finance: **time changes the value of m
   - play money or tokens (optional)
   - a simple chart template with rounds and balances
 - Have a whiteboard or large paper ready for drawing the growth chart as a class.
-- Consider preparing a pre-drawn chart showing money growing over 5–6 rounds so students can see the pattern visually.
+- Consider preparing a pre-drawn chart showing money growing over 5–6 rounds so students can see the pattern visually — or use this one:
+
+![Chart comparing two savers over six rounds: flat interest adds the same amount each round, while percentage interest grows faster and faster](/img/diagrams/interest-growth.svg)
 - Set up a visual timer for sessions.
 :::
 

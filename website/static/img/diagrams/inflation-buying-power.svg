@@ -1,0 +1,37 @@
+<svg viewBox="0 0 860 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ibTitle">
+  <title id="ibTitle">Inflation: this year ten dollars buys a six-dollar book and a four-dollar snack; next year the same items cost twelve dollars, so ten dollars only buys the book — the money did not shrink, but what it buys did</title>
+  <rect x="1" y="1" width="858" height="418" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Same $10 &#8212; What Changed?</text>
+
+  <!-- this year -->
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <rect x="55" y="75" width="360" height="270" rx="12" fill="#f0fdf4" stroke="#16a34a" stroke-width="2.5"/>
+    <text x="235" y="108" text-anchor="middle" font-size="17" font-weight="700" fill="#166534">THIS YEAR</text>
+    <rect x="90" y="130" width="120" height="40" rx="20" fill="#16a34a"/>
+    <text x="150" y="156" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff">$10</text>
+    <text x="235" y="156" text-anchor="middle" font-size="15" fill="#1e293b">buys&#8230;</text>
+    <g font-size="15" fill="#1e293b">
+      <text x="110" y="210">&#128214; book &#8212; $6</text>
+      <text x="110" y="248">&#127871; snack &#8212; $4</text>
+    </g>
+    <text x="235" y="305" text-anchor="middle" font-size="15.5" font-weight="700" fill="#166534">both! &#10003;</text>
+  </g>
+
+  <!-- next year -->
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <rect x="445" y="75" width="360" height="270" rx="12" fill="#fef2f2" stroke="#dc2626" stroke-width="2.5"/>
+    <text x="625" y="108" text-anchor="middle" font-size="17" font-weight="700" fill="#991b1b">NEXT YEAR</text>
+    <rect x="480" y="130" width="120" height="40" rx="20" fill="#dc2626"/>
+    <text x="540" y="156" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff">$10</text>
+    <text x="628" y="156" text-anchor="middle" font-size="15" fill="#1e293b">buys&#8230;</text>
+    <g font-size="15" fill="#1e293b">
+      <text x="500" y="210">&#128214; book &#8212; now $7</text>
+      <text x="500" y="248">&#127871; snack &#8212; now $5</text>
+    </g>
+    <text x="625" y="285" text-anchor="middle" font-size="14" fill="#991b1b">together they cost $12</text>
+    <text x="625" y="310" text-anchor="middle" font-size="15.5" font-weight="700" fill="#991b1b">only the book &#10007;</text>
+  </g>
+
+  <text x="430" y="385" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" fill="#1e293b">You did not lose any money &#8212; you still have $10. But your money <tspan font-weight="700">buys less</tspan> than it used to.</text>
+  <text x="430" y="406" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">That is inflation: prices rising over time.</text>
+</svg>

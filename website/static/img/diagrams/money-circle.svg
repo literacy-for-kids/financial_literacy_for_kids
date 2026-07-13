@@ -1,0 +1,58 @@
+<svg viewBox="0 0 760 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="mcTitle">
+  <title id="mcTitle">Money moves in a circle: a family spends at a store, the store pays its workers, workers spend at businesses, and businesses pay families for their work</title>
+  <defs>
+    <marker id="mcA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#ca8a04"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="758" height="558" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- circle arrows between nodes (clockwise): Family(top) -> Store(right) -> Workers(bottom) -> Businesses(left) -> Family -->
+  <g stroke="#ca8a04" stroke-width="3.5" fill="none">
+    <path d="M475,155 A195,165 0 0 1 585,300" marker-end="url(#mcA)"/>
+    <path d="M585,335 A195,165 0 0 1 475,462" marker-end="url(#mcA)"/>
+    <path d="M285,462 A195,165 0 0 1 175,335" marker-end="url(#mcA)"/>
+    <path d="M175,300 A195,165 0 0 1 285,155" marker-end="url(#mcA)"/>
+  </g>
+
+  <!-- edge labels -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#854d0e" text-anchor="middle">
+    <text x="575" y="205">the family buys</text>
+    <text x="575" y="222">groceries</text>
+    <text x="575" y="425">the store pays</text>
+    <text x="575" y="442">its workers</text>
+    <text x="185" y="425">workers spend at</text>
+    <text x="185" y="442">other businesses</text>
+    <text x="185" y="205">businesses pay</text>
+    <text x="185" y="222">families for work</text>
+  </g>
+
+  <!-- nodes -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <g>
+      <rect x="300" y="95" width="160" height="56" rx="12" fill="#ca8a04"/>
+      <text x="380" y="120" font-size="16" font-weight="700" fill="#ffffff">FAMILY</text>
+      <text x="380" y="140" font-size="12.5" fill="#fef3c7">earns + spends</text>
+    </g>
+    <g>
+      <rect x="530" y="290" width="160" height="56" rx="12" fill="#ca8a04"/>
+      <text x="610" y="315" font-size="16" font-weight="700" fill="#ffffff">STORE</text>
+      <text x="610" y="335" font-size="12.5" fill="#fef3c7">earns + pays workers</text>
+    </g>
+    <g>
+      <rect x="300" y="455" width="160" height="56" rx="12" fill="#ca8a04"/>
+      <text x="380" y="480" font-size="16" font-weight="700" fill="#ffffff">WORKERS</text>
+      <text x="380" y="500" font-size="12.5" fill="#fef3c7">earn + spend</text>
+    </g>
+    <g>
+      <rect x="70" y="290" width="160" height="56" rx="12" fill="#ca8a04"/>
+      <text x="150" y="315" font-size="16" font-weight="700" fill="#ffffff">BUSINESSES</text>
+      <text x="150" y="335" font-size="12.5" fill="#fef3c7">earn + pay families</text>
+    </g>
+  </g>
+
+  <!-- center -->
+  <text x="380" y="295" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="20" font-weight="700" fill="#1e293b">Money Moves in Circles</text>
+  <text x="380" y="320" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">one person&#8217;s spending becomes</text>
+  <text x="380" y="338" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">another person&#8217;s income</text>
+</svg>

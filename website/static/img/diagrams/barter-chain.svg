@@ -1,0 +1,49 @@
+<svg viewBox="0 0 860 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bcTitle">
+  <title id="bcTitle">The barter problem: the farmer wants bread, the baker wants milk, the dairy farmer wants shoes, and the cobbler wants apples — a loop of mismatched wants that money solves</title>
+  <defs>
+    <marker id="bcA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#ca8a04"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="398" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">The Barter Problem</text>
+  <text x="430" y="66" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Everyone wants something&#8230; that someone <tspan font-style="italic">else</tspan> has.</text>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <g>
+      <rect x="40" y="130" width="180" height="90" rx="12" fill="#fefce8" stroke="#ca8a04" stroke-width="2"/>
+      <text x="130" y="160" font-size="15" font-weight="700" fill="#a16207">FARMER</text>
+      <text x="130" y="184" font-size="13" fill="#1e293b">has: apples &#127822;</text>
+      <text x="130" y="204" font-size="13" fill="#1e293b">wants: bread</text>
+    </g>
+    <g>
+      <rect x="250" y="130" width="180" height="90" rx="12" fill="#fefce8" stroke="#ca8a04" stroke-width="2"/>
+      <text x="340" y="160" font-size="15" font-weight="700" fill="#a16207">BAKER</text>
+      <text x="340" y="184" font-size="13" fill="#1e293b">has: bread &#127838;</text>
+      <text x="340" y="204" font-size="13" fill="#1e293b">wants: milk</text>
+    </g>
+    <g>
+      <rect x="460" y="130" width="180" height="90" rx="12" fill="#fefce8" stroke="#ca8a04" stroke-width="2"/>
+      <text x="550" y="160" font-size="15" font-weight="700" fill="#a16207">DAIRY FARMER</text>
+      <text x="550" y="184" font-size="13" fill="#1e293b">has: milk &#129371;</text>
+      <text x="550" y="204" font-size="13" fill="#1e293b">wants: shoes</text>
+    </g>
+    <g>
+      <rect x="670" y="130" width="150" height="90" rx="12" fill="#fefce8" stroke="#ca8a04" stroke-width="2"/>
+      <text x="745" y="160" font-size="15" font-weight="700" fill="#a16207">COBBLER</text>
+      <text x="745" y="184" font-size="13" fill="#1e293b">has: shoes &#128095;</text>
+      <text x="745" y="204" font-size="13" fill="#1e293b">wants: apples!</text>
+    </g>
+  </g>
+
+  <g stroke="#ca8a04" stroke-width="2.5" fill="none">
+    <line x1="220" y1="175" x2="246" y2="175" marker-end="url(#bcA)"/>
+    <line x1="430" y1="175" x2="456" y2="175" marker-end="url(#bcA)"/>
+    <line x1="640" y1="175" x2="666" y2="175" marker-end="url(#bcA)"/>
+    <path d="M745,220 C745,278 130,278 130,224" stroke-dasharray="8 7" marker-end="url(#bcA)"/>
+  </g>
+  <text x="437" y="305" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#a16207">&#8230;and the cobbler wants what the farmer has &#8212; all the way back around!</text>
+
+  <text x="430" y="340" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" font-weight="600" fill="#1e293b">To get one loaf of bread, the farmer needs three trades to line up perfectly.</text>
+  <text x="430" y="366" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Money fixes this: everyone will accept it, so no one has to hunt for a perfect match.</text>
+</svg>

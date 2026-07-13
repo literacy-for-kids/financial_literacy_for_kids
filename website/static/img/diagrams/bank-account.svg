@@ -1,0 +1,40 @@
+<svg viewBox="0 0 860 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="baTitle">
+  <title id="baTitle">A fictional bank account screen for Maya: a balance of 150 dollars and a list of recent transactions — money in makes the number go up, money out makes it go down</title>
+  <rect x="1" y="1" width="858" height="438" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">A Bank Account Is a List of Numbers</text>
+
+  <!-- phone-ish card -->
+  <rect x="250" y="65" width="360" height="330" rx="18" fill="#fefce8" stroke="#ca8a04" stroke-width="3"/>
+  <rect x="250" y="65" width="360" height="64" rx="18" fill="#ca8a04"/>
+  <rect x="250" y="110" width="360" height="19" fill="#ca8a04"/>
+  <text x="430" y="105" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Maya&#8217;s Bank Account</text>
+
+  <text x="285" y="165" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#854d0e">BALANCE</text>
+  <text x="285" y="200" font-family="'Segoe UI', system-ui, sans-serif" font-size="30" font-weight="800" fill="#1e293b">$150.00</text>
+
+  <line x1="285" y1="222" x2="575" y2="222" stroke="#e7d8a1" stroke-width="2"/>
+  <text x="285" y="248" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#854d0e">RECENT</text>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="15">
+    <text x="285" y="278" fill="#1e293b">allowance</text>
+    <text x="575" y="278" fill="#16a34a" text-anchor="end" font-weight="700">+ $50.00</text>
+    <text x="285" y="308" fill="#1e293b">book</text>
+    <text x="575" y="308" fill="#dc2626" text-anchor="end" font-weight="700">&#8722; $12.00</text>
+    <text x="285" y="338" fill="#1e293b">lunch</text>
+    <text x="575" y="338" fill="#dc2626" text-anchor="end" font-weight="700">&#8722; $8.00</text>
+    <text x="285" y="368" fill="#1e293b">birthday money</text>
+    <text x="575" y="368" fill="#16a34a" text-anchor="end" font-weight="700">+ $20.00</text>
+  </g>
+
+  <!-- side notes -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5">
+    <text x="70" y="280" fill="#16a34a" font-weight="700">money in &#8594;</text>
+    <text x="70" y="300" fill="#64748b">the number</text>
+    <text x="70" y="318" fill="#64748b">goes up</text>
+    <text x="648" y="310" fill="#dc2626" font-weight="700">&#8592; money out</text>
+    <text x="648" y="330" fill="#64748b">the number</text>
+    <text x="648" y="348" fill="#64748b">goes down</text>
+  </g>
+
+  <text x="430" y="422" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">The bank&#8217;s computer keeps this record up to date all the time. (Maya is a made-up kid!)</text>
+</svg>

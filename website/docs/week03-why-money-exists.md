@@ -107,14 +107,9 @@ Now tell a short story to make the problem crystal clear:
 
 > "A farmer has apples. She wants bread. She goes to the baker. But the baker does not want apples — the baker wants milk."
 
-Draw it on the board:
+Draw it on the board, or show this diagram:
 
-```
-Farmer (has apples, wants bread)
-  → Baker (has bread, wants milk)
-    → Dairy farmer (has milk, wants shoes)
-      → Cobbler (has shoes, wants... apples!)
-```
+![The barter problem: the farmer wants bread, the baker wants milk, the dairy farmer wants shoes, and the cobbler wants apples — a loop of mismatched wants](/img/diagrams/barter-chain.svg)
 
 Ask:
 

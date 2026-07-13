@@ -140,13 +140,9 @@ Introduce the key concept with a relatable example:
 
 > "The amount of money you have did not change. But what it can **buy** changed. This is called **purchasing power** — it means how much your money is actually worth in terms of real things you can get."
 
-Draw a simple comparison on the board:
+Draw a simple comparison on the board, or show this one:
 
-```
-This Year:    $10 → 📖 Book ($6) + 🍿 Snack ($4) ✅
-Next Year:    $10 → 📖 Book ($7) + 🍿 Snack ($5) = $12 ❌
-              $10 only buys the book now.
-```
+![Inflation: this year ten dollars buys a six-dollar book and a four-dollar snack; next year the same items cost twelve dollars, so ten dollars only buys the book](/img/diagrams/inflation-buying-power.svg)
 
 Ask:
 

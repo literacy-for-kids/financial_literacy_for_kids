@@ -242,15 +242,9 @@ This does not mean people should spend recklessly. It means that **the movement 
 
 **3. The Circle of Money**
 
-Draw a circle on the board with several points around it:
+Draw a circle on the board with several points around it, like this:
 
-```
-    Family
-   ↗      ↘
-Store      Worker
-   ↖      ↙
-    Business
-```
+![Money moves in a circle: a family spends at a store, the store pays its workers, workers spend at businesses, and businesses pay families for their work](/img/diagrams/money-circle.svg)
 
 Explain:
 
