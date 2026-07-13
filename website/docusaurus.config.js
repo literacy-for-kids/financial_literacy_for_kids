@@ -31,6 +31,7 @@ const config = {
 
   onBrokenLinks: 'throw',
   markdown: {
+    mermaid: true,
     hooks: {
       onBrokenMarkdownLinks: 'warn',
     },
@@ -44,7 +45,7 @@ const config = {
     locales: ['en'],
   },
 
-  themes: ['literacy-site-theme'],
+  themes: ['literacy-site-theme', '@docusaurus/theme-mermaid'],
 
   presets: [
     [
