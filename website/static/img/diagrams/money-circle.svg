@@ -16,7 +16,7 @@
   </g>
 
   <!-- edge labels -->
-  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#854d0e" text-anchor="middle">
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#854d0e" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">
     <text x="575" y="205">the family buys</text>
     <text x="575" y="222">groceries</text>
     <text x="575" y="425">the store pays</text>
