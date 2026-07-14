@@ -288,13 +288,9 @@ Each student (or pair of students) picks one item from the list to focus on.
 
 **Step 2: Create a Price Timeline**
 
-Students draw a simple timeline on paper or poster board:
+Students draw a simple timeline on paper or poster board, like this one:
 
-```
-1980s ─────────── 2000s ─────────── Today
-$0.50              $1.50              $4.00
-  🍞                🍞                 🍞
-```
+![A price timeline for the same loaf of bread: about fifty cents in the 1980s, a dollar fifty in the 2000s, and four dollars today](/img/diagrams/bread-price-timeline.svg)
 
 They mark the price at each time period and draw or label the item.
 
