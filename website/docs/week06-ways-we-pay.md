@@ -266,6 +266,28 @@ This is an interesting question. Many students (and adults!) will say it feels d
 
 ---
 
+## Core Practice: A Charge Is Wrong — What Next?
+
+**Time:** 20 minutes; use instead of one payment comparison round. **Goal:** distinguish a billing error, an unwanted purchase, and an unrecognized charge; gather evidence and ask the right adult for help. All cards are fictional. No purchases, calls, real receipts, or account logins are needed.
+
+| Card | Records provided | First step and reason |
+|---|---|---|
+| A: Duplicate charge | A receipt says one notebook, $6. A settled statement lists the same notebook purchase twice at $6 each. | Tell the trusted adult/account holder; compare the receipt and statement, then ask the seller to correct the extra $6. If unresolved, the account holder contacts the payment provider. |
+| B: Changed mind | A $12 puzzle works, but the buyer wants a different one. Fictional shop policy: unused items with receipt may be returned within 14 days for store credit. Purchased 5 days ago, still unused. | Ask an adult to help use this shop's policy; bring the receipt and item. Store credit can be spent at that shop; it is not a cash refund. |
+| C: Unknown payment | The account holder does not recognize a settled $20 charge, and no purchase record explains it. | Tell the account holder promptly; they check securely and contact the bank/card provider using its verified app or number. Do not follow a link in an unexpected message. |
+
+1. Sort A, B, and C: **possible billing error; return request; possibly unauthorized payment**. A strange merchant name alone does not prove fraud; the adult provider can help investigate.
+2. For A, calculate the total listed (**$12**) and the receipt total (**$6**). Draft: "The receipt shows one $6 notebook, but it appears twice. Please review the extra charge."
+3. For B, choose among cash refund, exchange, and store credit. Only **store credit** is offered by this invented policy. What if the puzzle were faulty? Ask an adult to check applicable consumer protections; a change-of-mind policy does not settle every faulty-product issue.
+4. For C, choose the safer contact route: a random message saying "pay a recovery fee" or the provider's verified contact? **Verified contact**, with the account holder. Never give passwords, PINs, or one-time codes to someone who contacts you.
+5. Fill out a pretend help record: date ___; amount ___; what happened ___; evidence ___; requested fix ___; adult/provider contacted ___; response and next follow-up ___. Keep copies securely; avoid publishing financial details.
+
+**Facilitator answer guide:** Do not promise a refund. Returns and payment disputes differ; protections, time limits, and procedures vary by place and payment method. The account holder should seek help promptly and check the applicable process rather than waiting for the seller when a charge may be unauthorized. Learners are practicing asking for help, not managing adult accounts.
+
+**Check:** "Does changing your mind mean a charge is incorrect?" No. "What evidence helps with a duplicate?" Receipt and settled statement. "Who handles an actual card dispute?" The account holder with the provider. **Simplify:** act out a shop request with paper cards. **Extend:** compare two clearly labeled fictional return policies and note their deadlines and refund methods.
+
+**Adult references, checked 2026-10-01:** [FTC: Returns, refunds, and other resolutions](https://consumer.ftc.gov/articles/solving-problems-business-returns-refunds-and-other-resolutions); [CFPB: Disputing a credit-card bill](https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-a-charge-on-my-credit-card-bill-en-61/). The U.S. credit-card process is one example, not a rule for every payment or country.
+
 ## Independent Session
 
 *(About 20 Minutes)*

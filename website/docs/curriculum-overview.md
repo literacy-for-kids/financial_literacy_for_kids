@@ -265,3 +265,7 @@ The curriculum also develops three cross-cutting strands:
 - **Vocabulary and spiral review** — key terms defined in the [Glossary](/docs/glossary) and revisited through weekly "Remember from Earlier?" prompts
 
 Most importantly, they will build **confidence understanding money and making thoughtful financial decisions**.
+
+## Practical Core Skills
+
+Practice [earnings and a fictional pay stub in Week 5](./week05-how-money-moves.md#core-practice-from-work-to-a-paycheck), then [incorrect charges, returns, and safe help routes in Week 6](./week06-ways-we-pay.md#core-practice-a-charge-is-wrong--what-next). Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.

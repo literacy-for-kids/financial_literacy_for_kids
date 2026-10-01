@@ -27,3 +27,12 @@ sidebar_label: Curriculum Map
 | 16 | Designing a Solution | How do I turn a problem into a useful solution? | Solution design | product, service, design, customer | Describe your solution and who it would help | Research a real product that started as someone noticing a frustrating problem |
 | 17 | Resources and Costs | What does it take to turn an idea into reality? | Resource planning | resource, cost, time, materials, budget | What resources does your project need? Which costs the most? | Create a simple budget for your Value Creation Project |
 | 18 | Sharing Value | How do I present my solution and what did I learn? | Synthesis and presentation | value creation, trade, reflection | Explain the problem your solution addresses and how it helps | Present your Value Creation Project to a real audience |
+
+## Practical Core Activities
+
+These activities are integrated into the existing weeks. Use the lesson's suggested substitution or add a meeting; they do not add new curriculum weeks.
+
+| Week | Added core skill | Evidence to collect |
+|---|---|---|
+| 5 | Earnings and pay stubs | Compute gross/deductions/net; check hours with records |
+| 6 | Charges, returns, and help | Distinguish billing error from return; use verified adult help |

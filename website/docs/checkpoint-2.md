@@ -110,3 +110,9 @@ After completing this unit, most learners should be able to:
 - If learners struggled with the digital money concept, revisit the "bank balance is like a game score" analogy before moving on.
 - Celebrate what they know. By this point, learners understand more about how money works than many adults actively think about.
 - The **digital safety rules** (Stop, Check, Protect) introduced in this unit should be reinforced in every future unit whenever digital topics arise. See the [Digital Safety Scenarios](/docs/resources/digital-safety-scenarios) for practice cards.
+
+## Practical Money Check (Weeks 5–6)
+
+- Use [Rowan's fictional pay stub](./week05-how-money-moves.md#core-practice-from-work-to-a-paycheck). Ask which amount is available from the check and why: **$100 net**, after $20 deductions from $120 gross. For the 12-hour discrepancy, identify the time record and payroll contact; corrected net pay is not given.
+- Use the [charge and return cards](./week06-ways-we-pay.md#core-practice-a-charge-is-wrong--what-next). Ask how a duplicate charge differs from changing one's mind. Expected: compare records for a possible error; consult the return policy for a working unwanted item; involve the account holder promptly for an unexplained payment.
+- If needed, reteach with counters and one paper receipt. Assess the safe help route and explanation, not family income, spending experience, or real account access.

@@ -266,6 +266,34 @@ Let the student trace the effects. The goal is to see that **everyone in the cir
 
 ---
 
+## Core Practice: From Work to a Paycheck
+
+**Time:** 20 minutes; use as the guided earning example before Follow the Money. **Goal:** read hours, rate, gross pay, deductions, and net pay. Use only the invented adult-worker example below; do not ask for family pay records or assign children paid work.
+
+People can earn money by providing work or services. Some jobs pay by the hour; others use a salary or other agreement. Not all valuable work is paid, and a person's worth is not their income. A business's sales are not automatically its profit: it also has costs.
+
+A **pay stub** records a pay period's earnings and deductions. **Gross pay** is before deductions; **net pay** is the amount after deductions. Deductions can include tax withholding and agreed benefits. The numbers below are invented, not real tax rates, legal wage rates, or employment advice.
+
+| Fictional adult worker Rowan: one weekly pay period | Amount |
+|---|---:|
+| Hours worked | 10 hours |
+| Agreed hourly rate | $12 per hour |
+| Gross pay: 10 × $12 | $120 |
+| Example tax withholding | $15 |
+| Example benefit deduction | $5 |
+| Total deductions | $20 |
+| Net pay: $120 − $20 | $100 |
+
+1. Circle the hours and rate. Explain how they make gross pay.
+2. Calculate the deductions and net pay. Which amount arrives for this pay period? **$100**. Rowan should not plan to spend the full $120 from this check.
+3. Rowan's time record says **12 hours**, but the stub lists 10. What needs checking? At the same rate, gross pay for 12 hours would be **$144**, $24 more. Deductions and corrected net pay would need recalculating; do not assume they stay $20.
+4. Draft a help request: "My time record shows 12 hours for this period, but my stub shows 10. Could payroll review the hours and explain any correction?" Keep records; use the employer's verified payroll contact. Local rules and deductions vary.
+5. Compare wages with a fictional $8 gift: both can increase money available, but the gift is not payment for hours worked. Do not assume everyone has a wage, allowance, or predictable income.
+
+**Paper worksheet:** Hours ___ × rate ___ = gross ___; deductions ___; net ___; record to check ___; person to ask ___. **Answer guide:** 10 × 12 = 120; 15 + 5 = 20; net 100. The discrepancy needs review, not an accusation. **Simplify:** use 10 counters for gross, remove 2 for deductions, and identify the remaining 8 as net. **Artifact:** the fictional worksheet, not real household information.
+
+**Facilitator reference, checked 2026-10-01:** [CFPB: Examining elements of a paycheck](https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/examining-elements-paycheck/). The lesson simplifies the structure; actual payroll rules vary.
+
 ## Independent Session
 
 *(About 20 Minutes)*
