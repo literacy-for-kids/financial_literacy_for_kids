@@ -58,3 +58,17 @@ All the key words from our curriculum, explained in plain language. Terms are li
 | **Value** | How much something is worth to a person. Value can be different for different people and can change over time. | Week 1 |
 | **Wants** | Things you would like to have but do not need to survive — like toys, games, or treats. | Week 4 |
 | **Withdrawal** | Taking money out of an account. | Week 12 |
+
+## Practical and Optional-Depth Vocabulary
+
+These entries align the worked examples and added practical activities with the core lessons. Optional-module vocabulary is not required for core progression.
+
+| Term | Meaning and limit | Taught in |
+|---|---|---|
+| **Pay stub** | A record of a pay period’s earnings and deductions, including amounts before and after deductions. | Week 5 |
+| **Gross pay** | Pay before deductions; hourly examples use hours × agreed rate. | Week 5 |
+| **Deduction** | An amount subtracted from gross pay, such as applicable withholding or an agreed benefit; actual rules vary. | Week 5 |
+| **Net pay** | Gross pay minus deductions: the amount received from that pay period. | Week 5 |
+| **Billing error** | A possible mistake in a charge or account record, such as a duplicate, needing records and the applicable provider process. | Week 6 |
+| **Refund and store credit** | A refund returns money through an applicable process; store credit is value to use at that seller. Neither is guaranteed for every return. | Week 6 |
+| **Return policy** | A seller’s stated conditions for returns; it does not resolve every legal protection or faulty-product issue. | Week 6 |

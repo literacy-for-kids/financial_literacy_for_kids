@@ -269,3 +269,7 @@ Most importantly, they will build **confidence understanding money and making th
 ## Practical Core Skills
 
 Practice [earnings and a fictional pay stub in Week 5](./week05-how-money-moves.md#core-practice-from-work-to-a-paycheck), then [incorrect charges, returns, and safe help routes in Week 6](./week06-ways-we-pay.md#core-practice-a-charge-is-wrong--what-next). Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.
+
+## Worked Examples and Optional Depth
+
+Use the [supplied weekly practice cards](./worked-examples-and-optional-depth.md) for fictional scenarios, illustrative responses, and one bounded depth question for each core week. Allow about 15–20 minutes per selected card after its core teaching. Depth is optional and does not change checkpoint requirements. Suggestions that require the adult to locate or construct missing sources, tool activities, interview records, or real-case materials are **open research prompts**, which need preparation and verification; use a supplied card when that preparation is unavailable. Assess evidence, reasoning, and limits, with oral, drawn, or written responses.

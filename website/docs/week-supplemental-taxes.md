@@ -36,6 +36,24 @@ Most kids hear adults talk about taxes and absorb only one message — that taxe
 **Core activity:** Name 5 things in your community that taxes paid for (roads, schools, fire department, parks, libraries). Ask: "Who paid for that?" and "What would happen if no one did?" (10 minutes)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Week 14: money systems, budgeting, and the difference between an example and local rules.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — A supplied fictional public budget:** A fictional town collects 100 budget units in taxes and 20 in service fees. Spending is roads 30, school 40, library 15, fire service 25, parks 10. Total the funding and spending; identify which amounts are tax funding and which are fees.
+
+**Illustrative response and reasoning:** Funding is 120 units and spending is 120. The table illustrates shared-service allocation; taxes are not necessarily a service’s only funding source. It is not a real local budget or tax schedule. Services also need effective, fair delivery; collecting money does not guarantee it.
+
+**Optional depth question:** Reallocate 5 units and explain who might be affected. Optional local-budget research must identify year, jurisdiction, units, revenue types, and source before comparing; it is not required for the supplied paper case.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Facilitator Preparation
 
 :::info Before You Begin
